@@ -214,6 +214,44 @@
       "source": "User-provided serving volume and current ABV; calories estimated because recipe/final gravity nutrition is not yet available.",
       "estimated": true,
       "notes": "Current beer in home-brew fridge. ABV is batch-specific and can change. Update this entry when the keg/batch changes. One home brew means one 285 mL pot unless user specifies otherwise."
+    },
+    {
+      "id": "genetix_hydration_x_lemon_splash",
+      "name": "Genetix Hydration X - Lemon Splash",
+      "aliases": [
+        "hydration x",
+        "electrolytes",
+        "electrolyte drink",
+        "daily electrolytes",
+        "Genetix hydration"
+      ],
+      "serving": {
+        "description": "1 level scoop",
+        "weight_g": 14.5
+      },
+      "nutrition_per_serving": {
+        "calories_kcal": 24,
+        "protein_g": "<1",
+        "fat_g": "<1",
+        "carbohydrate_g": 5.8,
+        "sugars_g": "<1",
+        "sodium_mg": 601,
+        "chloride_mg": 647,
+        "potassium_mg": 202,
+        "magnesium_mg": 80
+      },
+      "composition_per_serving": {
+        "taurine_mg": 1500,
+        "himalayan_salt_mg": 1047,
+        "sodium_citrate_mg": 843,
+        "magnesium_malate_mg": 720,
+        "potassium_citrate_mg": 545,
+        "coconut_water_powder_mg": 500,
+        "senactiv_mg": 50
+      },
+      "source": "Product nutrition label supplied by user",
+      "estimated": false,
+      "notes": "User generally aims for one serve per day. Do not automatically log it; only count when user confirms consumption. Water used to mix it can count toward plain/fluid hydration volume when known."
     }
   ]
 }
