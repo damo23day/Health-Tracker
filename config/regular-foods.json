@@ -15,6 +15,32 @@
         "my coffee",
         "standard coffee"
       ]
+    },
+    {
+      "id": "grains_seeds_original_bread",
+      "name": "Grains & Seeds Original Bread",
+      "aliases": [
+        "our bread",
+        "usual bread",
+        "standard toast"
+      ],
+      "serving": {
+        "slices": 2,
+        "weight_g": 73
+      },
+      "nutrition_per_serving": {
+        "calories_kcal": 183,
+        "protein_g": 8.8,
+        "carbohydrate_g": 27.6,
+        "fat_g": 3.1,
+        "saturated_fat_g": 0.7,
+        "sugars_g": 2,
+        "fibre_g": 4.5,
+        "sodium_mg": 232
+      },
+      "source": "Product nutrition label supplied by user",
+      "estimated": false,
+      "notes": "Standard household bread. One serving is 2 slices (~73 g)."
     }
   ]
 }
