@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-27",
+  "workout": "A",
+  "status": "planned",
+  "context": "Planned for evening after a morning 45-minute RPM session.",
+  "modifications": "Re-entry session. Keep loads light/moderate, 2 sets each, 3-4 reps in reserve. If morning RPM leaves significant fatigue, reduce or skip leg press.",
+  "exercises": [
+    {
+      "exercise": "Machine chest press",
+      "planned_sets": 2,
+      "planned_reps": "10-12",
+      "weight": null,
+      "reps_by_set": [],
+      "completed": false,
+      "notes": null
+    },
+    {
+      "exercise": "Cable fly",
+      "planned_sets": 2,
+      "planned_reps": "10-12",
+      "weight": null,
+      "reps_by_set": [],
+      "completed": false,
+      "notes": null
+    },
+    {
+      "exercise": "Cable biceps curl",
+      "planned_sets": 2,
+      "planned_reps": "10-12",
+      "weight": null,
+      "reps_by_set": [],
+      "completed": false,
+      "notes": null
+    },
+    {
+      "exercise": "Rope triceps press-down",
+      "planned_sets": 2,
+      "planned_reps": "10-12",
+      "weight": null,
+      "reps_by_set": [],
+      "completed": false,
+      "notes": null
+    },
+    {
+      "exercise": "Leg press",
+      "planned_sets": 2,
+      "planned_reps": "10",
+      "weight": null,
+      "reps_by_set": [],
+      "completed": false,
+      "notes": null
+    },
+    {
+      "exercise": "Dead bug",
+      "planned_sets": 2,
+      "planned_reps": "6-8/side",
+      "weight": null,
+      "reps_by_set": [],
+      "completed": false,
+      "notes": null
+    },
+    {
+      "exercise": "Pallof press",
+      "planned_sets": 2,
+      "planned_reps": "8-10/side",
+      "weight": null,
+      "reps_by_set": [],
+      "completed": false,
+      "notes": null
+    }
+  ]
+}
