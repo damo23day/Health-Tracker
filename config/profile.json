@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "age": 42,
+  "height_cm": 185,
+  "starting_weight_kg": 96.8,
+  "goal_weight_kg": {
+    "min": 85,
+    "max": 86
+  },
+  "milestone_weight_kg": 90,
+  "phase": "pre_december_2026_fat_loss",
+  "weekly_structured_exercise_target": 4,
+  "planned_training": {
+    "rpm_sessions": 2,
+    "strength_sessions": 2
+  },
+  "daily_calorie_target": null,
+  "daily_protein_target_g": null,
+  "weekly_calorie_budget": null,
+  "notes": "Nutrition targets pending initial calculation and calibration."
+}
