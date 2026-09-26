@@ -21,9 +21,19 @@
     "quality": null
   },
   "nutrition": {
-    "entries": [],
-    "total_calories_kcal": 0,
-    "total_protein_g": 0,
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Standard home full-cream milk coffee",
+        "quantity": 2,
+        "serving_description": "Finished drink ~176 g each in home latte glass; working estimate ~150 mL full-cream milk plus espresso/foam per coffee",
+        "calories_kcal": 200,
+        "protein_g": 10,
+        "estimated": true
+      }
+    ],
+    "total_calories_kcal": 200,
+    "total_protein_g": 10,
     "water_ml": null
   },
   "exercise": [],
@@ -38,9 +48,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": null,
+    "calorie_variance_kcal": 1950,
     "protein_target_g": 150,
-    "protein_variance_g": null,
+    "protein_variance_g": 140,
     "notes": "Day 1"
   }
 }
