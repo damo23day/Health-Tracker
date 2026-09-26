@@ -92,5 +92,40 @@
     "protein_target_g": 150,
     "protein_variance_g": 118.4,
     "notes": "Day 1"
+  },
+  "body_measurements": {
+    "source": "Anko iF1012D scale via MovingLife app",
+    "measurement_context": "Day 1 baseline; taken after breakfast and two home coffees, so not a fasted morning measurement.",
+    "weight_kg": 96.75,
+    "bmi": 29.9,
+    "body_fat_percent": 29.3,
+    "body_water_percent": 50.1,
+    "skeletal_muscle_percent": 44.8,
+    "bone_percent": 3.7,
+    "inorganic_salt_kg": 3.5,
+    "protein_percent": 16.9,
+    "muscle_percent": 67,
+    "muscle_reserve_capacity": 2,
+    "visceral_fat_index": 13,
+    "subcutaneous_fat_kg": 25.4,
+    "lean_body_mass_kg": 68.4,
+    "body_age": 44,
+    "body_score": 66,
+    "app_classifications": {
+      "weight": "High",
+      "bmi": "High",
+      "body_fat": "Over",
+      "body_water": "Standard",
+      "skeletal_muscle": "Standard",
+      "bone": "Excellent",
+      "inorganic_salt": "Standard",
+      "protein": "Standard",
+      "muscle": "Low",
+      "muscle_reserve_capacity": "Low",
+      "visceral_fat_index": "High",
+      "subcutaneous_fat": "High",
+      "lean_body_mass": "Over"
+    },
+    "interpretation_note": "Weight is the primary measurement. BIA-derived composition metrics are retained mainly for trend comparison and should be compared under similar measurement conditions."
   }
 }
