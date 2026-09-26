@@ -166,7 +166,53 @@
       "RPE_or_RIR",
       "neck_headache_response",
       "next_day_soreness",
-      "notes"
+      "notes",
+      "post_workout_feedback",
+      "next_day_recovery",
+      "pre_next_workout_readiness"
     ]
+  },
+  "feedback_workflow": {
+    "post_workout": {
+      "timing": "Immediately or later the same day",
+      "fields": [
+        "overall_feeling",
+        "difficulty",
+        "energy",
+        "enjoyment",
+        "exercise_comments",
+        "pain_or_symptoms",
+        "neck_headache_response",
+        "what_felt_good",
+        "what_to_change_next_time",
+        "free_comment"
+      ]
+    },
+    "next_day_recovery": {
+      "timing": "Approximately the following day",
+      "fields": [
+        "overall_recovery",
+        "soreness_areas",
+        "soreness_0_to_10",
+        "fatigue_0_to_10",
+        "neck_headache_response",
+        "pain_or_symptoms",
+        "mobility_or_stiffness",
+        "free_comment"
+      ]
+    },
+    "pre_workout_readiness": {
+      "timing": "Before the next strength workout",
+      "fields": [
+        "still_sore_areas",
+        "soreness_0_to_10",
+        "energy_0_to_10",
+        "neck_headache_response",
+        "pain_or_symptoms",
+        "readiness_notes",
+        "session_adjustments"
+      ]
+    },
+    "coaching_rule": "Review the previous session, post-workout feedback, next-day recovery and current readiness before prescribing the next workout. Adjust exercise selection, sets, reps or load when warranted."
   }
 }
