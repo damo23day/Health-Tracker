@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "standard_home_coffee",
+      "name": "Standard home full-cream milk coffee",
+      "finished_weight_g": 176,
+      "estimated_full_cream_milk_ml": 150,
+      "calories_kcal": 100,
+      "protein_g": 5,
+      "estimated": true,
+      "notes": "Home latte glass. Includes espresso and a small foam head. Takeaway coffees are logged separately by stated size/source."
+    }
+  ]
+}
