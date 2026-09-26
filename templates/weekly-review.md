@@ -4,7 +4,15 @@
 - Weight:
 - Change:
 - Waist:
+- Body fat % (scale trend):
+- Muscle mass (scale trend):
+- Visceral fat (scale trend):
+- Body water % (scale trend):
+- Other body-composition readings:
 - Progress photos: front / side / back
+- Measurement conditions/notes:
+
+> Body-composition values from the Anko iF1012D bioimpedance scale are used as trend indicators rather than exact measurements. Compare readings under similar conditions where practical.
 
 ## Nutrition
 - Average daily calories:
