@@ -70,9 +70,18 @@
         "protein_g": 21.6,
         "estimated": true,
         "notes": "Nuttelex and chilli quantities are working estimates; product nutrition values are label-based."
+      },
+      {
+        "type": "drink",
+        "name": "Genetix Hydration X",
+        "regular_food_id": "genetix_hydration_x_lemon_splash",
+        "quantity": "1 level scoop (14.5 g) in 750 mL water",
+        "calories_kcal": 24,
+        "protein_g": 0,
+        "estimated": false
       }
     ],
-    "total_calories_kcal": 603,
+    "total_calories_kcal": 627,
     "total_protein_g": 31.6,
     "water_ml": null
   },
@@ -88,7 +97,7 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1547,
+    "calorie_variance_kcal": 1523,
     "protein_target_g": 150,
     "protein_variance_g": 118.4,
     "notes": "Day 1"
@@ -127,5 +136,17 @@
       "lean_body_mass": "Over"
     },
     "interpretation_note": "Weight is the primary measurement. BIA-derived composition metrics are retained mainly for trend comparison and should be compared under similar measurement conditions."
+  },
+  "hydration": {
+    "entries": [
+      {
+        "description": "1 standard drink bottle with Genetix Hydration X",
+        "water_ml": 750,
+        "regular_food_id": "genetix_hydration_x_lemon_splash",
+        "servings": 1,
+        "calories_kcal": 24
+      }
+    ],
+    "total_water_ml": 750
   }
 }
