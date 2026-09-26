@@ -223,7 +223,9 @@
         "electrolytes",
         "electrolyte drink",
         "daily electrolytes",
-        "Genetix hydration"
+        "Genetix hydration",
+        "drink bottle with Hydration X",
+        "drink bottle with electrolytes"
       ],
       "serving": {
         "description": "1 level scoop",
@@ -254,8 +256,20 @@
       "notes": "User generally aims for one serve per day. Standard preparation is 1 level scoop in a 750 mL drink bottle with a little ice. Do not automatically log it; only count when user confirms consumption. When confirmed, count 750 mL toward daily water/hydration unless user says preparation differed.",
       "preparation": {
         "water_ml": 750,
+        "container": "standard drink bottle",
         "ice": "small amount on top"
       }
     }
-  ]
+  ],
+  "household_defaults": {
+    "drink_bottle": {
+      "volume_ml": 750,
+      "aliases": [
+        "drink bottle",
+        "one drink bottle",
+        "bottle of water"
+      ],
+      "notes": "One standard drink bottle means 750 mL fluid. If user says drink bottle with Hydration X/electrolytes, log 750 mL water plus one standard scoop of Genetix Hydration X. If another additive such as Hydralyte is specified, log the 750 mL water plus that product separately."
+    }
+  }
 }
