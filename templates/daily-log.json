@@ -2,7 +2,17 @@
   "date": "YYYY-MM-DD",
   "measurements": {
     "weight_kg": null,
-    "waist_cm": null
+    "waist_cm": null,
+    "body_composition": {
+      "body_fat_percent": null,
+      "muscle_mass_kg": null,
+      "visceral_fat": null,
+      "body_water_percent": null,
+      "bmi": null,
+      "other": {},
+      "source": "Anko iF1012D",
+      "trend_only": true
+    }
   },
   "sleep": {
     "hours": null,
