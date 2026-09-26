@@ -46,9 +46,16 @@
   "exercise": [
     {
       "activity": "RPM",
-      "duration_minutes": 45,
-      "status": "planned",
-      "notes": "User is about to start session; mark completed only after confirmation."
+      "duration_minutes": 52.3167,
+      "status": "completed",
+      "notes": "Completed Group Cycle / RPM session; metrics from Group Cycle Connect screenshots.",
+      "distance_km": 22.7,
+      "calories_reported": 661,
+      "moves": 1198,
+      "average_power_w": 166,
+      "max_power_w": 389,
+      "average_cadence_rpm": 73,
+      "performance_record": "data/exercise/rpm-workouts.json"
     }
   ],
   "activity": {
