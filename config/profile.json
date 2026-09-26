@@ -22,8 +22,19 @@
     "weight_increment_g": 50,
     "guidance": "Use weight as a primary measurement. Store bioimpedance body-composition values as trend indicators; compare under similar conditions."
   },
-  "daily_calorie_target": null,
-  "daily_protein_target_g": null,
-  "weekly_calorie_budget": null,
-  "notes": "Nutrition targets pending initial calculation and calibration."
+  "daily_calorie_target": 2150,
+  "daily_protein_target_g": 150,
+  "weekly_calorie_budget": 15050,
+  "notes": "Initial nutrition targets established for the pre-December 2026 fat-loss phase. Targets are starting estimates and should be calibrated against real-world trends.",
+  "estimated_bmr_kcal": 1919,
+  "estimated_maintenance_kcal": {
+    "min": 2750,
+    "max": 2850
+  },
+  "target_strategy": {
+    "type": "hybrid",
+    "exercise_calories": "Do not automatically eat back exercise calories; consider additional intake for unusually high activity.",
+    "calibration": "Review actual weight, waist, hunger, energy and training trends over 2–4 weeks and adjust if required.",
+    "target_status": "initial_calibrating"
+  }
 }
