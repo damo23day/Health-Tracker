@@ -1,0 +1,172 @@
+{
+  "program_name": "Strength Re-entry – Phase 1",
+  "version": "1.0",
+  "start_date": "2026-09-27",
+  "goal": "Reintroduce resistance training with an upper-body emphasis while retaining some leg and core work, building consistency without excessive soreness.",
+  "schedule": {
+    "strength_sessions_per_week": 2,
+    "rpm_sessions_per_week": 2,
+    "phase_length_weeks": 2
+  },
+  "effort": {
+    "target_rir": "3-4 reps in reserve",
+    "guidance": "Finish every set with good form and well before failure. First two weeks should feel deliberately conservative."
+  },
+  "safety": {
+    "neck_c6_context": true,
+    "notes": [
+      "Keep neck neutral and shoulders relaxed.",
+      "Avoid heavy overhead pressing and shrugging during Phase 1.",
+      "Stop an exercise if it provokes radiating arm pain, numbness/tingling, weakness or clearly worsens neck-related headache symptoms."
+    ]
+  },
+  "workouts": {
+    "A": {
+      "name": "Upper Push + Arms + Core",
+      "exercises": [
+        {
+          "name": "Machine chest press",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Dumbbell bench press with neutral grip",
+            "Cable chest press"
+          ]
+        },
+        {
+          "name": "Cable fly",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Pec deck",
+            "Light dumbbell fly if comfortable"
+          ]
+        },
+        {
+          "name": "Cable biceps curl",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Machine preacher curl",
+            "Seated dumbbell curl"
+          ]
+        },
+        {
+          "name": "Rope triceps press-down",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Straight-bar press-down",
+            "Single-arm cable press-down"
+          ]
+        },
+        {
+          "name": "Leg press",
+          "sets": 2,
+          "reps": "10",
+          "alternatives": [
+            "Goblet squat",
+            "Bodyweight box squat"
+          ]
+        },
+        {
+          "name": "Dead bug",
+          "sets": 2,
+          "reps": "6-8/side",
+          "alternatives": [
+            "Heel taps"
+          ]
+        },
+        {
+          "name": "Pallof press",
+          "sets": 2,
+          "reps": "8-10/side",
+          "alternatives": [
+            "Cable anti-rotation hold"
+          ]
+        }
+      ]
+    },
+    "B": {
+      "name": "Back + Arms + Core",
+      "exercises": [
+        {
+          "name": "Seated cable row",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Chest-supported machine row",
+            "Chest-supported dumbbell row"
+          ]
+        },
+        {
+          "name": "Lat pulldown – comfortable grip",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Neutral-grip pulldown",
+            "Assisted pull-up if comfortable"
+          ]
+        },
+        {
+          "name": "Machine chest press",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Cable chest press",
+            "Neutral-grip dumbbell bench press"
+          ]
+        },
+        {
+          "name": "Hammer curl",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Cable rope hammer curl",
+            "Machine curl"
+          ]
+        },
+        {
+          "name": "Rope triceps press-down",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Single-arm cable press-down"
+          ]
+        },
+        {
+          "name": "Leg curl",
+          "sets": 2,
+          "reps": "10-12",
+          "alternatives": [
+            "Light Romanian deadlift only if neck/back comfortable",
+            "Glute bridge"
+          ]
+        },
+        {
+          "name": "Pallof press",
+          "sets": 2,
+          "reps": "8-10/side",
+          "alternatives": [
+            "Cable anti-rotation hold"
+          ]
+        }
+      ]
+    }
+  },
+  "progression": "For Weeks 1-2 keep two sets. If recovery and neck/headache response are good, Phase 2 can add selected third sets and gradual load/repetition progression.",
+  "session_logging": {
+    "fields": [
+      "date",
+      "workout",
+      "exercise",
+      "weight",
+      "reps_by_set",
+      "completed",
+      "RPE_or_RIR",
+      "neck_headache_response",
+      "next_day_soreness",
+      "notes"
+    ]
+  }
+}
