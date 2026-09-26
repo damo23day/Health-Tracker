@@ -86,3 +86,22 @@ Calculated energy needs are starting estimates. Actual weight and measurement tr
 - Distinguish measured values from estimates.
 - Use machine-readable data suitable for future dashboards/automation.
 - Keep the schema simple enough to integrate with Home Assistant later.
+
+## 11. Daily Update Command
+
+When the user asks for a **"daily update"**, read the current day's GitHub record and provide a consistent snapshot containing:
+
+- All food and drink logged so far, with calories and protein.
+- Total calories consumed and daily calorie target.
+- Percentage of daily calorie target consumed and percentage remaining.
+- Total protein consumed and daily protein target.
+- Percentage of daily protein target consumed and percentage remaining.
+- Calories and protein remaining.
+- Current local time.
+- Approximate percentage of the calendar day elapsed and remaining.
+- Exercise/activity logged so far.
+- A short progress/context note where useful.
+
+The percentage of the day elapsed is contextual only. Do not imply that calories or protein need to be consumed evenly across the day. Use the actual current local time when generating the update.
+
+Where food quantities are estimated, continue to identify them as estimates.
