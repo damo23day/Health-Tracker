@@ -1,0 +1,34 @@
+{
+  "date": "YYYY-MM-DD",
+  "measurements": {
+    "weight_kg": null,
+    "waist_cm": null
+  },
+  "sleep": {
+    "hours": null,
+    "quality": null
+  },
+  "nutrition": {
+    "entries": [],
+    "total_calories_kcal": 0,
+    "total_protein_g": 0,
+    "water_ml": null
+  },
+  "exercise": [],
+  "activity": {
+    "steps": null,
+    "notes": null
+  },
+  "wellbeing": {
+    "hunger": null,
+    "energy": null,
+    "notes": null
+  },
+  "daily_summary": {
+    "calorie_target_kcal": null,
+    "calorie_variance_kcal": null,
+    "protein_target_g": null,
+    "protein_variance_g": null,
+    "notes": null
+  }
+}
