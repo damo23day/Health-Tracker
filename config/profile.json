@@ -14,6 +14,14 @@
     "rpm_sessions": 2,
     "strength_sessions": 2
   },
+  "measurement_device": {
+    "type": "Bluetooth body analysis scale",
+    "brand": "Anko",
+    "model": "iF1012D",
+    "max_weight_kg": 180,
+    "weight_increment_g": 50,
+    "guidance": "Use weight as a primary measurement. Store bioimpedance body-composition values as trend indicators; compare under similar conditions."
+  },
   "daily_calorie_target": null,
   "daily_protein_target_g": null,
   "weekly_calorie_budget": null,
