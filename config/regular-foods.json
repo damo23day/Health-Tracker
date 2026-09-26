@@ -251,7 +251,11 @@
       },
       "source": "Product nutrition label supplied by user",
       "estimated": false,
-      "notes": "User generally aims for one serve per day. Do not automatically log it; only count when user confirms consumption. Water used to mix it can count toward plain/fluid hydration volume when known."
+      "notes": "User generally aims for one serve per day. Standard preparation is 1 level scoop in a 750 mL drink bottle with a little ice. Do not automatically log it; only count when user confirms consumption. When confirmed, count 750 mL toward daily water/hydration unless user says preparation differed.",
+      "preparation": {
+        "water_ml": 750,
+        "ice": "small amount on top"
+      }
     }
   ]
 }
