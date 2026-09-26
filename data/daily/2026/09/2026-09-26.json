@@ -79,10 +79,38 @@
         "calories_kcal": 24,
         "protein_g": 0,
         "estimated": false
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chicken wrap",
+        "quantity": "1 large wrap",
+        "components": [
+          {
+            "name": "large flour tortilla",
+            "estimated": true
+          },
+          {
+            "name": "crumbed chicken strips",
+            "estimated": true
+          },
+          {
+            "name": "mixed salad/slaw",
+            "estimated": true
+          },
+          {
+            "name": "grated cheese",
+            "estimated": true
+          }
+        ],
+        "calories_kcal": 600,
+        "protein_g": 32,
+        "estimated": true,
+        "notes": "Estimated from user photo. Sauce/dressing not clearly identifiable; adjust if user provides additional ingredients or quantities."
       }
     ],
-    "total_calories_kcal": 627,
-    "total_protein_g": 31.6,
+    "total_calories_kcal": 1227,
+    "total_protein_g": 63.6,
     "water_ml": null
   },
   "exercise": [],
@@ -97,9 +125,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1523,
+    "calorie_variance_kcal": 923,
     "protein_target_g": 150,
-    "protein_variance_g": 118.4,
+    "protein_variance_g": 86.4,
     "notes": "Day 1"
   },
   "body_measurements": {
