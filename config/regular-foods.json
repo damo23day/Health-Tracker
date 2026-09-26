@@ -189,6 +189,31 @@
       "source": "Product nutrition label supplied by user",
       "estimated": false,
       "notes": "Default household milk. Aldi Farmdale Full Cream Milk."
+    },
+    {
+      "id": "homebrew_beer_current",
+      "name": "Home-brew Beer - Current Keg",
+      "aliases": [
+        "home brew",
+        "homebrew",
+        "home brew beer",
+        "beer from home brew fridge"
+      ],
+      "serving": {
+        "glass": "pot",
+        "volume_ml": 285
+      },
+      "alcohol": {
+        "abv_percent": 5.7,
+        "standard_drinks_au_approx": 1.28
+      },
+      "nutrition_per_serving": {
+        "calories_kcal_estimate": 130,
+        "protein_g_estimate": 1
+      },
+      "source": "User-provided serving volume and current ABV; calories estimated because recipe/final gravity nutrition is not yet available.",
+      "estimated": true,
+      "notes": "Current beer in home-brew fridge. ABV is batch-specific and can change. Update this entry when the keg/batch changes. One home brew means one 285 mL pot unless user specifies otherwise."
     }
   ]
 }
