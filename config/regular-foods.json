@@ -259,6 +259,43 @@
         "container": "standard drink bottle",
         "ice": "small amount on top"
       }
+    },
+    {
+      "id": "ready_set_cook_buffalo_crumbed_chicken_tenders",
+      "name": "Ready Set Cook Buffalo Style Crumbed Chicken Tenders",
+      "aliases": [
+        "buffalo chicken tenders",
+        "crumbed chicken tenders",
+        "wrap chicken"
+      ],
+      "serving": {
+        "weight_g": 100
+      },
+      "nutrition_per_serving": {
+        "calories_kcal": 169,
+        "protein_g": 15.7,
+        "fat_g": 7.3,
+        "saturated_fat_g": 0.8,
+        "carbohydrate_g": 9.4,
+        "sugars_g": 2.3,
+        "sodium_mg": 433
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 169,
+        "protein_g": 15.7,
+        "fat_g": 7.3,
+        "saturated_fat_g": 0.8,
+        "carbohydrate_g": 9.4,
+        "sugars_g": 2.3,
+        "sodium_mg": 433
+      },
+      "package": {
+        "servings": 4,
+        "approx_total_weight_g": 400
+      },
+      "source": "Product nutrition label supplied by user",
+      "estimated": false,
+      "notes": "Ready-to-cook buffalo style crumbed chicken tenders. Used in Day 1 lunch wrap; exact consumed weight was not known."
     }
   ],
   "household_defaults": {
