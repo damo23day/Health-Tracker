@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "description": "Authoritative longitudinal body-measurement history. Daily records may duplicate measurements as contextual snapshots; use this file for body-measurement trend analysis.",
+  "source_of_truth": true,
+  "interpretation": {
+    "weight": "Primary body-composition measure for progress tracking.",
+    "bia": "Consumer BIA composition values are retained mainly for trends and should be compared under similar measurement conditions."
+  },
+  "entries": [
+    {
+      "date": "2026-09-26",
+      "context": "Day 1 baseline; measured after breakfast and two home coffees, not fasted.",
+      "weight_kg": 96.75,
+      "waist_cm": null,
+      "body_composition": {
+        "body_fat_percent": null,
+        "muscle_mass_kg": null,
+        "visceral_fat": null,
+        "body_water_percent": null,
+        "bmi": null,
+        "other": {},
+        "source": "Anko iF1012D",
+        "trend_only": true
+      }
+    }
+  ]
+}
