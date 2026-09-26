@@ -173,8 +173,12 @@
         "regular_food_id": "genetix_hydration_x_lemon_splash",
         "servings": 1,
         "calories_kcal": 24
+      },
+      {
+        "description": "1 standard drink bottle - water",
+        "water_ml": 750
       }
     ],
-    "total_water_ml": 750
+    "total_water_ml": 1500
   }
 }
