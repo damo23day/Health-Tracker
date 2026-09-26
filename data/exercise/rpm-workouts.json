@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "description": "Authoritative longitudinal record of RPM / Group Cycle workouts. Daily logs may contain a contextual exercise snapshot; use this file for RPM performance trends.",
+  "source_of_truth": true,
+  "fields": [
+    "date",
+    "workout_type",
+    "duration",
+    "distance_km",
+    "calories_reported",
+    "moves",
+    "average_power_w",
+    "max_power_w",
+    "average_cadence_rpm",
+    "notes"
+  ],
+  "entries": [
+    {
+      "date": "2026-09-27",
+      "workout_type": "Group Cycle / RPM",
+      "duration": "52:19",
+      "distance_km": 22.7,
+      "calories_reported": 661,
+      "moves": 1198,
+      "average_power_w": 166,
+      "max_power_w": 389,
+      "average_cadence_rpm": 73,
+      "source": "Group Cycle Connect screenshots",
+      "notes": "First dedicated RPM performance record."
+    }
+  ]
+}
