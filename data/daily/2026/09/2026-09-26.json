@@ -219,5 +219,10 @@
       }
     ],
     "total_water_ml": 1500
+  },
+  "context": {
+    "day_type": "special_occasion",
+    "event": "AFL Grand Final",
+    "notes": "Annual AFL Grand Final day. Higher beer and meal intake was associated with a once-a-year special occasion; retain this context when reviewing daily and weekly trends."
   }
 }
