@@ -26,7 +26,16 @@
       "max_power_w": 389,
       "average_cadence_rpm": 73,
       "source": "Group Cycle Connect screenshots",
-      "notes": "First dedicated RPM performance record."
+      "notes": "First dedicated RPM performance record.",
+      "post_workout_feedback": {
+        "effort_percent": 80,
+        "issue": "Left calf tightening / felt close to cramping during second-last exercise.",
+        "trigger_pattern": "More noticeable during racing-load / faster-cadence work; not noticed during heavy-load work.",
+        "response": "Slowed cadence until calf no longer felt tight.",
+        "subsequent_exercise": "Mountain climbing",
+        "subsequent_response": "No issue; able to push to about 80% without calf tightening.",
+        "status_after_session": "User reports calf was fine during subsequent mountain-climbing effort."
+      }
     }
   ]
 }
