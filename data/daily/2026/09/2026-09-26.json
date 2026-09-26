@@ -117,10 +117,20 @@
         "protein_g": 1,
         "estimated": true,
         "notes": "Current batch 5.7% ABV; calorie/protein values estimated."
+      },
+      {
+        "type": "drink",
+        "name": "Home-brew Beer - Current Keg",
+        "regular_food_id": "homebrew_beer_current",
+        "quantity": "1.5 pots (427.5 mL)",
+        "calories_kcal": 195,
+        "protein_g": 1.5,
+        "estimated": true,
+        "notes": "Current batch 5.7% ABV; final 1.5 pots from keg. User reports keg is now empty."
       }
     ],
-    "total_calories_kcal": 1357,
-    "total_protein_g": 64.6,
+    "total_calories_kcal": 1552,
+    "total_protein_g": 66.1,
     "water_ml": null
   },
   "exercise": [],
@@ -135,9 +145,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 793,
+    "calorie_variance_kcal": 598,
     "protein_target_g": 150,
-    "protein_variance_g": 85.4,
+    "protein_variance_g": 83.9,
     "notes": "Day 1"
   },
   "body_measurements": {
