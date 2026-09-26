@@ -31,10 +31,49 @@
         "protein_g": 10,
         "estimated": true,
         "regular_food_id": "home_coffee"
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "2 eggs on toast with Nuttelex and chilli",
+        "components": [
+          {
+            "regular_food_id": "grains_seeds_original_bread",
+            "quantity": "2 slices (~73 g)",
+            "calories_kcal": 183,
+            "protein_g": 8.8,
+            "estimated": false
+          },
+          {
+            "regular_food_id": "lodge_farms_barn_laid_xl_eggs",
+            "quantity": "2 eggs (~104 g)",
+            "calories_kcal": 149,
+            "protein_g": 12.7,
+            "estimated": false
+          },
+          {
+            "regular_food_id": "nuttelex_original",
+            "quantity": "~10 g total across 2 slices",
+            "calories_kcal": 57,
+            "protein_g": 0,
+            "estimated": true
+          },
+          {
+            "regular_food_id": "abc_original_chilli_sauce",
+            "quantity": "~10 g total (small dab on each egg)",
+            "calories_kcal": 14,
+            "protein_g": 0.1,
+            "estimated": true
+          }
+        ],
+        "calories_kcal": 403,
+        "protein_g": 21.6,
+        "estimated": true,
+        "notes": "Nuttelex and chilli quantities are working estimates; product nutrition values are label-based."
       }
     ],
-    "total_calories_kcal": 200,
-    "total_protein_g": 10,
+    "total_calories_kcal": 603,
+    "total_protein_g": 31.6,
     "water_ml": null
   },
   "exercise": [],
@@ -49,9 +88,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1950,
+    "calorie_variance_kcal": 1547,
     "protein_target_g": 150,
-    "protein_variance_g": 140,
+    "protein_variance_g": 118.4,
     "notes": "Day 1"
   }
 }
