@@ -68,5 +68,41 @@
       "completed": false,
       "notes": null
     }
-  ]
+  ],
+  "feedback": {
+    "post_workout": {
+      "completed": false,
+      "overall_feeling": null,
+      "difficulty": null,
+      "energy": null,
+      "enjoyment": null,
+      "exercise_comments": null,
+      "pain_or_symptoms": null,
+      "neck_headache_response": null,
+      "what_felt_good": null,
+      "what_to_change_next_time": null,
+      "free_comment": null
+    },
+    "next_day_recovery": {
+      "completed": false,
+      "overall_recovery": null,
+      "soreness_areas": [],
+      "soreness_0_to_10": null,
+      "fatigue_0_to_10": null,
+      "neck_headache_response": null,
+      "pain_or_symptoms": null,
+      "mobility_or_stiffness": null,
+      "free_comment": null
+    },
+    "pre_next_workout_readiness": {
+      "completed": false,
+      "still_sore_areas": [],
+      "soreness_0_to_10": null,
+      "energy_0_to_10": null,
+      "neck_headache_response": null,
+      "pain_or_symptoms": null,
+      "readiness_notes": null,
+      "session_adjustments": null
+    }
+  }
 }
