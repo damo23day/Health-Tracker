@@ -9,11 +9,22 @@
       "calories_kcal": 100,
       "protein_g": 5,
       "estimated": true,
-      "notes": "Home latte glass. Finished drink weighs about 176 g. Working estimate uses ~150 mL full-cream milk plus espresso and a small foam head. Takeaway coffees are logged separately by stated size/source.",
+      "notes": "Home latte glass; finished drink weighs about 176 g. Working estimate uses ~150 mL Farmdale Full Cream Milk plus espresso and a small foam head. Takeaway coffees logged separately.",
       "aliases": [
         "home coffee",
         "my coffee",
         "standard coffee"
+      ],
+      "ingredients": [
+        {
+          "regular_food_id": "farmdale_full_cream_milk",
+          "working_quantity_ml": 150
+        },
+        {
+          "name": "espresso",
+          "quantity": "coffee shot(s)",
+          "calories_kcal": "negligible for tracking"
+        }
       ]
     },
     {
@@ -143,6 +154,41 @@
       "source": "Product nutrition label supplied by user",
       "estimated": false,
       "notes": "Default household spread when user says butter at home."
+    },
+    {
+      "id": "farmdale_full_cream_milk",
+      "name": "Farmdale Full Cream Milk",
+      "aliases": [
+        "home milk",
+        "standard milk",
+        "full cream milk"
+      ],
+      "serving": {
+        "volume_ml": 250
+      },
+      "nutrition_per_serving": {
+        "calories_kcal": 165,
+        "protein_g": 8.3,
+        "fat_g": 9,
+        "saturated_fat_g": 6,
+        "carbohydrate_g": 12.5,
+        "sugars_g": 11.8,
+        "sodium_mg": 95,
+        "calcium_mg": 273
+      },
+      "nutrition_per_100ml": {
+        "calories_kcal": 66,
+        "protein_g": 3.3,
+        "fat_g": 3.6,
+        "saturated_fat_g": 2.4,
+        "carbohydrate_g": 5,
+        "sugars_g": 4.7,
+        "sodium_mg": 38,
+        "calcium_mg": 109
+      },
+      "source": "Product nutrition label supplied by user",
+      "estimated": false,
+      "notes": "Default household milk. Aldi Farmdale Full Cream Milk."
     }
   ]
 }
