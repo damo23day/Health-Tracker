@@ -20,3 +20,8 @@ ChatGPT is the day-to-day tracking interface. This repository is the durable sou
 - Monthly: progress report and trend review
 
 See `framework/health-tracker-v1.md` for the operating framework.
+
+
+## Body measurement history
+
+`data/measurements/body-measurements.json` is the authoritative longitudinal record for weight, waist and body-composition measurements. Daily logs may also contain the day's measurement as contextual snapshots. Use the measurement history for trend analysis and future dashboards.
