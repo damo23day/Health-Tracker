@@ -87,10 +87,29 @@
         "protein_g": 1,
         "estimated": true,
         "notes": "Second can today. Calories estimated; 375 mL and 5% ABV confirmed from can."
+      },
+      {
+        "type": "alcohol",
+        "name": "Hopper XPA",
+        "quantity": "1 × 375 mL can",
+        "abv_percent": 5,
+        "calories_kcal": 160,
+        "protein_g": 1,
+        "estimated": true,
+        "notes": "Third can today. Calories estimated; 375 mL and 5% ABV confirmed."
+      },
+      {
+        "type": "snack",
+        "name": "Arnott's Shapes Originals Barbecue",
+        "quantity": "1 × 25 g packet",
+        "calories_kcal": 123,
+        "protein_g": 1.9,
+        "estimated": false,
+        "notes": "Label: 513 kJ per 25 g package; 1 serving per package."
       }
     ],
-    "total_calories_kcal": 1580,
-    "total_protein_g": 100.9,
+    "total_calories_kcal": 1863,
+    "total_protein_g": 103.80000000000001,
     "water_ml": 750
   },
   "exercise": [
@@ -119,9 +138,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 570,
+    "calorie_variance_kcal": 287,
     "protein_target_g": 150,
-    "protein_variance_g": 49.099999999999994,
+    "protein_variance_g": 46.19999999999999,
     "notes": null
   },
   "day_number": 2,
@@ -142,10 +161,10 @@
     {
       "type": "alcohol",
       "item": "Hopper XPA",
-      "quantity": "1 × 375 mL can remaining planned",
+      "quantity": "3 × 375 mL cans",
       "abv_percent": 5,
-      "status": "planned_not_consumed",
-      "notes": "Originally planned 3 cans; two now confirmed consumed and logged separately."
+      "status": "completed",
+      "notes": "All three planned cans confirmed consumed and logged separately."
     }
   ]
 }
