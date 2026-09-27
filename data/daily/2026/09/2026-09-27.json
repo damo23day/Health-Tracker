@@ -57,10 +57,19 @@
           "pico de gallo"
         ],
         "notes": "Updated from user recipe/details and protein label. Exact milk, sugar, bacon, hash-brown brand/weight and pico quantities remain unknown; plate scale weight not treated as food-only weight."
+      },
+      {
+        "type": "drink",
+        "name": "Protein iced coffee",
+        "quantity": "1 glass",
+        "calories_kcal": 240,
+        "protein_g": 30,
+        "estimated": true,
+        "notes": "User specified 30 g protein. Calories estimated from pictured milky iced coffee; exact milk/product quantity not yet known."
       }
     ],
-    "total_calories_kcal": 914,
-    "total_protein_g": 59,
+    "total_calories_kcal": 1154,
+    "total_protein_g": 89,
     "water_ml": 750
   },
   "exercise": [
@@ -89,9 +98,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1236,
+    "calorie_variance_kcal": 996,
     "protein_target_g": 150,
-    "protein_variance_g": 91,
+    "protein_variance_g": 61,
     "notes": null
   },
   "day_number": 2,
