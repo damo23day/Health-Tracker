@@ -308,5 +308,28 @@
       ],
       "notes": "One standard drink bottle means 750 mL fluid. If user says drink bottle with Hydration X/electrolytes, log 750 mL water plus one standard scoop of Genetix Hydration X. If another additive such as Hydralyte is specified, log the 750 mL water plus that product separately."
     }
-  }
+  },
+  "products": [
+    {
+      "id": "whey_protein_current",
+      "name": "Current Whey Protein Powder",
+      "aliases": [
+        "protein powder",
+        "whey",
+        "protein scoop"
+      ],
+      "serving_size_g": 31,
+      "nutrition_per_serving": {
+        "calories_kcal": 118,
+        "protein_g": 24,
+        "fat_g": 1.5,
+        "saturated_fat_g": 1,
+        "carbohydrate_g": 2,
+        "sugars_g": 2,
+        "sodium_mg": 130
+      },
+      "source": "product label photo 2026-09-27",
+      "estimated": false
+    }
+  ]
 }
