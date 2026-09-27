@@ -77,10 +77,20 @@
         "protein_g": 1,
         "estimated": true,
         "notes": "Calories estimated; front label confirms 375 mL and 5% ABV, nutrition panel not supplied."
+      },
+      {
+        "type": "alcohol",
+        "name": "Hopper XPA",
+        "quantity": "1 × 375 mL can",
+        "abv_percent": 5,
+        "calories_kcal": 160,
+        "protein_g": 1,
+        "estimated": true,
+        "notes": "Second can today. Calories estimated; 375 mL and 5% ABV confirmed from can."
       }
     ],
-    "total_calories_kcal": 1420,
-    "total_protein_g": 99.9,
+    "total_calories_kcal": 1580,
+    "total_protein_g": 100.9,
     "water_ml": 750
   },
   "exercise": [
@@ -109,9 +119,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 730,
+    "calorie_variance_kcal": 570,
     "protein_target_g": 150,
-    "protein_variance_g": 50.099999999999994,
+    "protein_variance_g": 49.099999999999994,
     "notes": null
   },
   "day_number": 2,
@@ -132,10 +142,10 @@
     {
       "type": "alcohol",
       "item": "Hopper XPA",
-      "quantity": "2 × 375 mL cans remaining planned",
+      "quantity": "1 × 375 mL can remaining planned",
       "abv_percent": 5,
       "status": "planned_not_consumed",
-      "notes": "Originally planned 3 cans; first can confirmed consumed and logged separately."
+      "notes": "Originally planned 3 cans; two now confirmed consumed and logged separately."
     }
   ]
 }
