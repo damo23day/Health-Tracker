@@ -28,10 +28,30 @@
         "protein_g": 5,
         "estimated": true,
         "notes": "Standard home coffee from regular-food library."
+      },
+      {
+        "type": "meal",
+        "name": "Protein pancakes",
+        "quantity": "172 g cooked",
+        "calories_kcal": 350,
+        "protein_g": 14,
+        "estimated": true,
+        "estimate_confidence": "low-moderate",
+        "notes": "From homemade batch: 1.5 cups self-raising flour, 1 scoop whey (118 kcal/24 g protein), 1 egg, 1.5 cups water, little butter. Portion weighed cooked at 172 g. Estimate can be refined if total cooked batch weight is available."
+      },
+      {
+        "type": "topping",
+        "name": "Jalna Sweet & Creamy yoghurt with berries",
+        "quantity": "94 g combined",
+        "calories_kcal": 105,
+        "protein_g": 2.6,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "94 g is combined yoghurt + berries; exact split not weighed. Jalna label = 136 kcal and 3.5 g protein per 100 g; berries estimated."
       }
     ],
-    "total_calories_kcal": 100,
-    "total_protein_g": 5,
+    "total_calories_kcal": 555,
+    "total_protein_g": 21.6,
     "water_ml": 0
   },
   "exercise": [],
@@ -46,9 +66,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 2050,
+    "calorie_variance_kcal": 1595,
     "protein_target_g": 150,
-    "protein_variance_g": 145,
+    "protein_variance_g": 128.4,
     "notes": null
   }
 }
