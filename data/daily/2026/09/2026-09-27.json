@@ -40,23 +40,27 @@
       },
       {
         "type": "meal",
-        "name": "Protein pancake with bacon, hash brown and pico de gallo",
+        "name": "Protein pancake with bacon, 2 hash browns, pico de gallo and extra egg",
         "quantity": "863 g total plated weight reported from kitchen scale photo",
-        "calories_kcal": 720,
-        "protein_g": 42,
+        "calories_kcal": 790,
+        "protein_g": 54,
         "estimated": true,
-        "estimate_confidence": "low-moderate",
+        "estimate_confidence": "moderate",
         "components": [
-          "protein pancake",
+          "1 scoop whey protein powder (118 kcal, 24 g protein)",
+          "milk (quantity estimated)",
+          "sugar (quantity estimated)",
+          "egg in pancake batter",
+          "1 additional egg cooked on pancake",
           "bacon",
-          "hash brown",
+          "2 hash browns",
           "pico de gallo"
         ],
-        "notes": "Photo-based estimate. Scale showed 863 g, but plate tare/empty plate weight was not provided, so 863 g cannot be treated as food-only weight. Estimate based primarily on visible portion/components."
+        "notes": "Updated from user recipe/details and protein label. Exact milk, sugar, bacon, hash-brown brand/weight and pico quantities remain unknown; plate scale weight not treated as food-only weight."
       }
     ],
-    "total_calories_kcal": 844,
-    "total_protein_g": 47,
+    "total_calories_kcal": 914,
+    "total_protein_g": 59,
     "water_ml": 750
   },
   "exercise": [
@@ -85,9 +89,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1306,
+    "calorie_variance_kcal": 1236,
     "protein_target_g": 150,
-    "protein_variance_g": 103,
+    "protein_variance_g": 91,
     "notes": null
   },
   "day_number": 2,
