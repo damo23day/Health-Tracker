@@ -117,5 +117,15 @@
     ],
     "total_water_ml": 750,
     "target_water_ml": 2250
-  }
+  },
+  "plans": [
+    {
+      "type": "alcohol",
+      "item": "Hopper XPA",
+      "quantity": "3 × 375 mL cans",
+      "abv_percent": 5,
+      "status": "planned_not_consumed",
+      "notes": "User plans to have these instead of a Man Shake at lunch. Do not include in nutrition totals until consumption is confirmed."
+    }
+  ]
 }
