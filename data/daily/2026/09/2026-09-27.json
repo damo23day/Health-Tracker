@@ -60,15 +60,16 @@
       },
       {
         "type": "drink",
-        "name": "Protein iced coffee",
-        "quantity": "1 glass",
-        "calories_kcal": 240,
+        "name": "Whey protein iced coffee",
+        "quantity": "30 g protein worth of saved whey protein powder, prepared as iced coffee",
+        "calories_kcal": 148,
         "protein_g": 30,
         "estimated": true,
-        "notes": "User specified 30 g protein. Calories estimated from pictured milky iced coffee; exact milk/product quantity not yet known."
+        "notes": "Protein powder identified as same whey used in pancake. 31 g scoop provides 118 kcal and 24 g protein; powder quantity scaled to 30 g protein (~38.75 g powder, ~147.5 kcal). Additional coffee/ice assumed negligible; any milk or sugar beyond this is not included unless specified.",
+        "regular_food_id": "whey_protein_current"
       }
     ],
-    "total_calories_kcal": 1154,
+    "total_calories_kcal": 1062,
     "total_protein_g": 89,
     "water_ml": 750
   },
@@ -98,7 +99,7 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 996,
+    "calorie_variance_kcal": 1088,
     "protein_target_g": 150,
     "protein_variance_g": 61,
     "notes": null
