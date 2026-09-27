@@ -110,15 +110,15 @@
       {
         "type": "snack",
         "name": "Jalna Sweet & Creamy Greek Style yoghurt with oats/muesli",
-        "quantity": "150 g yoghurt + 75 g oats/muesli",
-        "calories_kcal": 520,
-        "protein_g": 13,
+        "quantity": "150 g combined total (~75 g yoghurt + ~75 g oats/muesli, based on scale/photo sequence)",
+        "calories_kcal": 418,
+        "protein_g": 10.4,
         "estimated": true,
-        "notes": "Yoghurt exact from label: 150 g = 204 kcal, 5.25 g protein. Oats/muesli estimated ~316 kcal and ~7.8 g protein for 75 g because nutrition label/recipe not supplied."
+        "notes": "Corrected: 150 g was the combined yoghurt+muesli total, not 150 g yoghurt plus 75 g muesli. Photo showed 75 g at the muesli stage, so working split is ~75 g Jalna yoghurt (102 kcal, 2.6 g protein) + ~75 g muesli (~316 kcal, ~7.8 g protein). Muesli remains estimated until label/recipe supplied."
       }
     ],
-    "total_calories_kcal": 2383,
-    "total_protein_g": 116.80000000000001,
+    "total_calories_kcal": 2281,
+    "total_protein_g": 114.20000000000002,
     "water_ml": 750
   },
   "exercise": [
@@ -147,9 +147,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": -233,
+    "calorie_variance_kcal": -131,
     "protein_target_g": 150,
-    "protein_variance_g": 33.19999999999999,
+    "protein_variance_g": 35.79999999999998,
     "notes": null
   },
   "day_number": 2,
