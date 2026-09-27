@@ -67,10 +67,20 @@
         "estimated": false,
         "notes": "Whey portion: ~38.75 g powder = ~147.5 kcal and 30 g protein. Milk: 300 mL Farmdale Full Cream Milk = ~198 kcal and ~9.9 g protein. No sugar. Coffee/ice negligible.",
         "regular_food_id": "whey_protein_current"
+      },
+      {
+        "type": "alcohol",
+        "name": "Hopper XPA",
+        "quantity": "1 × 375 mL can",
+        "abv_percent": 5,
+        "calories_kcal": 160,
+        "protein_g": 1,
+        "estimated": true,
+        "notes": "Calories estimated; front label confirms 375 mL and 5% ABV, nutrition panel not supplied."
       }
     ],
-    "total_calories_kcal": 1260,
-    "total_protein_g": 98.9,
+    "total_calories_kcal": 1420,
+    "total_protein_g": 99.9,
     "water_ml": 750
   },
   "exercise": [
@@ -99,9 +109,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 890,
+    "calorie_variance_kcal": 730,
     "protein_target_g": 150,
-    "protein_variance_g": 51.099999999999994,
+    "protein_variance_g": 50.099999999999994,
     "notes": null
   },
   "day_number": 2,
@@ -122,10 +132,10 @@
     {
       "type": "alcohol",
       "item": "Hopper XPA",
-      "quantity": "3 × 375 mL cans",
+      "quantity": "2 × 375 mL cans remaining planned",
       "abv_percent": 5,
       "status": "planned_not_consumed",
-      "notes": "User plans to have these instead of a Man Shake at lunch. Do not include in nutrition totals until consumption is confirmed."
+      "notes": "Originally planned 3 cans; first can confirmed consumed and logged separately."
     }
   ]
 }
