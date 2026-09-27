@@ -115,10 +115,20 @@
         "protein_g": 10.4,
         "estimated": true,
         "notes": "Corrected: 150 g was the combined yoghurt+muesli total, not 150 g yoghurt plus 75 g muesli. Photo showed 75 g at the muesli stage, so working split is ~75 g Jalna yoghurt (102 kcal, 2.6 g protein) + ~75 g muesli (~316 kcal, ~7.8 g protein). Muesli remains estimated until label/recipe supplied."
+      },
+      {
+        "type": "meal",
+        "name": "Large bowl of ramen with boiled egg",
+        "quantity": "1 large bowl + 1 boiled egg",
+        "calories_kcal": 650,
+        "protein_g": 22,
+        "estimated": true,
+        "estimate_confidence": "low",
+        "notes": "Consumed before logging. No packet/recipe/photo available; working estimate based on a large ramen serving with broth/noodles and one boiled egg. Refine if product or ingredients are provided."
       }
     ],
-    "total_calories_kcal": 2281,
-    "total_protein_g": 114.20000000000002,
+    "total_calories_kcal": 2931,
+    "total_protein_g": 136.20000000000002,
     "water_ml": 750
   },
   "exercise": [
@@ -147,9 +157,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": -131,
+    "calorie_variance_kcal": -781,
     "protein_target_g": 150,
-    "protein_variance_g": 35.79999999999998,
+    "protein_variance_g": 13.799999999999983,
     "notes": null
   },
   "day_number": 2,
