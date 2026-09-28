@@ -1,0 +1,17 @@
+{
+  "year": 2026,
+  "source": "Samsung Health",
+  "description": "Daily activity summary for annual and monthly trend analysis. Intentional workouts such as RPM are stored separately under data/exercise/.",
+  "entries": [
+    {
+      "date": "2026-09-28",
+      "steps": 7330,
+      "distance_km": 5.46,
+      "active_minutes": 77,
+      "active_calories_kcal": 241,
+      "total_burned_calories_kcal": 1778,
+      "recorded_at_local": "20:13",
+      "notes": "Samsung Health daily totals at 8:13 pm; day not necessarily final."
+    }
+  ]
+}
