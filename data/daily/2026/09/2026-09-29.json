@@ -40,15 +40,15 @@
       },
       {
         "type": "supplement",
-        "name": "Creatine",
-        "quantity": "added to drink bottle",
-        "calories_kcal": 0,
+        "name": "Genetix Nutrition Pure Series 100% Pure Creatine Monohydrate",
+        "quantity": "1 level scoop (3 g) added to 750 mL drink bottle",
+        "calories_kcal": 11,
         "protein_g": 0,
-        "estimated": true,
-        "notes": "Dose not specified; logged as supplement."
+        "estimated": false,
+        "notes": "3 g creatine monohydrate. Label lists 11 kcal and 2.6 g protein per serve; protein not counted toward dietary protein target."
       }
     ],
-    "total_calories_kcal": 124,
+    "total_calories_kcal": 135,
     "total_protein_g": 5,
     "water_ml": 750
   },
@@ -61,7 +61,7 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 2026,
+    "calorie_variance_kcal": 2015,
     "protein_target_g": 150,
     "protein_variance_g": 145,
     "notes": "Activity is tracked separately rather than subtracted from food intake."
