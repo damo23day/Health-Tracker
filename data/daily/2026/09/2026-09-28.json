@@ -48,16 +48,34 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "94 g is combined yoghurt + berries; exact split not weighed. Jalna label = 136 kcal and 3.5 g protein per 100 g; berries estimated."
+      },
+      {
+        "type": "meal",
+        "name": "Chocolate Man Shake",
+        "quantity": "1 standard serve",
+        "calories_kcal": 200,
+        "protein_g": 30,
+        "estimated": true,
+        "notes": "Standard serve; estimated from current health log."
+      },
+      {
+        "type": "snack",
+        "name": "Apple",
+        "quantity": "2 x 105 g (210 g total)",
+        "calories_kcal": 110,
+        "protein_g": 0.6,
+        "estimated": true,
+        "notes": "Both apples eaten."
       }
     ],
-    "total_calories_kcal": 555,
-    "total_protein_g": 21.6,
-    "water_ml": 0
+    "total_calories_kcal": 865,
+    "total_protein_g": 52.2,
+    "water_ml": null
   },
   "exercise": [],
   "activity": {
     "steps": null,
-    "notes": null
+    "notes": "Walked to work instead of riding bike; distance/time not yet recorded."
   },
   "wellbeing": {
     "hunger": null,
@@ -66,9 +84,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1595,
+    "calorie_variance_kcal": 1285,
     "protein_target_g": 150,
-    "protein_variance_g": 128.4,
-    "notes": null
+    "protein_variance_g": 97.8,
+    "notes": "3 water bottles consumed today; first included Hydralyte. Bottle volume not yet confirmed, so water_ml remains unset."
   }
 }
