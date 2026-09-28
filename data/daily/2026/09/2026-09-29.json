@@ -14,7 +14,10 @@
       "trend_only": true
     }
   },
-  "sleep": {"hours": null, "quality": null},
+  "sleep": {
+    "hours": null,
+    "quality": null
+  },
   "nutrition": {
     "entries": [
       {
@@ -25,18 +28,40 @@
         "protein_g": 5,
         "estimated": true,
         "notes": "Standard home coffee from regular-food library."
+      },
+      {
+        "type": "drink",
+        "name": "Genetix Hydration X - Lemon Splash",
+        "quantity": "1 level scoop (14.5 g) in 750 mL standard drink bottle",
+        "calories_kcal": 24,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Standard preparation from regular-food library; user referred to it as Hydralyte/electrolyte drink."
+      },
+      {
+        "type": "supplement",
+        "name": "Creatine",
+        "quantity": "added to drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": true,
+        "notes": "Dose not specified; logged as supplement."
       }
     ],
-    "total_calories_kcal": 100,
+    "total_calories_kcal": 124,
     "total_protein_g": 5,
-    "water_ml": null
+    "water_ml": 750
   },
   "exercise": [],
   "activity": {},
-  "wellbeing": {"hunger": null, "energy": null, "notes": null},
+  "wellbeing": {
+    "hunger": null,
+    "energy": null,
+    "notes": null
+  },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 2050,
+    "calorie_variance_kcal": 2026,
     "protein_target_g": 150,
     "protein_variance_g": 145,
     "notes": "Activity is tracked separately rather than subtracted from food intake."
