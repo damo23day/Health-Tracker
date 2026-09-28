@@ -29,7 +29,7 @@ See `framework/health-tracker-v1.md` for the operating framework.
 | `data/activity/YYYY.json` | Compact daily activity history, primarily from Samsung Health | Steps, distance, active minutes, activity calories and total burned calories for trend analysis |
 | `data/exercise/rpm-workouts.json` | Individual RPM workout records | RPM workout history and performance |
 | `data/measurements/` | Longitudinal body measurements | Weight, waist and body-composition trends |
-| `config/` | Tracker settings and targets | Current configuration where applicable |
+| `config/` | Tracker settings, targets, regular foods and supplements | Current configuration where applicable |
 | `framework/` | Operating rules and tracking methodology | How the Health Tracker should be used |
 | `templates/` | Standard record structures | Templates for new records |
 | `training/` | Exercise and training plans | Planned training programs |
@@ -55,6 +55,9 @@ Auto-detected incidental walking can remain part of the daily/activity record an
 
 ### Body measurements
 `data/measurements/body-measurements.json` is the authoritative longitudinal record for weight, waist and body-composition measurements. Daily logs may also contain the day's measurement as contextual snapshots. Use the measurement history for trend analysis and future dashboards.
+
+### Supplements
+`config/supplements.json` is the source of truth for current supplement and electrolyte products, standard serving sizes and product-label details. Actual consumption is logged in the relevant daily JSON file.
 
 ### Nutrition
 The daily JSON file is the authoritative record for food, drinks, calories, protein and hydration for that day. Estimated values should remain marked as estimates and can be refined later when better information becomes available.
