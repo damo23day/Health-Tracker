@@ -66,16 +66,58 @@
         "protein_g": 0.6,
         "estimated": true,
         "notes": "Both apples eaten."
+      },
+      {
+        "type": "drink",
+        "name": "Large takeaway coffee",
+        "quantity": "1 large coffee shop coffee",
+        "calories_kcal": 150,
+        "protein_g": 5,
+        "estimated": true,
+        "notes": "Estimated large takeaway coffee."
+      },
+      {
+        "type": "meal",
+        "name": "Savoury protein pancake with eggs, ham, tomato and chilli sauce",
+        "quantity": "105 g pancake + 2 eggs + 50 g champagne ham + 45 g tomato + small chilli sauce",
+        "calories_kcal": 435,
+        "protein_g": 30.2,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Pancake ~214 kcal/8.5 g protein; eggs ~160 kcal/14 g; ham ~43 kcal/7.3 g; tomato/chilli ~18 kcal/0.4 g."
+      },
+      {
+        "type": "meal",
+        "name": "Dinner - chicken rissoles, mash, sweet potato/spinach and coleslaw",
+        "quantity": "571 g total",
+        "calories_kcal": 810,
+        "protein_g": 45,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "4 chicken rissoles ~252 g = 468 kcal/38.8 g protein from pack label; remaining ~319 g estimated as ~150 g mash, ~95 g sweet potato/spinach and ~74 g dressed coleslaw."
       }
     ],
-    "total_calories_kcal": 865,
-    "total_protein_g": 52.2,
+    "total_calories_kcal": 2260,
+    "total_protein_g": 132.4,
     "water_ml": null
   },
-  "exercise": [],
+  "exercise": [
+    {
+      "type": "walking",
+      "duration_min": 10.98,
+      "distance_km": 0.83,
+      "calories_kcal": 33,
+      "source": "Samsung Health auto-detected",
+      "notes": "Included within daily activity totals; not added again."
+    }
+  ],
   "activity": {
-    "steps": null,
-    "notes": "Walked to work instead of riding bike; distance/time not yet recorded."
+    "steps": 7330,
+    "active_time_min": 77,
+    "activity_calories_kcal": 241,
+    "total_burned_calories_kcal": 1778,
+    "distance_active_km": 5.46,
+    "notes": "Samsung Health at 8:13 pm. Auto-detected walk: 0.83 km in 10:59, 33 exercise kcal; treated as included in daily activity totals and not double-counted. Activity calories kept separate from food target."
   },
   "wellbeing": {
     "hunger": null,
@@ -84,9 +126,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1285,
+    "calorie_variance_kcal": -110,
     "protein_target_g": 150,
-    "protein_variance_g": 97.8,
-    "notes": "3 water bottles consumed today; first included Hydralyte. Bottle volume not yet confirmed, so water_ml remains unset."
+    "protein_variance_g": 17.6,
+    "notes": "Food target 2,150 kcal and protein target 150 g. Activity is tracked separately rather than subtracted from food intake. 3 water bottles consumed plus 850 mL carbonated water; bottle volume not confirmed, so water_ml remains unset."
   }
 }
