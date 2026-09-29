@@ -85,10 +85,19 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "User-provided total meal weight 580 g and component weights ~350 g chicken / ~230 g salad. Chicken appears to be cooked thigh pieces; salad includes legumes and vegetables. Calories/protein estimated because bone/skin status, dressing/oil and exact legume split are not known."
+      },
+      {
+        "type": "topping",
+        "name": "Emporium Selection Marinated Fetta",
+        "quantity": "20 g drained",
+        "calories_kcal": 45.4,
+        "protein_g": 2.46,
+        "estimated": false,
+        "notes": "Aldi Emporium Selection Danish-style marinated fetta. Label per 100 g drained: 227 kcal, 12.3 g protein, 20.8 g fat, 9.2 g saturated fat, <1 g carbohydrate, <1 g sugars, 739 mg sodium. Added on top of dinner."
       }
     ],
-    "total_calories_kcal": 1755,
-    "total_protein_g": 130.5,
+    "total_calories_kcal": 1800.4,
+    "total_protein_g": 132.96,
     "water_ml": 1500
   },
   "exercise": [
@@ -108,9 +117,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 395,
+    "calorie_variance_kcal": 349.6,
     "protein_target_g": 150,
-    "protein_variance_g": 19.5,
+    "protein_variance_g": 17.04,
     "notes": "Activity is tracked separately rather than subtracted from food intake. Hydration so far: 2 x 750 mL standard bottles (1 with Hydration X + creatine, 1 plain/unspecified)."
   }
 }
