@@ -46,10 +46,20 @@
         "protein_g": 0,
         "estimated": false,
         "notes": "3 g creatine monohydrate. Label lists 11 kcal and 2.6 g protein per serve; protein not counted toward dietary protein target."
+      },
+      {
+        "type": "drink",
+        "name": "Float Aquatic Centre takeaway cappuccino",
+        "quantity": "350 mL",
+        "calories_kcal": 160,
+        "protein_g": 8,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "350 mL takeaway cappuccino from Float at the aquatic centre. Milk type not specified; estimated using a typical full-cream-milk cappuccino."
       }
     ],
-    "total_calories_kcal": 135,
-    "total_protein_g": 5,
+    "total_calories_kcal": 295,
+    "total_protein_g": 13,
     "water_ml": 750
   },
   "exercise": [],
@@ -61,9 +71,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 2015,
+    "calorie_variance_kcal": 1855,
     "protein_target_g": 150,
-    "protein_variance_g": 145,
+    "protein_variance_g": 137,
     "notes": "Activity is tracked separately rather than subtracted from food intake."
   }
 }
