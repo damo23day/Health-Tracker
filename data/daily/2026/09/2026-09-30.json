@@ -18,20 +18,10 @@
         "protein_g": 5,
         "estimated": true,
         "notes": "Standard home coffee from regular-food library."
-      },
-      {
-        "type": "meal",
-        "meal": "breakfast",
-        "name": "Chocolate Man Shake",
-        "quantity": "1 standard serve",
-        "calories_kcal": 200,
-        "protein_g": 30,
-        "estimated": true,
-        "notes": "Standard serve; no extra whey added."
       }
     ],
-    "total_calories_kcal": 300,
-    "total_protein_g": 35,
+    "total_calories_kcal": 100,
+    "total_protein_g": 5,
     "water_ml": 0
   },
   "exercise": [],
@@ -43,9 +33,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1850,
+    "calorie_variance_kcal": 2050,
     "protein_target_g": 150,
-    "protein_variance_g": 115,
+    "protein_variance_g": 145,
     "notes": "Activity tracked separately rather than subtracted from food intake."
   },
   "plans": [
@@ -55,6 +45,23 @@
       "quantity": "2 × 92 g",
       "status": "packed/not yet consumed",
       "notes": "Do not count toward nutrition totals until user confirms eaten."
+    },
+    {
+      "type": "meal",
+      "item": "Chocolate Man Shake",
+      "quantity": "1 standard serve",
+      "status": "packed/not yet consumed",
+      "calories_kcal": 200,
+      "protein_g": 30,
+      "notes": "Prepared and in bag ready to drink; do not count until user confirms consumed."
+    },
+    {
+      "type": "hydration/supplement",
+      "item": "Genetix Hydration X + creatine",
+      "quantity": "1 × 750 mL bottle; 1 scoop Hydration X (14.5 g) + 1 scoop creatine (3 g)",
+      "status": "prepared/not yet confirmed consumed",
+      "calories_kcal": 35,
+      "notes": "Bottle filled and ready. Do not count calories/water toward consumed totals until drinking is confirmed."
     }
   ]
 }
