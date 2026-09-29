@@ -94,10 +94,20 @@
         "protein_g": 2.46,
         "estimated": false,
         "notes": "Aldi Emporium Selection Danish-style marinated fetta. Label per 100 g drained: 227 kcal, 12.3 g protein, 20.8 g fat, 9.2 g saturated fat, <1 g carbohydrate, <1 g sugars, 739 mg sodium. Added on top of dinner."
+      },
+      {
+        "type": "meal_addition",
+        "name": "Extra cooked chicken thigh",
+        "quantity": "120 g",
+        "calories_kcal": 250,
+        "protein_g": 30,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Additional chicken from dinner; estimated consistently with dinner chicken. Exact skin/bone/oil contribution unknown."
       }
     ],
-    "total_calories_kcal": 1800.4,
-    "total_protein_g": 132.96,
+    "total_calories_kcal": 2050.4,
+    "total_protein_g": 162.96,
     "water_ml": 1500
   },
   "exercise": [
@@ -117,9 +127,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 349.6,
+    "calorie_variance_kcal": 99.6,
     "protein_target_g": 150,
-    "protein_variance_g": 17.04,
+    "protein_variance_g": -12.96,
     "notes": "Activity is tracked separately rather than subtracted from food intake. Hydration so far: 2 x 750 mL standard bottles (1 with Hydration X + creatine, 1 plain/unspecified)."
   }
 }
