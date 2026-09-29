@@ -128,7 +128,20 @@
       "notes": "Completed full proper RPM session. Similar effort to 2026-09-27. Watch cycling recording started 28:40 into class, but Samsung Health/Group Cycle Connect failed to update; calories deliberately left unset rather than estimated as measured."
     }
   ],
-  "activity": {},
+  "activity": {
+    "steps": 9329,
+    "active_time_min": 103,
+    "activity_calories_kcal": 395,
+    "total_burned_calories_kcal": 2107,
+    "distance_active_km": 6.99,
+    "active_hours": 16,
+    "floors": 0,
+    "exercise_time_min": 0,
+    "exercise_calories_kcal": 0,
+    "raised_hr_activity_time_min": 0,
+    "recorded_at_local": "22:45",
+    "notes": "Samsung Health end-of-evening snapshot. Samsung Health still shows 0 exercise minutes/calories despite user-confirmed ~52 min RPM session; RPM retained separately as user-confirmed workout due sync failure."
+  },
   "wellbeing": {
     "hunger": null,
     "energy": null,
@@ -139,6 +152,6 @@
     "calorie_variance_kcal": 99.6,
     "protein_target_g": 150,
     "protein_variance_g": -12.96,
-    "notes": "Activity is tracked separately rather than subtracted from food intake. Hydration so far: 2 x 750 mL standard bottles (1 with Hydration X + creatine, 1 plain/unspecified)."
+    "notes": "Activity is tracked separately rather than subtracted from food intake. Hydration tracked: 2,350 mL water including 850 mL home-carbonated water. Samsung Health 22:45 snapshot: 9,329 steps, 103 active min, 395 activity kcal, 2,107 total burned kcal, 6.99 km; RPM did not sync and remains separately recorded."
   }
 }
