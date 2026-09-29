@@ -62,7 +62,15 @@
     "total_protein_g": 13,
     "water_ml": 750
   },
-  "exercise": [],
+  "exercise": [
+    {
+      "type": "Group Cycle / RPM",
+      "duration_min": 52,
+      "calories_kcal": null,
+      "source": "User-confirmed; device/app sync failure",
+      "notes": "Completed full proper RPM session. Similar effort to 2026-09-27. Watch cycling recording started 28:40 into class, but Samsung Health/Group Cycle Connect failed to update; calories deliberately left unset rather than estimated as measured."
+    }
+  ],
   "activity": {},
   "wellbeing": {
     "hunger": null,
