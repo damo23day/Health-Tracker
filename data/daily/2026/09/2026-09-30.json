@@ -18,10 +18,20 @@
         "protein_g": 5,
         "estimated": true,
         "notes": "Standard home coffee from regular-food library."
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Chocolate Man Shake",
+        "quantity": "1 standard serve",
+        "calories_kcal": 200,
+        "protein_g": 30,
+        "estimated": true,
+        "notes": "Standard serve; no extra whey added."
       }
     ],
-    "total_calories_kcal": 100,
-    "total_protein_g": 5,
+    "total_calories_kcal": 300,
+    "total_protein_g": 35,
     "water_ml": 0
   },
   "exercise": [],
@@ -33,9 +43,18 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 2050,
+    "calorie_variance_kcal": 1850,
     "protein_target_g": 150,
-    "protein_variance_g": 145,
+    "protein_variance_g": 115,
     "notes": "Activity tracked separately rather than subtracted from food intake."
-  }
+  },
+  "plans": [
+    {
+      "type": "snack",
+      "item": "Apple",
+      "quantity": "2 × 92 g",
+      "status": "packed/not yet consumed",
+      "notes": "Do not count toward nutrition totals until user confirms eaten."
+    }
+  ]
 }
