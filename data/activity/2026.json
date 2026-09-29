@@ -12,6 +12,16 @@
       "total_burned_calories_kcal": 1778,
       "recorded_at_local": "20:13",
       "notes": "Samsung Health daily totals at 8:13 pm; day not necessarily final."
+    },
+    {
+      "date": "2026-09-29",
+      "steps": 9329,
+      "distance_km": 6.99,
+      "active_minutes": 103,
+      "active_calories_kcal": 395,
+      "total_burned_calories_kcal": 2107,
+      "recorded_at_local": "22:45",
+      "notes": "Samsung Health end-of-evening snapshot. Active hours 16; floors 0. Samsung Health showed 0 exercise minutes/calories despite a separately logged user-confirmed ~52 min RPM session due sync failure."
     }
   ]
 }
