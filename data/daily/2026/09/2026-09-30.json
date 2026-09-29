@@ -18,10 +18,20 @@
         "protein_g": 5,
         "estimated": true,
         "notes": "Standard home coffee from regular-food library."
+      },
+      {
+        "type": "drink",
+        "name": "Work takeaway coffee",
+        "quantity": "12 oz (~355 mL)",
+        "calories_kcal": 160,
+        "protein_g": 8,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "12 oz work coffee; estimated as a typical full-cream-milk coffee unless milk/type is clarified."
       }
     ],
-    "total_calories_kcal": 100,
-    "total_protein_g": 5,
+    "total_calories_kcal": 260,
+    "total_protein_g": 13,
     "water_ml": 0
   },
   "exercise": [],
@@ -33,9 +43,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 2050,
+    "calorie_variance_kcal": 1890,
     "protein_target_g": 150,
-    "protein_variance_g": 145,
+    "protein_variance_g": 137,
     "notes": "Activity tracked separately rather than subtracted from food intake."
   },
   "plans": [
