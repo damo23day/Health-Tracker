@@ -56,11 +56,30 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "350 mL takeaway cappuccino from Float at the aquatic centre. Milk type not specified; estimated using a typical full-cream-milk cappuccino."
+      },
+      {
+        "type": "meal",
+        "name": "Chocolate Man Shake",
+        "quantity": "1 standard serve",
+        "calories_kcal": 200,
+        "protein_g": 30,
+        "estimated": true,
+        "notes": "Standard serve; same working estimate as 2026-09-28."
+      },
+      {
+        "type": "snack",
+        "name": "Jalna Sweet & Creamy Greek Style yoghurt with oats/muesli and berries",
+        "quantity": "150 g yoghurt + 70 g oats/muesli + a couple of berries",
+        "calories_kcal": 510,
+        "protein_g": 12.5,
+        "estimated": true,
+        "estimate_confidence": "moderate-low",
+        "notes": "Jalna yoghurt calculated from stored label at 136 kcal and 3.5 g protein per 100 g = 204 kcal/5.25 g protein for 150 g. Oats/muesli estimated from prior tracker working value (~421 kcal/100 g, ~10.4 g protein/100 g) = ~295 kcal/~7.3 g protein for 70 g. Couple of berries ~10 kcal. Refine if exact oats/muesli product label is added."
       }
     ],
-    "total_calories_kcal": 295,
-    "total_protein_g": 13,
-    "water_ml": 750
+    "total_calories_kcal": 1005,
+    "total_protein_g": 55.5,
+    "water_ml": 1500
   },
   "exercise": [
     {
@@ -79,9 +98,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1855,
+    "calorie_variance_kcal": 1145,
     "protein_target_g": 150,
-    "protein_variance_g": 137,
-    "notes": "Activity is tracked separately rather than subtracted from food intake."
+    "protein_variance_g": 94.5,
+    "notes": "Activity is tracked separately rather than subtracted from food intake. Hydration so far: 2 x 750 mL standard bottles (1 with Hydration X + creatine, 1 plain/unspecified)."
   }
 }
