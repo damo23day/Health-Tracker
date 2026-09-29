@@ -75,10 +75,20 @@
         "estimated": true,
         "estimate_confidence": "moderate-low",
         "notes": "Jalna yoghurt calculated from stored label at 136 kcal and 3.5 g protein per 100 g = 204 kcal/5.25 g protein for 150 g. Oats/muesli estimated from prior tracker working value (~421 kcal/100 g, ~10.4 g protein/100 g) = ~295 kcal/~7.3 g protein for 70 g. Couple of berries ~10 kcal. Refine if exact oats/muesli product label is added."
+      },
+      {
+        "type": "meal",
+        "name": "Dinner - chicken thighs with lentil/chickpea salad",
+        "quantity": "580 g total: ~350 g chicken + ~230 g salad (lentils/chickpeas, tomato, red onion, baby leaves)",
+        "calories_kcal": 750,
+        "protein_g": 75,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "User-provided total meal weight 580 g and component weights ~350 g chicken / ~230 g salad. Chicken appears to be cooked thigh pieces; salad includes legumes and vegetables. Calories/protein estimated because bone/skin status, dressing/oil and exact legume split are not known."
       }
     ],
-    "total_calories_kcal": 1005,
-    "total_protein_g": 55.5,
+    "total_calories_kcal": 1755,
+    "total_protein_g": 130.5,
     "water_ml": 1500
   },
   "exercise": [
@@ -98,9 +108,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1145,
+    "calorie_variance_kcal": 395,
     "protein_target_g": 150,
-    "protein_variance_g": 94.5,
+    "protein_variance_g": 19.5,
     "notes": "Activity is tracked separately rather than subtracted from food intake. Hydration so far: 2 x 750 mL standard bottles (1 with Hydration X + creatine, 1 plain/unspecified)."
   }
 }
