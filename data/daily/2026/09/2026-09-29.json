@@ -104,11 +104,20 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "Additional chicken from dinner; estimated consistently with dinner chicken. Exact skin/bone/oil contribution unknown."
+      },
+      {
+        "type": "drink",
+        "name": "Carbonated water",
+        "quantity": "850 mL",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Plain carbonated water."
       }
     ],
     "total_calories_kcal": 2050.4,
     "total_protein_g": 162.96,
-    "water_ml": 1500
+    "water_ml": 2350
   },
   "exercise": [
     {
