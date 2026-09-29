@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-30",
+  "measurements": {
+    "weight_kg": null,
+    "waist_cm": null
+  },
+  "sleep": {
+    "hours": null,
+    "quality": null
+  },
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Home Coffee",
+        "quantity": "1 standard home coffee",
+        "calories_kcal": 100,
+        "protein_g": 5,
+        "estimated": true,
+        "notes": "Standard home coffee from regular-food library."
+      }
+    ],
+    "total_calories_kcal": 100,
+    "total_protein_g": 5,
+    "water_ml": 0
+  },
+  "exercise": [],
+  "activity": {},
+  "wellbeing": {
+    "hunger": null,
+    "energy": null,
+    "notes": null
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "calorie_variance_kcal": 2050,
+    "protein_target_g": 150,
+    "protein_variance_g": 145,
+    "notes": "Activity tracked separately rather than subtracted from food intake."
+  }
+}
