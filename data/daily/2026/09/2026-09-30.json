@@ -127,11 +127,20 @@
         "protein_g": 18.2,
         "estimated": false,
         "notes": "Calculated from photographed label: 964 kJ (~230 kcal) and 14.3 g protein per 100 g."
+      },
+      {
+        "type": "drink",
+        "name": "Carbonated water",
+        "quantity": "850 mL",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Plain tap water carbonated with DrinkMate."
       }
     ],
     "total_calories_kcal": 2294,
     "total_protein_g": 128.3,
-    "water_ml": 3500
+    "water_ml": 4350
   },
   "exercise": [],
   "activity": {},
@@ -145,7 +154,7 @@
     "calorie_variance_kcal": -144,
     "protein_target_g": 150,
     "protein_variance_g": 21.7,
-    "notes": "Activity tracked separately rather than subtracted from food intake. Tracked water so far: 3500 mL."
+    "notes": "Activity tracked separately rather than subtracted from food intake. Tracked water so far: 4350 mL."
   },
   "plans": [
     {
