@@ -107,10 +107,21 @@
         "calories_kcal": 0,
         "protein_g": 0,
         "estimated": false
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Lamb kebabs with lentil/chickpea salad",
+        "quantity": "265 g lamb kebabs + 180 g same lentil/chickpea salad as 2026-09-29",
+        "calories_kcal": 759,
+        "protein_g": 41.8,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Lamb calculated from photographed label: 964 kJ (~230 kcal) and 14.3 g protein per 100 g. Salad scaled from prior day's tracked lentil/chickpea salad estimate; exact dressing/legume mix remains estimated."
       }
     ],
-    "total_calories_kcal": 1243,
-    "total_protein_g": 68.3,
+    "total_calories_kcal": 2002,
+    "total_protein_g": 110.1,
     "water_ml": 3500
   },
   "exercise": [],
@@ -122,9 +133,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 907,
+    "calorie_variance_kcal": 148,
     "protein_target_g": 150,
-    "protein_variance_g": 81.7,
+    "protein_variance_g": 39.9,
     "notes": "Activity tracked separately rather than subtracted from food intake. Tracked water so far: 3500 mL."
   },
   "plans": [
