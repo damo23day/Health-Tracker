@@ -118,10 +118,19 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "Lamb calculated from photographed label: 964 kJ (~230 kcal) and 14.3 g protein per 100 g. Salad scaled from prior day's tracked lentil/chickpea salad estimate; exact dressing/legume mix remains estimated."
+      },
+      {
+        "type": "meal_addition",
+        "name": "Extra lamb kebab",
+        "quantity": "127 g",
+        "calories_kcal": 292,
+        "protein_g": 18.2,
+        "estimated": false,
+        "notes": "Calculated from photographed label: 964 kJ (~230 kcal) and 14.3 g protein per 100 g."
       }
     ],
-    "total_calories_kcal": 2002,
-    "total_protein_g": 110.1,
+    "total_calories_kcal": 2294,
+    "total_protein_g": 128.3,
     "water_ml": 3500
   },
   "exercise": [],
@@ -133,9 +142,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 148,
+    "calorie_variance_kcal": -144,
     "protein_target_g": 150,
-    "protein_variance_g": 39.9,
+    "protein_variance_g": 21.7,
     "notes": "Activity tracked separately rather than subtracted from food intake. Tracked water so far: 3500 mL."
   },
   "plans": [
