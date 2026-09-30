@@ -65,11 +65,28 @@
         "protein_g": 0,
         "estimated": false,
         "notes": "Second bottle finished; third bottle halfway consumed."
+      },
+      {
+        "type": "snack",
+        "name": "Apple",
+        "quantity": "92 g",
+        "calories_kcal": 48,
+        "protein_g": 0.3,
+        "estimated": true,
+        "notes": "One of two packed 92 g apples consumed."
+      },
+      {
+        "type": "drink",
+        "name": "Water",
+        "quantity": "1 standard bottle (750 mL)",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false
       }
     ],
-    "total_calories_kcal": 995,
-    "total_protein_g": 38,
-    "water_ml": 1875
+    "total_calories_kcal": 1043,
+    "total_protein_g": 38.3,
+    "water_ml": 2625
   },
   "exercise": [],
   "activity": {},
@@ -80,18 +97,18 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1155,
+    "calorie_variance_kcal": 1107,
     "protein_target_g": 150,
-    "protein_variance_g": 112,
-    "notes": "Activity tracked separately rather than subtracted from food intake. Hydration so far: 1,875 mL (first 750 mL Hydration X + creatine bottle, second 750 mL water bottle, halfway through third 750 mL water bottle)."
+    "protein_variance_g": 111.7,
+    "notes": "Activity tracked separately rather than subtracted from food intake. Tracked water so far: 2625 mL."
   },
   "plans": [
     {
       "type": "snack",
       "item": "Apple",
-      "quantity": "2 × 92 g",
+      "quantity": "1 × 92 g",
       "status": "packed/not yet consumed",
-      "notes": "Do not count toward nutrition totals until user confirms eaten."
+      "notes": "One of the original two apples has been consumed; one remains."
     },
     {
       "type": "meal",
