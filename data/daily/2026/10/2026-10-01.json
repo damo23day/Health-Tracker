@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-01",
+  "measurements": {
+    "weight_kg": null,
+    "waist_cm": null
+  },
+  "sleep": {
+    "hours": null,
+    "quality": null
+  },
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Home Coffee with ON Gold Standard Double Rich Chocolate Whey",
+        "quantity": "1 standard home coffee + 1 scoop whey (30.4 g) + ~50 mL milk",
+        "calories_kcal": 152,
+        "protein_g": 26,
+        "estimated": true,
+        "notes": "Whey label exact: 122 kcal, 24 g protein. Milk allowance estimated at ~30 kcal and ~2 g protein; coffee itself negligible unless otherwise specified."
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Poached eggs on multigrain toast with hummus",
+        "quantity": "100 g poached eggs + 2 slices multigrain toast + ~1 tsp (5 g) hummus",
+        "calories_kcal": 347,
+        "protein_g": 21,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Egg weight supplied; toast and hummus nutrition estimated. Hummus used as spread; no butter."
+      },
+      {
+        "type": "drink",
+        "name": "Genetix Hydration X - Lemon Splash",
+        "quantity": "1 scoop (14.5 g) in 750 mL",
+        "calories_kcal": 24,
+        "protein_g": 0,
+        "estimated": false
+      },
+      {
+        "type": "supplement",
+        "name": "Genetix Nutrition Pure Series 100% Pure Creatine Monohydrate",
+        "quantity": "1 level scoop (3 g)",
+        "calories_kcal": 11,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Added to drink bottle. Label protein not counted toward dietary protein target."
+      }
+    ],
+    "total_calories_kcal": 534,
+    "total_protein_g": 47,
+    "water_ml": 750
+  },
+  "exercise": [],
+  "activity": {},
+  "wellbeing": {
+    "hunger": null,
+    "energy": null,
+    "notes": null
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "calorie_variance_kcal": 1616,
+    "protein_target_g": 150,
+    "protein_variance_g": 103,
+    "notes": "Running totals. Activity tracked separately rather than subtracted from food intake. Tracked water: 750 mL."
+  },
+  "plans": []
+}
