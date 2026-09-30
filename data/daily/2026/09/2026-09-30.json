@@ -91,11 +91,27 @@
         "protein_g": 0,
         "estimated": false,
         "notes": "Bottle 3 now confirmed finished."
+      },
+      {
+        "type": "meal",
+        "name": "Chocolate Man Shake",
+        "quantity": "1 standard serve",
+        "calories_kcal": 200,
+        "protein_g": 30,
+        "estimated": false
+      },
+      {
+        "type": "drink",
+        "name": "Water",
+        "quantity": "500 mL",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false
       }
     ],
-    "total_calories_kcal": 1043,
-    "total_protein_g": 38.3,
-    "water_ml": 3000
+    "total_calories_kcal": 1243,
+    "total_protein_g": 68.3,
+    "water_ml": 3500
   },
   "exercise": [],
   "activity": {},
@@ -106,10 +122,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1107,
+    "calorie_variance_kcal": 907,
     "protein_target_g": 150,
-    "protein_variance_g": 111.7,
-    "notes": "Activity tracked separately rather than subtracted from food intake. Tracked water so far: 3000 mL. Bottle 3 confirmed finished."
+    "protein_variance_g": 81.7,
+    "notes": "Activity tracked separately rather than subtracted from food intake. Tracked water so far: 3500 mL."
   },
   "plans": [
     {
@@ -118,15 +134,6 @@
       "quantity": "1 × 92 g",
       "status": "packed/not yet consumed",
       "notes": "One of the original two apples has been consumed; one remains."
-    },
-    {
-      "type": "meal",
-      "item": "Chocolate Man Shake",
-      "quantity": "1 standard serve",
-      "status": "packed/not yet consumed",
-      "calories_kcal": 200,
-      "protein_g": 30,
-      "notes": "Prepared and in bag ready to drink; do not count until user confirms consumed."
     }
   ]
 }
