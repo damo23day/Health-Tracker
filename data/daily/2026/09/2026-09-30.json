@@ -28,11 +28,48 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "12 oz work coffee; estimated as a typical full-cream-milk coffee unless milk/type is clarified."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Pork bánh mì / pork roll",
+        "quantity": "1 roll",
+        "calories_kcal": 700,
+        "protein_g": 25,
+        "estimated": true,
+        "estimate_confidence": "moderate-low",
+        "notes": "Conservative allowance discussed before lunch; exact fillings/size not provided."
+      },
+      {
+        "type": "drink",
+        "name": "Genetix Hydration X - Lemon Splash",
+        "quantity": "1 scoop (14.5 g) in 750 mL",
+        "calories_kcal": 24,
+        "protein_g": 0,
+        "estimated": false
+      },
+      {
+        "type": "supplement",
+        "name": "Genetix Nutrition Pure Series 100% Pure Creatine Monohydrate",
+        "quantity": "1 level scoop (3 g)",
+        "calories_kcal": 11,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Label protein not counted toward dietary protein target."
+      },
+      {
+        "type": "drink",
+        "name": "Water",
+        "quantity": "1 full 750 mL bottle + half of third 750 mL bottle (375 mL)",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Second bottle finished; third bottle halfway consumed."
       }
     ],
-    "total_calories_kcal": 260,
-    "total_protein_g": 13,
-    "water_ml": 0
+    "total_calories_kcal": 995,
+    "total_protein_g": 38,
+    "water_ml": 1875
   },
   "exercise": [],
   "activity": {},
@@ -43,10 +80,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1890,
+    "calorie_variance_kcal": 1155,
     "protein_target_g": 150,
-    "protein_variance_g": 137,
-    "notes": "Activity tracked separately rather than subtracted from food intake."
+    "protein_variance_g": 112,
+    "notes": "Activity tracked separately rather than subtracted from food intake. Hydration so far: 1,875 mL (first 750 mL Hydration X + creatine bottle, second 750 mL water bottle, halfway through third 750 mL water bottle)."
   },
   "plans": [
     {
@@ -64,14 +101,6 @@
       "calories_kcal": 200,
       "protein_g": 30,
       "notes": "Prepared and in bag ready to drink; do not count until user confirms consumed."
-    },
-    {
-      "type": "hydration/supplement",
-      "item": "Genetix Hydration X + creatine",
-      "quantity": "1 × 750 mL bottle; 1 scoop Hydration X (14.5 g) + 1 scoop creatine (3 g)",
-      "status": "prepared/not yet confirmed consumed",
-      "calories_kcal": 35,
-      "notes": "Bottle filled and ready. Do not count calories/water toward consumed totals until drinking is confirmed."
     }
   ]
 }
