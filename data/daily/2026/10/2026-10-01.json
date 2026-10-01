@@ -76,10 +76,20 @@
         "protein_g": 0.3,
         "estimated": true,
         "notes": "Estimated using standard apple nutrition."
+      },
+      {
+        "type": "snack",
+        "name": "Jalna Sweet & Creamy Greek Style yoghurt with corn flakes",
+        "quantity": "150 g yoghurt + 20 g corn flakes",
+        "calories_kcal": 276,
+        "protein_g": 6.7,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Jalna yoghurt from stored label: 136 kcal and 3.5 g protein per 100 g = 204 kcal and 5.25 g protein for 150 g. Corn flakes estimated at ~360 kcal and ~7.3 g protein per 100 g = ~72 kcal and ~1.5 g protein for 20 g."
       }
     ],
-    "total_calories_kcal": 1232,
-    "total_protein_g": 124.3,
+    "total_calories_kcal": 1508,
+    "total_protein_g": 131,
     "water_ml": 750
   },
   "exercise": [],
@@ -91,9 +101,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 918,
+    "calorie_variance_kcal": 642,
     "protein_target_g": 150,
-    "protein_variance_g": 25.7,
+    "protein_variance_g": 19,
     "notes": "Running totals. Activity tracked separately rather than subtracted from food intake. Tracked water: 750 mL."
   },
   "plans": []
