@@ -67,10 +67,19 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "Salad estimate includes cabbage, carrot, crunchy noodles and a small amount of dressing based on supplied photo. Chicken estimated as cooked skinless chicken breast."
+      },
+      {
+        "type": "snack",
+        "name": "Apple",
+        "quantity": "92 g",
+        "calories_kcal": 48,
+        "protein_g": 0.3,
+        "estimated": true,
+        "notes": "Estimated using standard apple nutrition."
       }
     ],
-    "total_calories_kcal": 1184,
-    "total_protein_g": 124,
+    "total_calories_kcal": 1232,
+    "total_protein_g": 124.3,
     "water_ml": 750
   },
   "exercise": [],
@@ -82,9 +91,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 966,
+    "calorie_variance_kcal": 918,
     "protein_target_g": 150,
-    "protein_variance_g": 26,
+    "protein_variance_g": 25.7,
     "notes": "Running totals. Activity tracked separately rather than subtracted from food intake. Tracked water: 750 mL."
   },
   "plans": []
