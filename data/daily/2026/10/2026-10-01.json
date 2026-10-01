@@ -46,10 +46,31 @@
         "protein_g": 0,
         "estimated": false,
         "notes": "Added to drink bottle. Label protein not counted toward dietary protein target."
+      },
+      {
+        "type": "drink",
+        "name": "Vanilla protein iced coffee",
+        "quantity": "1 espresso shot + 150 mL milk + 1 scoop ON Gold Standard French Vanilla Crème whey (31 g)",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Whey label exact: 118 kcal, 24 g protein. Milk estimated at ~90 kcal and ~5 g protein; espresso ~2 kcal."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chicken with cabbage, carrot and crunchy noodle salad",
+        "quantity": "190 g salad + 147 g cooked chicken",
+        "calories_kcal": 440,
+        "protein_g": 48,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Salad estimate includes cabbage, carrot, crunchy noodles and a small amount of dressing based on supplied photo. Chicken estimated as cooked skinless chicken breast."
       }
     ],
-    "total_calories_kcal": 534,
-    "total_protein_g": 47,
+    "total_calories_kcal": 1184,
+    "total_protein_g": 124,
     "water_ml": 750
   },
   "exercise": [],
@@ -61,9 +82,9 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1616,
+    "calorie_variance_kcal": 966,
     "protein_target_g": 150,
-    "protein_variance_g": 103,
+    "protein_variance_g": 26,
     "notes": "Running totals. Activity tracked separately rather than subtracted from food intake. Tracked water: 750 mL."
   },
   "plans": []
