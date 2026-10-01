@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-02",
+  "measurements": {"weight_kg": null, "waist_cm": null},
+  "sleep": {"hours": null, "quality": null},
+  "nutrition": {
+    "entries": [
+      {"type":"meal","meal":"breakfast","name":"Eggs on toast with avocado spread","quantity":"3 medium eggs + 2 slices regular toast + ~30 g avocado spread","calories_kcal":420,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Egg count and toast quantity supplied. Avocado spread estimated at ~30 g; calorie and protein totals estimated."}
+    ],
+    "total_calories_kcal":420,
+    "total_protein_g":25,
+    "water_ml":0
+  },
+  "exercise": [],
+  "activity": {},
+  "wellbeing": {"hunger":null,"energy":null,"notes":null},
+  "daily_summary": {
+    "calorie_target_kcal":2150,
+    "calorie_variance_kcal":1730,
+    "protein_target_g":150,
+    "protein_variance_g":125,
+    "notes":"Day in progress. Current tracked intake: ~420 kcal and ~25 g protein. Remaining against daily targets: ~1,730 kcal and ~125 g protein."
+  },
+  "plans": []
+}
