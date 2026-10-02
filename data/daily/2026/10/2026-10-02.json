@@ -6,21 +6,23 @@
     "entries": [
       {"type":"meal","meal":"breakfast","name":"Eggs on toast with avocado spread","quantity":"3 medium eggs + 2 slices regular toast + ~30 g avocado spread","calories_kcal":420,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Egg count and toast quantity supplied. Avocado spread estimated at ~30 g; calorie and protein totals estimated."},
       {"type":"drink","name":"Genetix Hydration X - Lemon Splash","quantity":"1 scoop (14.5 g) in 750 mL","calories_kcal":24,"protein_g":0,"estimated":false},
-      {"type":"supplement","name":"Genetix Nutrition Pure Series 100% Pure Creatine Monohydrate","quantity":"1 level scoop (3 g)","calories_kcal":11,"protein_g":0,"estimated":false,"notes":"Added to drink bottle. Label protein not counted toward dietary protein target."}
+      {"type":"supplement","name":"Genetix Nutrition Pure Series 100% Pure Creatine Monohydrate","quantity":"1 level scoop (3 g)","calories_kcal":11,"protein_g":0,"estimated":false,"notes":"Added to drink bottle. Label protein not counted toward dietary protein target."},
+      {"type":"meal","meal":"lunch","name":"Bacon, egg and salad English muffin","quantity":"1 English muffin with bacon, egg, lettuce, tomato and a small amount of sauce","calories_kcal":390,"protein_g":20,"estimated":true,"estimate_confidence":"moderate","notes":"Estimated from description; exact muffin size, bacon quantity and sauce amount not measured."},
+      {"type":"drink","name":"Schweppes Lime & Lemon Flavoured Mineral Water","quantity":"375 mL can","calories_kcal":3,"protein_g":0,"estimated":false,"notes":"Label shows 11 kJ per 375 mL serving, 0 g carbohydrate and 0 g sugar."}
     ],
-    "total_calories_kcal":455,
-    "total_protein_g":25,
-    "water_ml":750
+    "total_calories_kcal":848,
+    "total_protein_g":45,
+    "water_ml":1125
   },
   "exercise": [],
   "activity": {},
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":1695,
+    "calorie_variance_kcal":1302,
     "protein_target_g":150,
-    "protein_variance_g":125,
-    "notes":"Day in progress. Current tracked intake: ~455 kcal and ~25 g protein. Tracked water: 750 mL. Remaining against daily targets: ~1,695 kcal and ~125 g protein."
+    "protein_variance_g":105,
+    "notes":"Day in progress. Current tracked intake: ~848 kcal and ~45 g protein. Tracked fluids counted toward hydration: 1,125 mL. Remaining against daily targets: ~1,302 kcal and ~105 g protein. Lunch is estimated because exact ingredient weights were not recorded."
   },
   "plans": []
 }
