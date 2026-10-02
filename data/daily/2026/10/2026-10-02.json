@@ -10,10 +10,12 @@
       {"type":"meal","meal":"lunch","name":"Bacon, egg and salad English muffin","quantity":"1 English muffin with bacon, egg, lettuce, tomato and a small amount of sauce","calories_kcal":390,"protein_g":20,"estimated":true,"estimate_confidence":"moderate","notes":"Estimated from description; exact muffin size, bacon quantity and sauce amount not measured."},
       {"type":"drink","name":"Schweppes Lime & Lemon Flavoured Mineral Water","quantity":"375 mL can","calories_kcal":3,"protein_g":0,"estimated":false,"notes":"Label shows 11 kJ per 375 mL serving, 0 g carbohydrate and 0 g sugar."},
       {"type":"snack","name":"Apple","quantity":"92 g","calories_kcal":48,"protein_g":0.3,"estimated":true,"notes":"Estimated using standard apple nutrition."},
-      {"type":"drink","name":"Water","quantity":"750 mL","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Second drink bottle for the day."}
+      {"type":"drink","name":"Water","quantity":"750 mL","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Second drink bottle for the day."},
+      {"type":"drink","name":"Vodka with lime soda/mineral water","quantity":"3 drinks, assumed 30 mL vodka each with low-calorie lime mixer","calories_kcal":204,"protein_g":0,"estimated":true,"estimate_confidence":"moderate","notes":"Estimated at ~68 kcal per drink based on 30 mL vodka plus very-low-calorie lime/lemon mixer. Adjust if vodka pours were larger."},
+      {"type":"meal","meal":"dinner","name":"Hard-shell tacos","quantity":"3 tacos","calories_kcal":540,"protein_g":30,"estimated":true,"estimate_confidence":"low","notes":"Estimated at ~180 kcal and ~10 g protein each. Filling and topping quantities not supplied; revise if ingredients or amounts become available."}
     ],
-    "total_calories_kcal":896,
-    "total_protein_g":45.3,
+    "total_calories_kcal":1640,
+    "total_protein_g":75.3,
     "water_ml":1875
   },
   "exercise": [],
@@ -21,10 +23,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":1254,
+    "calorie_variance_kcal":510,
     "protein_target_g":150,
-    "protein_variance_g":104.7,
-    "notes":"Day in progress. Current tracked intake: ~896 kcal and ~45.3 g protein. Tracked fluids counted toward hydration: 1,875 mL. Remaining against daily targets: ~1,254 kcal and ~104.7 g protein. Lunch is estimated because exact ingredient weights were not recorded."
+    "protein_variance_g":74.7,
+    "notes":"Day in progress. Current tracked intake: ~1,640 kcal and ~75.3 g protein. Tracked fluids counted toward hydration: 1,875 mL. Approximately 510 kcal remain against calorie target and ~74.7 g protein remain against protein target. Vodka drinks assume standard 30 mL pours; taco estimate has low confidence because fillings and toppings were not specified."
   },
   "plans": []
 }
