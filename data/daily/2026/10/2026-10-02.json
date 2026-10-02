@@ -4,21 +4,23 @@
   "sleep": {"hours": null, "quality": null},
   "nutrition": {
     "entries": [
-      {"type":"meal","meal":"breakfast","name":"Eggs on toast with avocado spread","quantity":"3 medium eggs + 2 slices regular toast + ~30 g avocado spread","calories_kcal":420,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Egg count and toast quantity supplied. Avocado spread estimated at ~30 g; calorie and protein totals estimated."}
+      {"type":"meal","meal":"breakfast","name":"Eggs on toast with avocado spread","quantity":"3 medium eggs + 2 slices regular toast + ~30 g avocado spread","calories_kcal":420,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Egg count and toast quantity supplied. Avocado spread estimated at ~30 g; calorie and protein totals estimated."},
+      {"type":"drink","name":"Genetix Hydration X - Lemon Splash","quantity":"1 scoop (14.5 g) in 750 mL","calories_kcal":24,"protein_g":0,"estimated":false},
+      {"type":"supplement","name":"Genetix Nutrition Pure Series 100% Pure Creatine Monohydrate","quantity":"1 level scoop (3 g)","calories_kcal":11,"protein_g":0,"estimated":false,"notes":"Added to drink bottle. Label protein not counted toward dietary protein target."}
     ],
-    "total_calories_kcal":420,
+    "total_calories_kcal":455,
     "total_protein_g":25,
-    "water_ml":0
+    "water_ml":750
   },
   "exercise": [],
   "activity": {},
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":1730,
+    "calorie_variance_kcal":1695,
     "protein_target_g":150,
     "protein_variance_g":125,
-    "notes":"Day in progress. Current tracked intake: ~420 kcal and ~25 g protein. Remaining against daily targets: ~1,730 kcal and ~125 g protein."
+    "notes":"Day in progress. Current tracked intake: ~455 kcal and ~25 g protein. Tracked water: 750 mL. Remaining against daily targets: ~1,695 kcal and ~125 g protein."
   },
   "plans": []
 }
