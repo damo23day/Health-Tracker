@@ -15,9 +15,9 @@
       {"type":"meal","meal":"dinner","name":"Hard-shell tacos","quantity":"3 tacos","calories_kcal":540,"protein_g":30,"estimated":true,"estimate_confidence":"low","notes":"Estimated at ~180 kcal and ~10 g protein each. Filling and topping quantities not supplied; revise if ingredients or amounts become available."},
       {"type":"snack","name":"Apple","quantity":"1 apple, assumed 92 g","calories_kcal":48,"protein_g":0.3,"estimated":true,"notes":"Logged as another apple; assumed same 92 g size as earlier apple unless corrected."},
       {"type":"meal","meal":"dinner","name":"Soft-shell taco","quantity":"1 taco","calories_kcal":210,"protein_g":10,"estimated":true,"estimate_confidence":"low","notes":"Estimated using similar taco filling to the hard-shell tacos with allowance for a soft flour tortilla. Filling and topping quantities not supplied."},
-      {"type":"drink","name":"Beer","quantity":"2 beers","calories_kcal":192,"protein_g":0,"estimated":false,"notes":"User supplied 96 kcal per beer."}
+      {"type":"drink","name":"Beer","quantity":"3 beers","calories_kcal":288,"protein_g":0,"estimated":false,"notes":"User supplied 96 kcal per beer."}
     ],
-    "total_calories_kcal":2090,
+    "total_calories_kcal":2186,
     "total_protein_g":85.6,
     "water_ml":1875
   },
@@ -26,10 +26,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":60,
+    "calorie_variance_kcal":-36,
     "protein_target_g":150,
     "protein_variance_g":64.4,
-    "notes":"Day in progress. Current tracked intake: ~2,090 kcal and ~85.6 g protein. Tracked fluids counted toward hydration: 1,875 mL. Approximately 60 kcal remain against calorie target and ~64.4 g protein remain against protein target. Vodka drinks assume standard 30 mL pours. Taco estimates have low confidence because fillings and toppings were not specified. Second apple assumed to be the same 92 g size as the earlier apple."
+    "notes":"Day in progress. Current tracked intake: ~2,186 kcal and ~85.6 g protein. Tracked fluids counted toward hydration: 1,875 mL. Intake is ~36 kcal above the 2,150 kcal daily target and ~64.4 g protein below target. Vodka drinks assume standard 30 mL pours. Taco estimates have low confidence because fillings and toppings were not specified. Second apple assumed to be the same 92 g size as the earlier apple."
   },
   "plans": []
 }
