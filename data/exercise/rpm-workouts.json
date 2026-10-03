@@ -2,18 +2,7 @@
   "schema_version": "1.0",
   "description": "Authoritative longitudinal record of RPM / Group Cycle workouts. Daily logs may contain a contextual exercise snapshot; use this file for RPM performance trends.",
   "source_of_truth": true,
-  "fields": [
-    "date",
-    "workout_type",
-    "duration",
-    "distance_km",
-    "calories_reported",
-    "moves",
-    "average_power_w",
-    "max_power_w",
-    "average_cadence_rpm",
-    "notes"
-  ],
+  "fields": ["date","workout_type","duration","distance_km","calories_reported","moves","average_power_w","max_power_w","average_cadence_rpm","notes"],
   "entries": [
     {
       "date": "2026-09-27",
@@ -66,6 +55,12 @@
         "source": "Samsung Health",
         "average_bpm": 140,
         "max_bpm": 168
+      },
+      "post_workout_feedback": {
+        "energy": "Very low",
+        "perceived_effort": "Very hard",
+        "user_feedback": "Really struggled today, felt like I had no energy, and it was a real struggle to get through the session.",
+        "performance_context": "Despite feeling substantially more fatigued, average power was maintained at 165 W compared with 166 W on 2026-09-27."
       }
     }
   ]
