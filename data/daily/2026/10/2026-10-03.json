@@ -5,10 +5,11 @@
   "nutrition": {
     "entries": [
       {"type":"drink","name":"Nescafé coffee sachet","quantity":"1 sachet prepared","calories_kcal":70,"protein_g":1,"estimated":true,"estimate_confidence":"low-moderate","notes":"Exact Nescafé sachet variety not supplied; placeholder estimate until product/label is confirmed."},
-      {"type":"drink","name":"Milk coffee","quantity":"1 proper milk coffee","calories_kcal":150,"protein_g":7,"estimated":true,"estimate_confidence":"moderate-low","notes":"Coffee size and milk type not supplied; estimated as a typical milk-based coffee."}
+      {"type":"drink","name":"Milk coffee","quantity":"1 proper milk coffee","calories_kcal":150,"protein_g":7,"estimated":true,"estimate_confidence":"moderate-low","notes":"Coffee size and milk type not supplied; estimated as a typical milk-based coffee."},
+      {"type":"snack","name":"Hillcrest Choc Chip Oat Bar","quantity":"38 g","calories_kcal":170,"protein_g":3,"estimated":true,"estimate_confidence":"moderate-low","notes":"Bar weighed by user at 38 g. Individual wrapper has no nutrition panel; estimated using typical choc-chip oat/muesli bar energy density. Revise if outer-box nutrition information becomes available."}
     ],
-    "total_calories_kcal":220,
-    "total_protein_g":8,
+    "total_calories_kcal":390,
+    "total_protein_g":11,
     "water_ml":0
   },
   "exercise": [],
@@ -16,10 +17,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":1930,
+    "calorie_variance_kcal":1760,
     "protein_target_g":150,
-    "protein_variance_g":142,
-    "notes":"Day in progress. Started with one Nescafé sachet coffee and one milk-based coffee. Both are estimated because exact sachet variety, coffee size and milk type were not supplied. Current estimated intake: ~220 kcal and ~8 g protein."
+    "protein_variance_g":139,
+    "notes":"Day in progress. Current estimated intake: ~390 kcal and ~11 g protein. Hillcrest Choc Chip Oat Bar weighed at 38 g and estimated at ~170 kcal/~3 g protein because the individual wrapper has no nutrition panel. Coffee values remain estimated pending exact products/sizes."
   },
   "plans": []
 }
