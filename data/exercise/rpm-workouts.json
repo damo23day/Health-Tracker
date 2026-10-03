@@ -49,6 +49,24 @@
       "average_cadence_rpm": null,
       "source": "User-confirmed completed RPM session; tracking/sync failure",
       "notes": "Proper RPM session completed. Group Cycle Connect did not record/sync. Samsung Health also failed to update correctly. Watch cycling exercise was manually started 28:40 into class and covered roughly the final 20+ minutes, but phone did not sync the workout. User reports session was similar in effort to 2026-09-27. No performance metrics or calories copied from the prior workout; session retained as completed with metrics unavailable."
+    },
+    {
+      "date": "2026-10-04",
+      "workout_type": "Group Cycle / RPM",
+      "duration": "49:40",
+      "distance_km": 21.0,
+      "calories_reported": 579,
+      "moves": 1048,
+      "average_power_w": 165,
+      "max_power_w": 462,
+      "average_cadence_rpm": 69,
+      "source": "Group Cycle Connect and Samsung Health screenshots",
+      "notes": "Group Cycle Connect: 49:40, 21 km, 579 kcal, 1048 moves, 165 W average, 462 W max, 69 rpm average cadence. Samsung Health was recorded as Other workout from 08:32, showing 45:04 total duration, 463 kcal, 140 bpm average heart rate and 168 bpm maximum heart rate. Group Cycle Connect metrics retained as the primary RPM performance record; Samsung Health heart-rate metrics retained as complementary data.",
+      "heart_rate": {
+        "source": "Samsung Health",
+        "average_bpm": 140,
+        "max_bpm": 168
+      }
     }
   ]
 }
