@@ -8,10 +8,11 @@
       {"type":"drink","name":"Milk coffee","quantity":"1 proper milk coffee","calories_kcal":150,"protein_g":7,"estimated":true,"estimate_confidence":"moderate-low","notes":"Coffee size and milk type not supplied; estimated as a typical milk-based coffee."},
       {"type":"snack","name":"Hillcrest Choc Chip Oat Bar","quantity":"38 g","calories_kcal":170,"protein_g":3,"estimated":true,"estimate_confidence":"moderate-low","notes":"Bar weighed by user at 38 g. Individual wrapper has no nutrition panel; estimated using typical choc-chip oat/muesli bar energy density. Revise if outer-box nutrition information becomes available."},
       {"type":"snack","name":"Berg Mild Hungarian Style Salami","quantity":"30 g","calories_kcal":99.3,"protein_g":6.09,"estimated":false,"notes":"Calculated from photographed label: 331 kcal and 20.3 g protein per 100 g."},
-      {"type":"snack","name":"Urban Eats Pork Dumplings","quantity":"40 g","calories_kcal":58.4,"protein_g":3.12,"estimated":false,"notes":"Calculated from photographed label: 146 kcal and 7.8 g protein per 100 g."}
+      {"type":"snack","name":"Urban Eats Pork Dumplings","quantity":"40 g","calories_kcal":58.4,"protein_g":3.12,"estimated":false,"notes":"Calculated from photographed label: 146 kcal and 7.8 g protein per 100 g. User described this as two dumplings."},
+      {"type":"meal","meal":"breakfast/lunch","name":"Eggs on wholegrain toast","quantity":"142 g eggs + 2 slices wholegrain toast","calories_kcal":400,"protein_g":27,"estimated":true,"estimate_confidence":"moderate","notes":"Egg weight supplied. Wholegrain toast quantity supplied; bread nutrition estimated because exact bread label was not provided."}
     ],
-    "total_calories_kcal":547.7,
-    "total_protein_g":20.21,
+    "total_calories_kcal":947.7,
+    "total_protein_g":47.21,
     "water_ml":0
   },
   "exercise": [],
@@ -19,12 +20,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":1602.3,
+    "calorie_variance_kcal":1202.3,
     "protein_target_g":150,
-    "protein_variance_g":129.79,
-    "notes":"Day in progress. Current logged intake: ~548 kcal and ~20.2 g protein. Salami and pork dumplings calculated from supplied nutrition labels. Planned 142 g eggs and two pieces wholegrain toast have not yet been counted as eaten. Coffee and oat-bar values remain estimated."
+    "protein_variance_g":102.79,
+    "notes":"Day in progress. Current logged intake: ~948 kcal and ~47.2 g protein. User confirmed eating the 142 g eggs with two slices wholegrain toast, along with the already logged 40 g pork dumplings and 30 g salami. Approximately 1,202 kcal remain against the 2,150 kcal target. Coffee and oat-bar values remain estimated."
   },
-  "plans": [
-    {"type":"meal","item":"Eggs with wholegrain toast","quantity":"142 g eggs + 2 slices wholegrain toast","status":"planned/not yet confirmed eaten","notes":"User said they were about to have this meal; not included in nutrition totals until confirmed eaten."}
-  ]
+  "plans": []
 }
