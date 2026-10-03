@@ -10,9 +10,10 @@
       {"type":"snack","name":"Berg Mild Hungarian Style Salami","quantity":"30 g","calories_kcal":99.3,"protein_g":6.09,"estimated":false,"notes":"Calculated from photographed label: 331 kcal and 20.3 g protein per 100 g."},
       {"type":"snack","name":"Urban Eats Pork Dumplings","quantity":"40 g","calories_kcal":58.4,"protein_g":3.12,"estimated":false,"notes":"Calculated from photographed label: 146 kcal and 7.8 g protein per 100 g. User described this as two dumplings."},
       {"type":"meal","meal":"breakfast/lunch","name":"Eggs on wholegrain toast","quantity":"142 g eggs + 2 slices wholegrain toast","calories_kcal":400,"protein_g":27,"estimated":true,"estimate_confidence":"moderate","notes":"Egg weight supplied. Wholegrain toast quantity supplied; bread nutrition estimated because exact bread label was not provided."},
-      {"type":"meal","meal":"dinner","name":"Chicken salad wrap","quantity":"1 Bakers Life large white wrap + 120 g salad/fillings + 55 g chicken","calories_kcal":430,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Wrap is exact from photographed label: 206 kcal and 5.8 g protein. Chicken estimated at ~110 kcal/~17 g protein for 55 g cooked crumbed/fried chicken. 120 g salad/fillings estimated at ~114 kcal/~2 g protein due to visible shredded cheese and mixed vegetables; no exact ingredient weights supplied."}
+      {"type":"meal","meal":"dinner","name":"Chicken salad wrap","quantity":"1 Bakers Life large white wrap + 120 g salad/fillings + 55 g chicken","calories_kcal":430,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Wrap is exact from photographed label: 206 kcal and 5.8 g protein. Chicken estimated at ~110 kcal/~17 g protein for 55 g cooked crumbed/fried chicken. 120 g salad/fillings estimated at ~114 kcal/~2 g protein due to visible shredded cheese and mixed vegetables; no exact ingredient weights supplied."},
+      {"type":"drink","name":"6% beer","quantity":"2 x 375 mL cans","calories_kcal":306,"protein_g":0,"estimated":false,"notes":"Photographed can label states 153 kcal per 375 mL can, 6% ABV and 1.5 standard drinks per can."}
     ],
-    "total_calories_kcal":1377.7,
+    "total_calories_kcal":1683.7,
     "total_protein_g":72.21,
     "water_ml":0
   },
@@ -21,10 +22,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":772.3,
+    "calorie_variance_kcal":466.3,
     "protein_target_g":150,
     "protein_variance_g":77.79,
-    "notes":"Day in progress. Current logged intake: ~1,378 kcal and ~72.2 g protein. Chicken salad wrap estimated at ~430 kcal/~25 g protein; wrap value is label-based, while chicken and salad/cheese filling are estimated from supplied weights and image. Approximately 772 kcal remain against the 2,150 kcal target. Beers discussed earlier have not been logged because consumption has not been confirmed."
+    "notes":"Day in progress. Current logged intake: ~1,684 kcal and ~72.2 g protein. Two 375 mL 6% beers added at 153 kcal each from the supplied label. Approximately 466 kcal remain against the 2,150 kcal target. Protein remains ~77.8 g below target."
   },
   "plans": []
 }
