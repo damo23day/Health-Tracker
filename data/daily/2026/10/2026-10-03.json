@@ -12,10 +12,11 @@
       {"type":"meal","meal":"breakfast/lunch","name":"Eggs on wholegrain toast","quantity":"142 g eggs + 2 slices wholegrain toast","calories_kcal":400,"protein_g":27,"estimated":true,"estimate_confidence":"moderate","notes":"Egg weight supplied. Wholegrain toast quantity supplied; bread nutrition estimated because exact bread label was not provided."},
       {"type":"meal","meal":"dinner","name":"Chicken salad wrap","quantity":"2 wraps total; each assumed 1 Bakers Life large white wrap + ~120 g salad/fillings + ~55 g chicken","calories_kcal":860,"protein_g":50,"estimated":true,"estimate_confidence":"moderate-low","notes":"Second wrap assumed the same size and filling quantities as the first because user said to add another wrap. Each estimated at ~430 kcal/~25 g protein. Revise if the second wrap differed."},
       {"type":"drink","name":"6% beer","quantity":"2 x 375 mL cans","calories_kcal":306,"protein_g":0,"estimated":false,"notes":"Photographed can label states 153 kcal per 375 mL can, 6% ABV and 1.5 standard drinks per can."},
-      {"type":"drink","name":"Protein coffee","quantity":"1 espresso shot + 150 g milk + 1 scoop Optimum Nutrition Gold Standard French Vanilla Crème whey","calories_kcal":210,"protein_g":29,"estimated":true,"estimate_confidence":"moderate-high","notes":"Uses established protein-coffee recipe: French Vanilla Crème whey 1 scoop = 118 kcal/24 g protein; 150 g milk estimated ~90 kcal/~5 g protein; espresso ~2 kcal."}
+      {"type":"drink","name":"Protein coffee","quantity":"1 espresso shot + 150 g milk + 1 scoop Optimum Nutrition Gold Standard French Vanilla Crème whey","calories_kcal":210,"protein_g":29,"estimated":true,"estimate_confidence":"moderate-high","notes":"Uses established protein-coffee recipe: French Vanilla Crème whey 1 scoop = 118 kcal/24 g protein; 150 g milk estimated ~90 kcal/~5 g protein; espresso ~2 kcal."},
+      {"type":"snack","name":"Extra cooked chicken","quantity":"30 g","calories_kcal":60,"protein_g":9.3,"estimated":true,"estimate_confidence":"moderate","notes":"Estimated consistently with the cooked crumbed/fried chicken used in the wraps (~200 kcal and ~31 g protein per 100 g)."}
     ],
-    "total_calories_kcal":2323.7,
-    "total_protein_g":126.21,
+    "total_calories_kcal":2383.7,
+    "total_protein_g":135.51,
     "water_ml":0
   },
   "exercise": [],
@@ -23,10 +24,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":-173.7,
+    "calorie_variance_kcal":-233.7,
     "protein_target_g":150,
-    "protein_variance_g":23.79,
-    "notes":"Day in progress. Current logged intake: ~2,324 kcal and ~126.2 g protein. A second chicken salad wrap was added, assumed identical to the first at ~430 kcal/~25 g protein. Intake is ~174 kcal above the 2,150 kcal target and protein is ~23.8 g below the 150 g target."
+    "protein_variance_g":14.49,
+    "notes":"Day in progress. Current logged intake: ~2,384 kcal and ~135.5 g protein. Added 30 g extra chicken, estimated consistently with the chicken used in the wraps. Intake is ~234 kcal above the 2,150 kcal target and protein is ~14.5 g below the 150 g target."
   },
   "plans": []
 }
