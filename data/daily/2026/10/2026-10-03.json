@@ -9,10 +9,11 @@
       {"type":"snack","name":"Hillcrest Choc Chip Oat Bar","quantity":"38 g","calories_kcal":170,"protein_g":3,"estimated":true,"estimate_confidence":"moderate-low","notes":"Bar weighed by user at 38 g. Individual wrapper has no nutrition panel; estimated using typical choc-chip oat/muesli bar energy density. Revise if outer-box nutrition information becomes available."},
       {"type":"snack","name":"Berg Mild Hungarian Style Salami","quantity":"30 g","calories_kcal":99.3,"protein_g":6.09,"estimated":false,"notes":"Calculated from photographed label: 331 kcal and 20.3 g protein per 100 g."},
       {"type":"snack","name":"Urban Eats Pork Dumplings","quantity":"40 g","calories_kcal":58.4,"protein_g":3.12,"estimated":false,"notes":"Calculated from photographed label: 146 kcal and 7.8 g protein per 100 g. User described this as two dumplings."},
-      {"type":"meal","meal":"breakfast/lunch","name":"Eggs on wholegrain toast","quantity":"142 g eggs + 2 slices wholegrain toast","calories_kcal":400,"protein_g":27,"estimated":true,"estimate_confidence":"moderate","notes":"Egg weight supplied. Wholegrain toast quantity supplied; bread nutrition estimated because exact bread label was not provided."}
+      {"type":"meal","meal":"breakfast/lunch","name":"Eggs on wholegrain toast","quantity":"142 g eggs + 2 slices wholegrain toast","calories_kcal":400,"protein_g":27,"estimated":true,"estimate_confidence":"moderate","notes":"Egg weight supplied. Wholegrain toast quantity supplied; bread nutrition estimated because exact bread label was not provided."},
+      {"type":"meal","meal":"dinner","name":"Chicken salad wrap","quantity":"1 Bakers Life large white wrap + 120 g salad/fillings + 55 g chicken","calories_kcal":430,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Wrap is exact from photographed label: 206 kcal and 5.8 g protein. Chicken estimated at ~110 kcal/~17 g protein for 55 g cooked crumbed/fried chicken. 120 g salad/fillings estimated at ~114 kcal/~2 g protein due to visible shredded cheese and mixed vegetables; no exact ingredient weights supplied."}
     ],
-    "total_calories_kcal":947.7,
-    "total_protein_g":47.21,
+    "total_calories_kcal":1377.7,
+    "total_protein_g":72.21,
     "water_ml":0
   },
   "exercise": [],
@@ -20,10 +21,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":1202.3,
+    "calorie_variance_kcal":772.3,
     "protein_target_g":150,
-    "protein_variance_g":102.79,
-    "notes":"Day in progress. Current logged intake: ~948 kcal and ~47.2 g protein. User confirmed eating the 142 g eggs with two slices wholegrain toast, along with the already logged 40 g pork dumplings and 30 g salami. Approximately 1,202 kcal remain against the 2,150 kcal target. Coffee and oat-bar values remain estimated."
+    "protein_variance_g":77.79,
+    "notes":"Day in progress. Current logged intake: ~1,378 kcal and ~72.2 g protein. Chicken salad wrap estimated at ~430 kcal/~25 g protein; wrap value is label-based, while chicken and salad/cheese filling are estimated from supplied weights and image. Approximately 772 kcal remain against the 2,150 kcal target. Beers discussed earlier have not been logged because consumption has not been confirmed."
   },
   "plans": []
 }
