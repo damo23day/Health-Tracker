@@ -1,6 +1,31 @@
 {
   "date": "2026-10-04",
-  "measurements": {"weight_kg": null, "waist_cm": null},
+  "measurements": {
+    "weight_kg": 96.70,
+    "waist_cm": null,
+    "body_composition": {
+      "body_score": 66,
+      "body_age": 44,
+      "bmi": 29.8,
+      "body_fat_percent": 29.3,
+      "body_water_percent": 50.0,
+      "skeletal_muscle_percent": 44.8,
+      "bone_percent": 3.7,
+      "inorganic_salt_kg": 3.5,
+      "protein_percent": 17.0,
+      "muscle_percent": 67.0,
+      "muscle_reserve_capacity": 2.0,
+      "visceral_fat_index": 13.0,
+      "subcutaneous_fat_kg": 25.4,
+      "lean_body_mass_kg": 68.4,
+      "bmr_kcal": 2043,
+      "amr_kcal": 3146,
+      "somatotype_label": "Obesity",
+      "source": "Smart scale Health Report screenshots",
+      "comparison_displayed": "Compared with 2026-09-26 11:41:00: weight -0.05 kg, BMI -0.1, body fat unchanged",
+      "notes": "Consumer bioimpedance scale estimates; use longitudinal trends rather than treating body-fat, muscle and related composition values as precise measurements."
+    }
+  },
   "sleep": {"hours": null, "quality": null},
   "nutrition": {
     "entries": [
@@ -28,7 +53,7 @@
     "calorie_variance_kcal":-121,
     "protein_target_g":150,
     "protein_variance_g":7.9,
-    "notes":"Day in progress. Current logged intake is approximately 2,271 kcal and 142.1 g protein, around 121 kcal above the 2,150 kcal food target. Hydration logged at 1,500 mL from two 750 mL bottles; the morning bottle contained the usual Hydralyte and creatine. Completed RPM session this morning; exercise calories are tracked separately and are not subtracted from food intake target."
+    "notes":"Day in progress. Current logged intake is approximately 2,271 kcal and 142.1 g protein, around 121 kcal above the 2,150 kcal food target. Hydration logged at 1,500 mL from two 750 mL bottles; the morning bottle contained the usual Hydralyte and creatine. Completed RPM session this morning; exercise calories are tracked separately and are not subtracted from food intake target. Body composition reading logged at 96.70 kg; smart-scale composition values should be assessed mainly by trend."
   },
   "plans": []
 }
