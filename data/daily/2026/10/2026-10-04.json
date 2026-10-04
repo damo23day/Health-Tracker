@@ -10,10 +10,11 @@
       {"type":"drink","name":"Water","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Plain water."},
       {"type":"snack","name":"Banana","quantity":"100 g","calories_kcal":89,"protein_g":1.1,"estimated":true,"estimate_confidence":"high","notes":"Estimated using standard raw banana nutrition per 100 g."},
       {"type":"drink","name":"Water with Hydralyte and creatine","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Morning bottle with usual Hydralyte and creatine. Counted toward hydration; supplements recorded without adding estimated calories."},
-      {"type":"meal","meal":"dinner","name":"Chicken rissoles with roast potatoes","quantity":"215 g chicken rissoles + 90 g roast potatoes","calories_kcal":570,"protein_g":49,"estimated":true,"estimate_confidence":"moderate","notes":"Weights supplied by user and meal confirmed from photo. Chicken rissoles estimated at ~210 kcal and ~21 g protein per 100 g; roast potatoes estimated at ~130 kcal per 100 g including a modest amount of cooking oil. Revise if recipe or package nutrition is supplied."}
+      {"type":"meal","meal":"dinner","name":"Chicken rissoles with roast potatoes","quantity":"215 g chicken rissoles + 90 g roast potatoes","calories_kcal":570,"protein_g":49,"estimated":true,"estimate_confidence":"moderate","notes":"Weights supplied by user and meal confirmed from photo. Chicken rissoles estimated at ~210 kcal and ~21 g protein per 100 g; roast potatoes estimated at ~130 kcal per 100 g including a modest amount of cooking oil. Revise if recipe or package nutrition is supplied."},
+      {"type":"side","meal":"dinner","name":"Bean and capsicum salad","quantity":"1 pictured serving","calories_kcal":180,"protein_g":8,"estimated":true,"estimate_confidence":"moderate-low","notes":"Photo shows white beans, capsicum, rocket/leafy greens and red onion with some dressing. Serving weight not supplied, so calories include an allowance for beans and a light dressing."}
     ],
-    "total_calories_kcal":1479,
-    "total_protein_g":134.1,
+    "total_calories_kcal":1659,
+    "total_protein_g":142.1,
     "water_ml":1500
   },
   "exercise": [
@@ -23,10 +24,10 @@
   "wellbeing": {"hunger":null,"energy":"very low during RPM","notes":"Felt like there was no energy during today's RPM session and struggled to get through it despite maintaining 165 W average power."},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":671,
+    "calorie_variance_kcal":491,
     "protein_target_g":150,
-    "protein_variance_g":15.9,
-    "notes":"Day in progress. Current logged intake is approximately 1,479 kcal and 134.1 g protein. Hydration logged at 1,500 mL from two 750 mL bottles; the morning bottle contained the usual Hydralyte and creatine. Completed RPM session this morning; exercise calories are tracked separately and are not subtracted from food intake target."
+    "protein_variance_g":7.9,
+    "notes":"Day in progress. Current logged intake is approximately 1,659 kcal and 142.1 g protein. Hydration logged at 1,500 mL from two 750 mL bottles; the morning bottle contained the usual Hydralyte and creatine. Completed RPM session this morning; exercise calories are tracked separately and are not subtracted from food intake target."
   },
   "plans": []
 }
