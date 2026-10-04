@@ -7,10 +7,11 @@
       {"type":"meal","meal":"breakfast","name":"Eggs on toast with hummus and chilli sauce","quantity":"2 eggs + 2 slices toast + small amount hummus + small amount chilli sauce","calories_kcal":400,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Standard eggs-on-toast breakfast. Hummus used as spread; small amount of chilli sauce."},
       {"type":"drink","name":"Protein iced coffee","quantity":"1 scoop Optimum Nutrition Gold Standard Double Rich Chocolate whey + 150 mL milk + 1 espresso shot + ice","calories_kcal":210,"protein_g":29,"estimated":true,"estimate_confidence":"moderate-high","notes":"Standard protein coffee recipe; Double Rich Chocolate flavour. Ice adds no calories."},
       {"type":"meal","meal":"lunch","name":"The Man Shake - Chocolate","quantity":"1 standard serve prepared with water","calories_kcal":210,"protein_g":30,"estimated":true,"estimate_confidence":"moderate","notes":"Logged as standard chocolate Man Shake. Nutrition retained as an estimate until the exact product label/standard serve values are confirmed in the tracker."},
-      {"type":"drink","name":"Water","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Plain water."}
+      {"type":"drink","name":"Water","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Plain water."},
+      {"type":"snack","name":"Banana","quantity":"100 g","calories_kcal":89,"protein_g":1.1,"estimated":true,"estimate_confidence":"high","notes":"Estimated using standard raw banana nutrition per 100 g."}
     ],
-    "total_calories_kcal":820,
-    "total_protein_g":84,
+    "total_calories_kcal":909,
+    "total_protein_g":85.1,
     "water_ml":750
   },
   "exercise": [
@@ -20,10 +21,10 @@
   "wellbeing": {"hunger":null,"energy":"very low during RPM","notes":"Felt like there was no energy during today's RPM session and struggled to get through it despite maintaining 165 W average power."},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":1330,
+    "calorie_variance_kcal":1241,
     "protein_target_g":150,
-    "protein_variance_g":66,
-    "notes":"Day in progress. Current logged intake is approximately 820 kcal and 84 g protein. Hydration logged at 750 mL. Completed RPM session this morning; exercise calories are tracked separately and are not subtracted from food intake target."
+    "protein_variance_g":64.9,
+    "notes":"Day in progress. Current logged intake is approximately 909 kcal and 85.1 g protein. Hydration logged at 750 mL. Completed RPM session this morning; exercise calories are tracked separately and are not subtracted from food intake target."
   },
   "plans": []
 }
