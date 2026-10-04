@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-04",
+  "measurements": {"weight_kg": null, "waist_cm": null},
+  "sleep": {"hours": null, "quality": null},
+  "nutrition": {
+    "entries": [
+      {"type":"meal","meal":"breakfast","name":"Eggs on toast with hummus and chilli sauce","quantity":"2 eggs + 2 slices toast + small amount hummus + small amount chilli sauce","calories_kcal":400,"protein_g":25,"estimated":true,"estimate_confidence":"moderate","notes":"Standard eggs-on-toast breakfast. Hummus used as spread; small amount of chilli sauce."},
+      {"type":"drink","name":"Protein iced coffee","quantity":"1 scoop Optimum Nutrition Gold Standard Double Rich Chocolate whey + 150 mL milk + 1 espresso shot + ice","calories_kcal":210,"protein_g":29,"estimated":true,"estimate_confidence":"moderate-high","notes":"Standard protein coffee recipe; Double Rich Chocolate flavour. Ice adds no calories."}
+    ],
+    "total_calories_kcal":610,
+    "total_protein_g":54,
+    "water_ml":0
+  },
+  "exercise": [
+    {"type":"Group Cycle / RPM","duration":"49:40","distance_km":21.0,"calories_reported":579,"average_power_w":165,"max_power_w":462,"average_cadence_rpm":69,"average_heart_rate_bpm":140,"max_heart_rate_bpm":168,"notes":"Dedicated performance record is in data/exercise/rpm-workouts.json. User reported very low energy and that the session was a real struggle to complete."}
+  ],
+  "activity": {},
+  "wellbeing": {"hunger":null,"energy":"very low during RPM","notes":"Felt like there was no energy during today's RPM session and struggled to get through it despite maintaining 165 W average power."},
+  "daily_summary": {
+    "calorie_target_kcal":2150,
+    "calorie_variance_kcal":1540,
+    "protein_target_g":150,
+    "protein_variance_g":96,
+    "notes":"Day in progress. Current logged intake is approximately 610 kcal and 54 g protein. Completed RPM session this morning; exercise calories are tracked separately and are not subtracted from food intake target."
+  },
+  "plans": []
+}
