@@ -2,71 +2,11 @@
   "schema_version": "1.0",
   "description": "Authoritative longitudinal record of RPM / Group Cycle workouts. Daily logs may contain a contextual exercise snapshot; use this file for RPM performance trends.",
   "source_of_truth": true,
-  "fields": ["date","workout_type","duration","distance_km","calories_reported","moves","average_power_w","max_power_w","average_cadence_rpm","notes"],
+  "fields": ["date","workout_type","instructor","duration","distance_km","calories_reported","moves","average_power_w","max_power_w","average_cadence_rpm","notes"],
   "entries": [
-    {
-      "date": "2026-09-27",
-      "workout_type": "Group Cycle / RPM",
-      "duration": "52:19",
-      "distance_km": 22.7,
-      "calories_reported": 661,
-      "moves": 1198,
-      "average_power_w": 166,
-      "max_power_w": 389,
-      "average_cadence_rpm": 73,
-      "source": "Group Cycle Connect screenshots",
-      "notes": "First dedicated RPM performance record.",
-      "post_workout_feedback": {
-        "effort_percent": 80,
-        "issue": "Left calf tightening / felt close to cramping during second-last exercise.",
-        "trigger_pattern": "More noticeable during racing-load / faster-cadence work; not noticed during heavy-load work.",
-        "response": "Slowed cadence until calf no longer felt tight.",
-        "subsequent_exercise": "Mountain climbing",
-        "subsequent_response": "No issue; able to push to about 80% without calf tightening.",
-        "status_after_session": "User reports calf was fine during subsequent mountain-climbing effort."
-      }
-    },
-    {
-      "date": "2026-09-29",
-      "workout_type": "Group Cycle / RPM",
-      "duration": "~52 min",
-      "distance_km": null,
-      "calories_reported": null,
-      "moves": null,
-      "average_power_w": null,
-      "max_power_w": null,
-      "average_cadence_rpm": null,
-      "source": "User-confirmed completed RPM session; tracking/sync failure",
-      "notes": "Proper RPM session completed. Group Cycle Connect did not record/sync. Samsung Health also failed to update correctly. Watch cycling exercise was manually started 28:40 into class and covered roughly the final 20+ minutes, but phone did not sync the workout. User reports session was similar in effort to 2026-09-27. No performance metrics or calories copied from the prior workout; session retained as completed with metrics unavailable."
-    },
-    {
-      "date": "2026-10-04",
-      "workout_type": "Group Cycle / RPM",
-      "duration": "49:40",
-      "distance_km": 21.0,
-      "calories_reported": 579,
-      "moves": 1048,
-      "average_power_w": 165,
-      "max_power_w": 462,
-      "average_cadence_rpm": 69,
-      "source": "Group Cycle Connect and Samsung Health screenshots",
-      "notes": "Group Cycle Connect: 49:40, 21 km, 579 kcal, 1048 moves, 165 W average, 462 W max, 69 rpm average cadence. Samsung Health was recorded as Other workout from 08:32, showing 45:04 total duration, 463 kcal, 140 bpm average heart rate and 168 bpm maximum heart rate. Group Cycle Connect metrics retained as the primary RPM performance record; Samsung Health heart-rate metrics retained as complementary data.",
-      "heart_rate": {"source":"Samsung Health","average_bpm":140,"max_bpm":168},
-      "post_workout_feedback": {"energy":"Very low","perceived_effort":"Very hard","user_feedback":"Really struggled today, felt like I had no energy, and it was a real struggle to get through the session.","performance_context":"Despite feeling substantially more fatigued, average power was maintained at 165 W compared with 166 W on 2026-09-27."}
-    },
-    {
-      "date": "2026-10-06",
-      "workout_type": "Group Cycle / RPM",
-      "duration": "44:10",
-      "distance_km": 20.3,
-      "calories_reported": 562,
-      "moves": 1018,
-      "average_power_w": 185,
-      "max_power_w": 325,
-      "average_cadence_rpm": 73,
-      "source": "Group Cycle Connect and Samsung Health screenshots",
-      "notes": "Group Cycle Connect: 44:10, 20.3 km, 562 kcal, 1018 moves, 185 W average power, 325 W max power and 73 rpm average cadence. Samsung Health/Galaxy Watch3: 42:58 total duration, 449 kcal, 141 bpm average heart rate and 174 bpm maximum heart rate. Group Cycle Connect retained as the primary RPM performance record; Samsung Health heart-rate metrics retained as complementary data.",
-      "heart_rate": {"source":"Samsung Health / Galaxy Watch3","average_bpm":141,"max_bpm":174}
-    }
+    {"date":"2026-09-27","workout_type":"Group Cycle / RPM","duration":"52:19","distance_km":22.7,"calories_reported":661,"moves":1198,"average_power_w":166,"max_power_w":389,"average_cadence_rpm":73,"source":"Group Cycle Connect screenshots","notes":"First dedicated RPM performance record.","post_workout_feedback":{"effort_percent":80,"issue":"Left calf tightening / felt close to cramping during second-last exercise.","trigger_pattern":"More noticeable during racing-load / faster-cadence work; not noticed during heavy-load work.","response":"Slowed cadence until calf no longer felt tight.","subsequent_exercise":"Mountain climbing","subsequent_response":"No issue; able to push to about 80% without calf tightening.","status_after_session":"User reports calf was fine during subsequent mountain-climbing effort."}},
+    {"date":"2026-09-29","workout_type":"Group Cycle / RPM","duration":"~52 min","distance_km":null,"calories_reported":null,"moves":null,"average_power_w":null,"max_power_w":null,"average_cadence_rpm":null,"source":"User-confirmed completed RPM session; tracking/sync failure","notes":"Proper RPM session completed. Group Cycle Connect did not record/sync. Samsung Health also failed to update correctly. Watch cycling exercise was manually started 28:40 into class and covered roughly the final 20+ minutes, but phone did not sync the workout. User reports session was similar in effort to 2026-09-27. No performance metrics or calories copied from the prior workout; session retained as completed with metrics unavailable."},
+    {"date":"2026-10-04","workout_type":"Group Cycle / RPM","duration":"49:40","distance_km":21.0,"calories_reported":579,"moves":1048,"average_power_w":165,"max_power_w":462,"average_cadence_rpm":69,"source":"Group Cycle Connect and Samsung Health screenshots","notes":"Group Cycle Connect: 49:40, 21 km, 579 kcal, 1048 moves, 165 W average, 462 W max, 69 rpm average cadence. Samsung Health was recorded as Other workout from 08:32, showing 45:04 total duration, 463 kcal, 140 bpm average heart rate and 168 bpm maximum heart rate. Group Cycle Connect metrics retained as the primary RPM performance record; Samsung Health heart-rate metrics retained as complementary data.","heart_rate":{"source":"Samsung Health","average_bpm":140,"max_bpm":168},"post_workout_feedback":{"energy":"Very low","perceived_effort":"Very hard","user_feedback":"Really struggled today, felt like I had no energy, and it was a real struggle to get through the session.","performance_context":"Despite feeling substantially more fatigued, average power was maintained at 165 W compared with 166 W on 2026-09-27."}},
+    {"date":"2026-10-06","workout_type":"Group Cycle / RPM","instructor":"Lolita","duration":"44:10","distance_km":20.3,"calories_reported":562,"moves":1018,"average_power_w":185,"max_power_w":325,"average_cadence_rpm":73,"source":"Group Cycle Connect and Samsung Health screenshots","notes":"Group Cycle Connect: 44:10, 20.3 km, 562 kcal, 1018 moves, 185 W average power, 325 W max power and 73 rpm average cadence. Samsung Health/Galaxy Watch3: 42:58 total duration, 449 kcal, 141 bpm average heart rate and 174 bpm maximum heart rate. Group Cycle Connect retained as the primary RPM performance record; Samsung Health heart-rate metrics retained as complementary data.","heart_rate":{"source":"Samsung Health / Galaxy Watch3","average_bpm":141,"max_bpm":174},"post_workout_feedback":{"energy":"High / felt really good","perceived_effort":"Hard, controlled","enjoyment":"High","user_feedback":"Felt really good during the session, felt on top of it, pushed pretty hard and really enjoyed it.","instructor_context":"Lolita teaches the Tuesday session. User particularly enjoys her sessions and feels she pushes him harder.","performance_context":"Average power of 185 W was substantially higher than the 165 W recorded on 2026-10-04, while average cadence returned to 73 rpm."}}
   ]
 }
