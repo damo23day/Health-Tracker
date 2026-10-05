@@ -7,13 +7,14 @@
       {"type":"drink","name":"Home protein coffee","quantity":"150 mL milk + 1 espresso shot + 1 scoop Optimum Nutrition Gold Standard whey","calories_kcal":210,"protein_g":29,"estimated":true,"estimate_confidence":"moderate-high","notes":"Standard home protein coffee recipe."},
       {"type":"drink","name":"Provincial Cafe takeaway coffee","quantity":"12 oz (~355 mL)","calories_kcal":null,"protein_g":null,"estimated":true,"estimate_confidence":"low","notes":"12 oz cup size confirmed by user. Coffee style/milk not specified, so calories and protein left unestimated rather than assuming."},
       {"type":"meal","meal":"lunch","name":"The Man Shake - Chocolate","quantity":"1 standard serve prepared with water","calories_kcal":210,"protein_g":30,"estimated":true,"estimate_confidence":"moderate","notes":"Standard chocolate Man Shake as previously logged."},
-      {"type":"drink","name":"Water","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Plain water."}
+      {"type":"drink","name":"Water","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Plain water."},
+      {"type":"drink","name":"Water with Hydralyte and creatine","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Water bottle with usual Hydralyte and creatine. Counted toward hydration; supplements recorded without adding estimated calories."}
     ],
     "known_calories_kcal":420,
     "known_protein_g":59,
     "total_calories_kcal":null,
     "total_protein_g":null,
-    "water_ml":750,
+    "water_ml":1500,
     "notes":"Day in progress. Provincial Cafe coffee is included but excluded from calorie/protein totals until coffee type/milk is known."
   },
   "exercise": [],
@@ -22,7 +23,7 @@
   "daily_summary": {
     "calorie_target_kcal":2150,
     "protein_target_g":150,
-    "notes":"Day in progress. At least 420 kcal and 59 g protein logged, plus one 12 oz Provincial Cafe takeaway coffee with nutrition pending. Hydration logged at 750 mL."
+    "notes":"Day in progress. At least 420 kcal and 59 g protein logged, plus one 12 oz Provincial Cafe takeaway coffee with nutrition pending. Hydration logged at 1,500 mL from two 750 mL bottles; one contained the usual Hydralyte and creatine."
   },
   "plans": []
 }
