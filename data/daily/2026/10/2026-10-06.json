@@ -6,30 +6,16 @@
     "entries": [
       {"type":"drink","name":"Water with Hydralyte and creatine","quantity":"1 x 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Morning bottle with usual Hydralyte and creatine; counted toward hydration."},
       {"type":"drink","name":"Water","quantity":"1 x 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Consumed during RPM session; counted toward hydration."},
-      {"type":"drink","name":"Float milk coffee","quantity":"8 oz (~237 mL)","calories_kcal":110,"protein_g":6,"estimated":true,"estimate_confidence":"moderate","notes":"8 oz milk coffee from Float at the aquatic centre. Estimated using a typical full-cream dairy milk coffee; revise if milk type or coffee style differs materially."}
+      {"type":"drink","name":"Float milk coffee","quantity":"8 oz (~237 mL)","calories_kcal":110,"protein_g":6,"estimated":true,"estimate_confidence":"moderate","notes":"8 oz milk coffee from Float at the aquatic centre. Estimated using a typical full-cream dairy milk coffee; revise if milk type or coffee style differs materially."},
+      {"type":"drink","name":"Home coffee","quantity":"1 standard home coffee","calories_kcal":30,"protein_g":1.5,"estimated":true,"estimate_confidence":"moderate","notes":"Standard home coffee, not protein coffee. Estimated with a small amount of milk."}
     ],
-    "total_calories_kcal": 110,
-    "total_protein_g": 6,
+    "total_calories_kcal": 140,
+    "total_protein_g": 7.5,
     "water_ml": 1500
   },
-  "exercise": [
-    {
-      "type": "Group Cycle / RPM",
-      "duration": "44:10",
-      "distance_km": 20.3,
-      "calories_reported": 562,
-      "moves": 1018,
-      "average_power_w": 185,
-      "max_power_w": 325,
-      "average_cadence_rpm": 73,
-      "average_heart_rate_bpm": 141,
-      "max_heart_rate_bpm": 174,
-      "instructor": "Lolita",
-      "notes": "Dedicated performance record is in data/exercise/rpm-workouts.json. Group Cycle Connect metrics used as primary performance record; Samsung Health/Galaxy Watch3 supplied heart-rate data and reported 42:58 duration and 449 kcal. User felt really good, on top of the session, pushed hard and really enjoyed it."
-    }
-  ],
+  "exercise": [{"type":"Group Cycle / RPM","duration":"44:10","distance_km":20.3,"calories_reported":562,"moves":1018,"average_power_w":185,"max_power_w":325,"average_cadence_rpm":73,"average_heart_rate_bpm":141,"max_heart_rate_bpm":174,"instructor":"Lolita","notes":"Dedicated performance record is in data/exercise/rpm-workouts.json. Group Cycle Connect metrics used as primary performance record; Samsung Health/Galaxy Watch3 supplied heart-rate data and reported 42:58 duration and 449 kcal. User felt really good, on top of the session, pushed hard and really enjoyed it."}],
   "activity": {},
   "wellbeing": {"hunger": null, "energy": "High during RPM", "notes": "Felt really good during RPM, felt on top of the session, pushed pretty hard and enjoyed it."},
-  "daily_summary": {"calorie_target_kcal": 2150,"calorie_variance_kcal":2040,"protein_target_g":150,"protein_variance_g":144,"notes":"Day in progress. Approximately 110 kcal and 6 g protein logged so far from an 8 oz milk coffee. RPM completed this morning; exercise calories are tracked separately and are not subtracted from the food target. Hydration logged at 1,500 mL from two 750 mL bottles; one contained the usual Hydralyte and creatine and one was consumed during RPM."},
+  "daily_summary": {"calorie_target_kcal":2150,"calorie_variance_kcal":2010,"protein_target_g":150,"protein_variance_g":142.5,"notes":"Day in progress. Approximately 140 kcal and 7.5 g protein logged from an 8 oz Float milk coffee and one standard home coffee. RPM completed this morning; exercise calories are tracked separately and are not subtracted from the food target. Hydration logged at 1,500 mL."},
   "plans": []
 }
