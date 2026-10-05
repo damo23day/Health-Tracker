@@ -8,10 +8,11 @@
       {"type":"drink","name":"Provincial Cafe takeaway coffee","quantity":"12 oz (~355 mL)","calories_kcal":null,"protein_g":null,"estimated":true,"estimate_confidence":"low","notes":"12 oz cup size confirmed by user. Coffee style/milk not specified, so calories and protein left unestimated rather than assuming."},
       {"type":"meal","meal":"lunch","name":"The Man Shake - Chocolate","quantity":"1 standard serve prepared with water","calories_kcal":210,"protein_g":30,"estimated":true,"estimate_confidence":"moderate","notes":"Standard chocolate Man Shake as previously logged."},
       {"type":"drink","name":"Water","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Plain water."},
-      {"type":"drink","name":"Water with Hydralyte and creatine","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Water bottle with usual Hydralyte and creatine. Counted toward hydration; supplements recorded without adding estimated calories."}
+      {"type":"drink","name":"Water with Hydralyte and creatine","quantity":"1 x standard 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Water bottle with usual Hydralyte and creatine. Counted toward hydration; supplements recorded without adding estimated calories."},
+      {"type":"meal","name":"Eggs on wholegrain toast with hummus and bean salad","quantity":"110 g salad + 130 g two eggs + 2 slices wholegrain toast + small hummus spread","calories_kcal":535,"protein_g":30,"estimated":true,"estimate_confidence":"moderate","notes":"Salad weight supplied as 110 g; photo and user description show tomato, chickpeas, red onion and leafy greens, with some white beans also visible. Estimated ~125 kcal / 5 g protein for salad, ~185 kcal / 16 g protein for 130 g eggs, ~190 kcal / 8 g protein for two wholegrain toast slices, and ~35 kcal / 1 g protein for a small hummus spread."}
     ],
-    "known_calories_kcal":420,
-    "known_protein_g":59,
+    "known_calories_kcal":955,
+    "known_protein_g":89,
     "total_calories_kcal":null,
     "total_protein_g":null,
     "water_ml":1500,
@@ -23,7 +24,7 @@
   "daily_summary": {
     "calorie_target_kcal":2150,
     "protein_target_g":150,
-    "notes":"Day in progress. At least 420 kcal and 59 g protein logged, plus one 12 oz Provincial Cafe takeaway coffee with nutrition pending. Hydration logged at 1,500 mL from two 750 mL bottles; one contained the usual Hydralyte and creatine."
+    "notes":"Day in progress. Approximately 955 kcal and 89 g protein logged from foods/drinks with estimated nutrition, plus one 12 oz Provincial Cafe takeaway coffee with nutrition pending. Hydration logged at 1,500 mL from two 750 mL bottles; one contained the usual Hydralyte and creatine."
   },
   "plans": []
 }
