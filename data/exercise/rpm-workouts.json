@@ -51,17 +51,22 @@
       "average_cadence_rpm": 69,
       "source": "Group Cycle Connect and Samsung Health screenshots",
       "notes": "Group Cycle Connect: 49:40, 21 km, 579 kcal, 1048 moves, 165 W average, 462 W max, 69 rpm average cadence. Samsung Health was recorded as Other workout from 08:32, showing 45:04 total duration, 463 kcal, 140 bpm average heart rate and 168 bpm maximum heart rate. Group Cycle Connect metrics retained as the primary RPM performance record; Samsung Health heart-rate metrics retained as complementary data.",
-      "heart_rate": {
-        "source": "Samsung Health",
-        "average_bpm": 140,
-        "max_bpm": 168
-      },
-      "post_workout_feedback": {
-        "energy": "Very low",
-        "perceived_effort": "Very hard",
-        "user_feedback": "Really struggled today, felt like I had no energy, and it was a real struggle to get through the session.",
-        "performance_context": "Despite feeling substantially more fatigued, average power was maintained at 165 W compared with 166 W on 2026-09-27."
-      }
+      "heart_rate": {"source":"Samsung Health","average_bpm":140,"max_bpm":168},
+      "post_workout_feedback": {"energy":"Very low","perceived_effort":"Very hard","user_feedback":"Really struggled today, felt like I had no energy, and it was a real struggle to get through the session.","performance_context":"Despite feeling substantially more fatigued, average power was maintained at 165 W compared with 166 W on 2026-09-27."}
+    },
+    {
+      "date": "2026-10-06",
+      "workout_type": "Group Cycle / RPM",
+      "duration": "44:10",
+      "distance_km": 20.3,
+      "calories_reported": 562,
+      "moves": 1018,
+      "average_power_w": 185,
+      "max_power_w": 325,
+      "average_cadence_rpm": 73,
+      "source": "Group Cycle Connect and Samsung Health screenshots",
+      "notes": "Group Cycle Connect: 44:10, 20.3 km, 562 kcal, 1018 moves, 185 W average power, 325 W max power and 73 rpm average cadence. Samsung Health/Galaxy Watch3: 42:58 total duration, 449 kcal, 141 bpm average heart rate and 174 bpm maximum heart rate. Group Cycle Connect retained as the primary RPM performance record; Samsung Health heart-rate metrics retained as complementary data.",
+      "heart_rate": {"source":"Samsung Health / Galaxy Watch3","average_bpm":141,"max_bpm":174}
     }
   ]
 }
