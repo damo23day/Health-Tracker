@@ -1,111 +1,107 @@
-# Health Tracker Companion — Minimal Architecture
+# Health Tracker Companion — Minimal Notification-First Architecture
 
 ## Architecture goal
-Use the **least complicated implementation that reliably works on Damien's Samsung Android phone**.
+Use the **least complicated implementation that reliably reduces the steps required to reach Damien's existing ChatGPT Health Tracker Project on his Samsung Android phone**.
 
-The current preferred form is a small **sideloaded APK**, because Android-specific access is required for Health Connect, notifications, speech input, background work and convenient launch surfaces.
-
-This is not intended to become a conventional commercial mobile application.
+The helper is a sideloaded APK only because Android needs installed code to create notifications/actions and convenient launch surfaces. It should not feel like another app Damien has to use.
 
 ## Technology
-Use native Android **Kotlin** with Android/Jetpack APIs. Use Jetpack Compose if it keeps the tiny UI simpler to build and maintain.
+- native Android
+- Kotlin
+- standard Android notification and intent APIs
+- one app module
+- minimal dependencies
+- Compose only if useful for the tiny setup/test activity; traditional simple Android UI is also acceptable
 
-Do not introduce Flutter, React Native, a PWA, multi-module architecture or a separate wearable app unless a real limitation requires it.
+## Phase 1 data flow
 
-## Simple data flow
 ```text
-Galaxy Watch
-    ↓
-Samsung Health
-    ↓
-Health Connect
-    ↓
-Tiny Companion APK
-    ├─ workout/activity reader
-    ├─ notifications
-    ├─ Quick Log
-    ├─ speech-to-text
-    └─ small pending queue
-    ↓
-interpret / validate where required
-    ↓
-Health Tracker GitHub repository
-    ↓
-ChatGPT analysis/coaching
+Health Tracker notification
+        ↓
+Update Health Tracker action
+        ↓
+Android intent / supported link
+        ↓
+ChatGPT Android app
+        ↓
+Existing Health Tracker Project/chat
+        ↓
+Damien speaks/types normally
+        ↓
+Existing ChatGPT + GitHub workflow
 ```
 
 ## APK responsibilities
-Keep the APK focused on things Android is good at:
-- request/read Health Connect data
-- launch quickly
-- accept voice/text input
-- show notifications
-- run suitable scheduled/background work
-- retain unsent entries until confirmed synced
-- show basic integration/sync status
+For the first build the APK has only four responsibilities:
+1. obtain notification permission if required
+2. create the Health Tracker notification channel
+3. show a test `Health Tracker Update` notification
+4. launch ChatGPT from the notification action using the closest supported route to the Health Tracker Project/chat
 
-The APK should not become the main Health Tracker database or analysis engine.
+## ChatGPT routing
+Codex must investigate supported Android routing rather than assuming a private deep-link format.
 
-## UI
-Aim for one primary Quick Log/status screen plus minimal settings.
+Preferred outcome:
+`notification action -> exact Health Tracker Project/chat`
 
-No dashboard is required.
+Acceptable fallback for the proof:
+`notification action -> ChatGPT app`, with the remaining manual navigation documented.
 
-## Health Connect
-Create a small isolated Health Connect adapter. Initially prove only that a real recent supported workout can be read from the target Samsung setup.
+Do not use reverse-engineered/private ChatGPT endpoints, accessibility hacks, UI automation, or undocumented authenticated message injection merely to remove a tap.
 
-Do not assume Samsung Health exposes every desired field through Health Connect. Test the actual device.
+## Minimal setup activity
+The APK may expose a tiny activity for installation/testing:
 
-## Notifications and automation
-Use standard Android mechanisms where practical. WorkManager may be used for dependable deferred work. Avoid an always-running custom service unless testing proves it necessary.
+```text
+HEALTH TRACKER HELPER
 
-For workout feedback, design around what Health Connect and Android actually permit in the background. Near-real-time is desirable; reliability and battery friendliness are more important than pretending detection is instantaneous.
+Notification permission: Granted
 
-## Quick Log
-Start with the simplest launch route. Add Quick Settings tile/home shortcut/side-key integration only where it materially improves the real workflow.
+[ Send Test Notification ]
 
-Prefer Android speech-to-text to a custom speech stack.
+Routing result/status
+```
 
-## Interpretation
-Do not embed a large AI model in the APK.
+This screen is not intended to be the normal daily interface.
 
-Simple explicit entries can be handled deterministically. Natural language can be passed to an approved AI/interpretation layer when needed. AI output must be validated before durable writes.
+## Notifications
+Phase 1 needs only a manually generated test notification.
 
-The exact AI mechanism is deliberately undecided until Quick Log itself works.
+After routing is proven, Phase 2 can add configurable morning/afternoon/evening notifications using standard Android scheduling mechanisms. Choose the simplest reliable scheduler at that point; do not add background infrastructure during Phase 1.
 
-## GitHub synchronisation
-The Health Tracker repository remains the durable structured record.
+## No health processing in Phase 1
+There is deliberately no:
+- Health Connect
+- Samsung Health integration
+- workout reader
+- speech recognition inside the helper
+- AI interpretation
+- GitHub API integration
+- health-data persistence
+- food parsing
+- calorie/protein calculations
+- dashboard
 
-Do not embed a broad GitHub personal access token in source or the APK. Before implementing writes, choose the simplest secure mechanism suitable for this one-user system. A tiny intermediary is acceptable only if it solves a real credential/security problem; it is not required by default.
-
-## Local storage
-Use the smallest reliable local persistence solution needed to prevent lost entries and support retry. Do not add a database merely for architectural neatness.
-
-Each queued event needs a stable ID so retries cannot duplicate durable records.
+All health conversation/intelligence continues in ChatGPT.
 
 ## Security
-Even for a personal utility:
-- no secrets in Git
-- no broad token hard-coded in APK
-- minimum Health Connect permissions
-- secure storage for any device-held credential
-- TLS for remote calls
-- no unnecessary sensitive logging
+Phase 1 should require no GitHub, OpenAI API or other secret credentials in the APK.
 
-## First build milestone
-Build `companion/android/` as a minimal installable APK that:
-1. launches on the target Samsung phone
-2. checks Health Connect availability
-3. requests the minimum required exercise permission
-4. reads recent exercise sessions
-5. displays enough information to confirm a real RPM/cycling workout is accessible
-6. handles no-permission/no-data states cleanly
+## Project location
+Android source should live under:
 
-Nothing else is required for this proof.
+`companion/android/`
+
+Keep the project self-contained and easy to build into a debug APK.
+
+## First milestone
+> Install the APK on Damien's Samsung phone, press `Send Test Notification`, receive `Health Tracker Update`, press `Update Health Tracker`, and observe exactly where ChatGPT opens.
+
+Document:
+- whether ChatGPT opens successfully
+- whether a specific Project/chat can be targeted through a supported route
+- number of taps remaining before Damien can dictate an update
+- any Samsung/Android behaviour affecting the workflow
 
 ## Architecture decision rule
-Before adding a new service, framework, database or abstraction, ask:
-
-> Does this make Damien's tracker materially easier or more reliable?
-
-If the answer is no, leave it out.
+> The Android helper is a shortcut into the existing Health Tracker intelligence, not a replacement for it.
