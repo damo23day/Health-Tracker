@@ -12,10 +12,11 @@
       {"type":"meal","name":"Eggs on wholegrain toast with hummus and bean salad","quantity":"110 g salad + 130 g two eggs + 2 slices wholegrain toast + small hummus spread","calories_kcal":535,"protein_g":30,"estimated":true,"estimate_confidence":"moderate","notes":"Salad weight supplied as 110 g; photo and user description show tomato, chickpeas, red onion and leafy greens, with some white beans also visible. Estimated ~125 kcal / 5 g protein for salad, ~185 kcal / 16 g protein for 130 g eggs, ~190 kcal / 8 g protein for two wholegrain toast slices, and ~35 kcal / 1 g protein for a small hummus spread."},
       {"type":"drink","name":"Soda water","quantity":"850 mL","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Plain carbonated water; counted toward hydration."},
       {"type":"snack","name":"Muesli with sweetened creamy Greek-style yoghurt","quantity":"70 g muesli + 100 g Jalna sweetened creamy Greek-style yoghurt","calories_kcal":436,"protein_g":11.5,"estimated":true,"estimate_confidence":"moderate-high","notes":"Yoghurt exact label values: 136 kcal and 3.5 g protein per 100 g; also 8.5 g fat, 11.0 g carbohydrate and 9.1 g sugars. Muesli remains estimated at ~300 kcal and ~8 g protein for 70 g until its nutrition label is supplied."},
-      {"type":"drink","name":"XPA beer","quantity":"2 x 375 mL cans","calories_kcal":306,"protein_g":0,"estimated":false,"notes":"Same 6% ABV XPA previously logged at 153 kcal per 375 mL can."}
+      {"type":"drink","name":"XPA beer","quantity":"2 x 375 mL cans","calories_kcal":306,"protein_g":0,"estimated":false,"notes":"Same 6% ABV XPA previously logged at 153 kcal per 375 mL can."},
+      {"type":"meal","meal":"dinner","name":"Loaded potato with chicken, bacon, cheese and salad","quantity":"470 g total","calories_kcal":720,"protein_g":48,"estimated":true,"estimate_confidence":"moderate-low","notes":"Total meal weight supplied by user. Photo and description show potato, chicken, bacon, cheese, corn, lettuce/cabbage-style salad, crunchy noodles and a creamy orange dressing. Estimated as a mixed 470 g serving; dressing, cheese and component weights are not known, so calories could vary materially."}
     ],
-    "total_calories_kcal":1847,
-    "total_protein_g":108.5,
+    "total_calories_kcal":2567,
+    "total_protein_g":156.5,
     "water_ml":2350
   },
   "exercise": [],
@@ -23,10 +24,10 @@
   "wellbeing": {"hunger":null,"energy":null,"notes":null},
   "daily_summary": {
     "calorie_target_kcal":2150,
-    "calorie_variance_kcal":303,
+    "calorie_variance_kcal":-417,
     "protein_target_g":150,
-    "protein_variance_g":41.5,
-    "notes":"Day in progress. Approximately 1,847 kcal and 108.5 g protein logged. About 303 kcal and 41.5 g protein remain against daily targets. Hydration logged at 2,350 mL."
+    "protein_variance_g":-6.5,
+    "notes":"Day in progress. Approximately 2,567 kcal and 156.5 g protein logged, around 417 kcal above the 2,150 kcal food target and 6.5 g above the 150 g protein target. Dinner is a moderate-low confidence estimate because only total meal weight was supplied and component weights/dressing quantity are unknown. Hydration logged at 2,350 mL."
   },
   "plans": []
 }
