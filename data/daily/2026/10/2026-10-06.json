@@ -2,7 +2,15 @@
   "date": "2026-10-06",
   "measurements": {"weight_kg": null, "waist_cm": null},
   "sleep": {"hours": null, "quality": null},
-  "nutrition": {"entries": [], "total_calories_kcal": 0, "total_protein_g": 0, "water_ml": 0},
+  "nutrition": {
+    "entries": [
+      {"type":"drink","name":"Water with Hydralyte and creatine","quantity":"1 x 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Morning bottle with usual Hydralyte and creatine; counted toward hydration."},
+      {"type":"drink","name":"Water","quantity":"1 x 750 mL drink bottle","calories_kcal":0,"protein_g":0,"estimated":false,"notes":"Consumed during RPM session; counted toward hydration."}
+    ],
+    "total_calories_kcal": 0,
+    "total_protein_g": 0,
+    "water_ml": 1500
+  },
   "exercise": [
     {
       "type": "Group Cycle / RPM",
@@ -15,11 +23,12 @@
       "average_cadence_rpm": 73,
       "average_heart_rate_bpm": 141,
       "max_heart_rate_bpm": 174,
-      "notes": "Dedicated performance record is in data/exercise/rpm-workouts.json. Group Cycle Connect metrics used as primary performance record; Samsung Health/Galaxy Watch3 supplied heart-rate data and reported 42:58 duration and 449 kcal."
+      "instructor": "Lolita",
+      "notes": "Dedicated performance record is in data/exercise/rpm-workouts.json. Group Cycle Connect metrics used as primary performance record; Samsung Health/Galaxy Watch3 supplied heart-rate data and reported 42:58 duration and 449 kcal. User felt really good, on top of the session, pushed hard and really enjoyed it."
     }
   ],
   "activity": {},
-  "wellbeing": {"hunger": null, "energy": null, "notes": null},
-  "daily_summary": {"calorie_target_kcal": 2150, "protein_target_g": 150, "notes": "Day in progress. RPM completed this morning. Exercise calories are tracked separately and are not subtracted from the food target."},
+  "wellbeing": {"hunger": null, "energy": "High during RPM", "notes": "Felt really good during RPM, felt on top of the session, pushed pretty hard and enjoyed it."},
+  "daily_summary": {"calorie_target_kcal": 2150, "protein_target_g": 150, "notes": "Day in progress. RPM completed this morning. Exercise calories are tracked separately and are not subtracted from the food target. Hydration logged at 1,500 mL from two 750 mL bottles; one contained the usual Hydralyte and creatine and one was consumed during RPM."},
   "plans": []
 }
