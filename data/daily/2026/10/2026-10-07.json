@@ -55,16 +55,16 @@
         "type": "meal",
         "meal": "dinner",
         "name": "Chicken salad wrap",
-        "quantity": "300 g total; includes 1 Bakers Life Large White Wrap (70 g), chicken, tomato, cucumber, lettuce and creamy sauce",
-        "calories_kcal": 510,
-        "protein_g": 36,
+        "quantity": "70 g Bakers Life Large White Wrap + 110 g chicken + 38 g tomato + 40 g cucumber + 35 g lettuce + 12 g Lyttos Greek Style yoghurt + 20 g MasterFoods Sweet Jalapeño Lime sauce",
+        "calories_kcal": 465,
+        "protein_g": 43,
         "estimated": true,
-        "estimate_confidence": "moderate-high",
-        "notes": "Total assembled wrap weight supplied as 300 g. Wrap nutrition from supplied label: 206 kcal and 5.8 g protein per 70 g wrap. Remaining ~230 g consists of cooked chicken, tomato, cucumber, lettuce and creamy sauce; exact split is unknown, so total estimated at ~510 kcal and ~36 g protein."
+        "estimate_confidence": "high",
+        "notes": "Ingredient weights supplied. Exact labels: wrap 206 kcal and 5.8 g protein per 70 g; Lyttos Greek Style yoghurt 128 kcal and 4.9 g protein per 100 g; MasterFoods Sweet Jalapeño Lime sauce 2660 kJ per 100 mL (~636 kcal/100 mL), <0.1 g protein. Chicken estimated at ~180 kcal and ~34 g protein for 110 g cooked; tomato, cucumber and lettuce contribute ~15 kcal and ~1 g protein combined. Total ingredient weight is ~325 g, superseding earlier 300 g assembled estimate."
       }
     ],
-    "total_calories_kcal": 1700,
-    "total_protein_g": 98.5,
+    "total_calories_kcal": 1655,
+    "total_protein_g": 105.5,
     "water_ml": 0
   },
   "exercise": [],
@@ -76,10 +76,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 450,
+    "calorie_variance_kcal": 495,
     "protein_target_g": 150,
-    "protein_variance_g": 51.5,
-    "notes": "Day in progress. Approximately 1,700 kcal and 98.5 g protein logged. Chicken salad wrap weighed 300 g total and is estimated at ~510 kcal and ~36 g protein; the 70 g wrap itself is exact from the supplied label."
+    "protein_variance_g": 44.5,
+    "notes": "Day in progress. Approximately 1,655 kcal and 105.5 g protein logged. Chicken wrap refined from weighed ingredients to ~465 kcal and ~43 g protein. Around 495 kcal remains against the 2,150 kcal target."
   },
   "plans": []
 }
