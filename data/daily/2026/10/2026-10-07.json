@@ -50,10 +50,21 @@
         "estimated": true,
         "estimate_confidence": "moderate-low",
         "notes": "Estimated for a typical café-style caramel slice; exact weight/size not supplied."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Chicken salad wrap",
+        "quantity": "1 Bakers Life Large White Wrap (70 g) with chicken, tomato, cucumber, lettuce and creamy sauce",
+        "calories_kcal": 500,
+        "protein_g": 36,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Wrap nutrition taken from supplied label: 206 kcal and 5.8 g protein per 70 g wrap. Filling estimated from photo as a substantial serve of cooked chicken with tomato, cucumber, lettuce and a drizzle of creamy sauce; exact chicken and sauce weights not supplied."
       }
     ],
-    "total_calories_kcal": 1190,
-    "total_protein_g": 62.5,
+    "total_calories_kcal": 1690,
+    "total_protein_g": 98.5,
     "water_ml": 0
   },
   "exercise": [],
@@ -65,10 +76,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 960,
+    "calorie_variance_kcal": 460,
     "protein_target_g": 150,
-    "protein_variance_g": 87.5,
-    "notes": "Day in progress. Approximately 1,190 kcal and 62.5 g protein logged. Pork bánh mì and caramel slice are estimated because exact weights and nutrition information were not supplied."
+    "protein_variance_g": 51.5,
+    "notes": "Day in progress. Approximately 1,690 kcal and 98.5 g protein logged. Chicken salad wrap estimated at ~500 kcal and ~36 g protein; the wrap itself is exact from the supplied label (206 kcal, 5.8 g protein), while chicken and sauce amounts are estimated."
   },
   "plans": []
 }
