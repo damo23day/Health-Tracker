@@ -29,10 +29,31 @@
         "estimated": true,
         "estimate_confidence": "moderate",
         "notes": "Standard home coffee, estimated with a small amount of milk."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Pork bánh mì roll",
+        "quantity": "1 roll",
+        "calories_kcal": 600,
+        "protein_g": 28,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Estimated for a typical pork bánh mì with bread roll, pork, vegetables, sauce and spread; exact size and fillings not supplied."
+      },
+      {
+        "type": "snack",
+        "name": "Caramel slice",
+        "quantity": "1 piece",
+        "calories_kcal": 350,
+        "protein_g": 4,
+        "estimated": true,
+        "estimate_confidence": "moderate-low",
+        "notes": "Estimated for a typical café-style caramel slice; exact weight/size not supplied."
       }
     ],
-    "total_calories_kcal": 240,
-    "total_protein_g": 30.5,
+    "total_calories_kcal": 1190,
+    "total_protein_g": 62.5,
     "water_ml": 0
   },
   "exercise": [],
@@ -44,10 +65,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1910,
+    "calorie_variance_kcal": 960,
     "protein_target_g": 150,
-    "protein_variance_g": 119.5,
-    "notes": "Day in progress. Approximately 240 kcal and 30.5 g protein logged from 150 mL milk with chocolate protein powder and one standard home coffee."
+    "protein_variance_g": 87.5,
+    "notes": "Day in progress. Approximately 1,190 kcal and 62.5 g protein logged. Pork bánh mì and caramel slice are estimated because exact weights and nutrition information were not supplied."
   },
   "plans": []
 }
