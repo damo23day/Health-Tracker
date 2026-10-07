@@ -55,15 +55,15 @@
         "type": "meal",
         "meal": "dinner",
         "name": "Chicken salad wrap",
-        "quantity": "1 Bakers Life Large White Wrap (70 g) with chicken, tomato, cucumber, lettuce and creamy sauce",
-        "calories_kcal": 500,
+        "quantity": "300 g total; includes 1 Bakers Life Large White Wrap (70 g), chicken, tomato, cucumber, lettuce and creamy sauce",
+        "calories_kcal": 510,
         "protein_g": 36,
         "estimated": true,
-        "estimate_confidence": "moderate",
-        "notes": "Wrap nutrition taken from supplied label: 206 kcal and 5.8 g protein per 70 g wrap. Filling estimated from photo as a substantial serve of cooked chicken with tomato, cucumber, lettuce and a drizzle of creamy sauce; exact chicken and sauce weights not supplied."
+        "estimate_confidence": "moderate-high",
+        "notes": "Total assembled wrap weight supplied as 300 g. Wrap nutrition from supplied label: 206 kcal and 5.8 g protein per 70 g wrap. Remaining ~230 g consists of cooked chicken, tomato, cucumber, lettuce and creamy sauce; exact split is unknown, so total estimated at ~510 kcal and ~36 g protein."
       }
     ],
-    "total_calories_kcal": 1690,
+    "total_calories_kcal": 1700,
     "total_protein_g": 98.5,
     "water_ml": 0
   },
@@ -76,10 +76,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 460,
+    "calorie_variance_kcal": 450,
     "protein_target_g": 150,
     "protein_variance_g": 51.5,
-    "notes": "Day in progress. Approximately 1,690 kcal and 98.5 g protein logged. Chicken salad wrap estimated at ~500 kcal and ~36 g protein; the wrap itself is exact from the supplied label (206 kcal, 5.8 g protein), while chicken and sauce amounts are estimated."
+    "notes": "Day in progress. Approximately 1,700 kcal and 98.5 g protein logged. Chicken salad wrap weighed 300 g total and is estimated at ~510 kcal and ~36 g protein; the 70 g wrap itself is exact from the supplied label."
   },
   "plans": []
 }
