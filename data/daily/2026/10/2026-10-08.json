@@ -56,10 +56,21 @@
         "protein_g": 0,
         "estimated": false,
         "notes": "Plain water; counted toward hydration."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Egg, ham, avocado, broccoli and wholegrain toast",
+        "quantity": "40 g avocado + 50 g ham + 58 g broccoli + 131 g egg + 61 g wholegrain bread",
+        "calories_kcal": 480,
+        "protein_g": 34,
+        "estimated": true,
+        "estimate_confidence": "moderate-high",
+        "notes": "Ingredient weights supplied by user. Estimated using typical values; exact ham and bread nutrition labels not supplied."
       }
     ],
-    "total_calories_kcal": 275,
-    "total_protein_g": 32.3,
+    "total_calories_kcal": 755,
+    "total_protein_g": 66.3,
     "water_ml": 2250
   },
   "exercise": [],
@@ -71,10 +82,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1875,
+    "calorie_variance_kcal": 1395,
     "protein_target_g": 150,
-    "protein_variance_g": 117.7,
-    "notes": "Day in progress. Approximately 275 kcal and 32.3 g protein logged. Standard home coffee revised to a conservative 100 mL milk assumption at ~65 kcal and ~3.3 g protein. Hydration logged at 2,250 mL."
+    "protein_variance_g": 83.7,
+    "notes": "Day in progress. Approximately 755 kcal and 66.3 g protein logged. Hydration logged at 2,250 mL."
   },
   "plans": []
 }
