@@ -91,12 +91,12 @@
         "type": "meal",
         "meal": "dinner",
         "name": "Pan-fried salmon with potato and vegetables",
-        "quantity": "110 g pan-fried salmon + 136 g potatoes + 76 g corn + 50 g broccoli + 30 g beans + 15 g carrots",
-        "calories_kcal": 451,
-        "protein_g": 31.5,
+        "quantity": "110 g pan-fried salmon + 100 g potatoes + 76 g corn + 50 g broccoli + 30 g beans + 15 g carrots",
+        "calories_kcal": 423,
+        "protein_g": 30.8,
         "estimated": true,
         "estimate_confidence": "moderate-high",
-        "notes": "Ingredient weights supplied by user. Salmon includes a small allowance for pan-frying oil; exact oil amount and salmon cut not supplied."
+        "notes": "Ingredient weights supplied by user. Potato amount corrected from 136 g to 100 g. Salmon includes a small allowance for pan-frying oil; exact oil amount and salmon cut not supplied."
       },
       {
         "type": "drink",
@@ -110,8 +110,8 @@
         "notes": "Standard Chocolate Man Shake estimate used."
       }
     ],
-    "total_calories_kcal": 1951.5,
-    "total_protein_g": 141.6,
+    "total_calories_kcal": 1923.5,
+    "total_protein_g": 140.9,
     "water_ml": 2250
   },
   "exercise": [],
@@ -123,10 +123,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 198.5,
+    "calorie_variance_kcal": 226.5,
     "protein_target_g": 150,
-    "protein_variance_g": 8.4,
-    "notes": "Day in progress. Approximately 1951.5 kcal and 141.6 g protein logged. Hydration logged at 2,250 mL, excluding Pepsi Max."
+    "protein_variance_g": 9.1,
+    "notes": "Day in progress. Approximately 1923.5 kcal and 140.9 g protein logged. Hydration logged at 2,250 mL, excluding Pepsi Max."
   },
   "plans": []
 }
