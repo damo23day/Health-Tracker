@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-08",
+  "measurements": {
+    "weight_kg": null,
+    "waist_cm": null
+  },
+  "sleep": {
+    "hours": null,
+    "quality": null
+  },
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Home coffee",
+        "quantity": "1 standard home coffee",
+        "calories_kcal": 30,
+        "protein_g": 1.5,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Standard home coffee, estimated with a small amount of milk."
+      },
+      {
+        "type": "drink",
+        "name": "Home protein iced coffee",
+        "quantity": "150 mL milk + 1 espresso shot + 1 scoop Optimum Nutrition Gold Standard whey",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true,
+        "estimate_confidence": "moderate-high",
+        "notes": "Standard home protein iced coffee recipe."
+      },
+      {
+        "type": "drink",
+        "name": "Water with Hydralyte and creatine",
+        "quantity": "1 x standard 750 mL drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Usual Hydralyte and creatine; counted toward hydration."
+      },
+      {
+        "type": "drink",
+        "name": "Water",
+        "quantity": "1 x standard 750 mL drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Plain water; counted toward hydration."
+      }
+    ],
+    "total_calories_kcal": 240,
+    "total_protein_g": 30.5,
+    "water_ml": 1500
+  },
+  "exercise": [],
+  "activity": {},
+  "wellbeing": {
+    "hunger": null,
+    "energy": null,
+    "notes": null
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "calorie_variance_kcal": 1910,
+    "protein_target_g": 150,
+    "protein_variance_g": 119.5,
+    "notes": "Day in progress. Approximately 240 kcal and 30.5 g protein logged from one standard home coffee and one home protein iced coffee. Hydration logged at 1,500 mL from one 750 mL Hydralyte + creatine bottle and one 750 mL plain water bottle."
+  },
+  "plans": []
+}
