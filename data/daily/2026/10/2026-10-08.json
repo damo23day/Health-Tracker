@@ -97,10 +97,21 @@
         "estimated": true,
         "estimate_confidence": "moderate-high",
         "notes": "Ingredient weights supplied by user. Salmon includes a small allowance for pan-frying oil; exact oil amount and salmon cut not supplied."
+      },
+      {
+        "type": "drink",
+        "meal": "snack",
+        "name": "Chocolate Man Shake",
+        "quantity": "1 standard serve, prepared with water",
+        "calories_kcal": 210,
+        "protein_g": 30,
+        "estimated": true,
+        "estimate_confidence": "moderate-high",
+        "notes": "Standard Chocolate Man Shake estimate used."
       }
     ],
-    "total_calories_kcal": 1741.5,
-    "total_protein_g": 111.6,
+    "total_calories_kcal": 1951.5,
+    "total_protein_g": 141.6,
     "water_ml": 2250
   },
   "exercise": [],
@@ -112,10 +123,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 408.5,
+    "calorie_variance_kcal": 198.5,
     "protein_target_g": 150,
-    "protein_variance_g": 38.4,
-    "notes": "Day in progress. Approximately 1741.5 kcal and 111.6 g protein logged. Hydration logged at 2,250 mL, excluding Pepsi Max."
+    "protein_variance_g": 8.4,
+    "notes": "Day in progress. Approximately 1951.5 kcal and 141.6 g protein logged. Hydration logged at 2,250 mL, excluding Pepsi Max."
   },
   "plans": []
 }
