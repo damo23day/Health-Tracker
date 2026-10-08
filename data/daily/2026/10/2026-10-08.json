@@ -47,11 +47,20 @@
         "protein_g": 0,
         "estimated": false,
         "notes": "Plain water; counted toward hydration."
+      },
+      {
+        "type": "drink",
+        "name": "Water",
+        "quantity": "1 x standard 750 mL drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Plain water; counted toward hydration."
       }
     ],
     "total_calories_kcal": 275,
     "total_protein_g": 32.3,
-    "water_ml": 1500
+    "water_ml": 2250
   },
   "exercise": [],
   "activity": {},
@@ -65,7 +74,7 @@
     "calorie_variance_kcal": 1875,
     "protein_target_g": 150,
     "protein_variance_g": 117.7,
-    "notes": "Day in progress. Approximately 275 kcal and 32.3 g protein logged. Standard home coffee revised to a conservative 100 mL milk assumption at ~65 kcal and ~3.3 g protein. Hydration logged at 1,500 mL."
+    "notes": "Day in progress. Approximately 275 kcal and 32.3 g protein logged. Standard home coffee revised to a conservative 100 mL milk assumption at ~65 kcal and ~3.3 g protein. Hydration logged at 2,250 mL."
   },
   "plans": []
 }
