@@ -77,10 +77,19 @@
         "estimated": true,
         "estimate_confidence": "moderate-high",
         "notes": "Yoghurt calculated from known label (136 kcal, 3.5 g protein/100 g). Blueberries from supplied label (62 kcal, 0.6 g protein/100 g). Muesli estimated from previously used serving estimate because exact muesli nutrition label is not shown."
+      },
+      {
+        "type": "drink",
+        "name": "Pepsi Max",
+        "quantity": "1 x 375 mL can",
+        "calories_kcal": 1.5,
+        "protein_g": 0.2,
+        "estimated": false,
+        "notes": "Label: 6 kJ energy and 0.2 g protein per 375 mL can. Not counted toward tracked water hydration."
       }
     ],
-    "total_calories_kcal": 1289,
-    "total_protein_g": 79.9,
+    "total_calories_kcal": 1290.5,
+    "total_protein_g": 80.1,
     "water_ml": 2250
   },
   "exercise": [],
@@ -92,10 +101,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 861,
+    "calorie_variance_kcal": 859.5,
     "protein_target_g": 150,
-    "protein_variance_g": 70.1,
-    "notes": "Day in progress. Approximately 1289 kcal and 79.9 g protein logged. Hydration logged at 2,250 mL."
+    "protein_variance_g": 69.9,
+    "notes": "Day in progress. Approximately 1290.5 kcal and 80.1 g protein logged. Hydration logged at 2,250 mL, excluding Pepsi Max."
   },
   "plans": []
 }
