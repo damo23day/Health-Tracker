@@ -67,10 +67,20 @@
         "estimated": true,
         "estimate_confidence": "moderate-high",
         "notes": "Ingredient weights supplied by user. Estimated using typical values; exact ham and bread nutrition labels not supplied."
+      },
+      {
+        "type": "snack",
+        "name": "Muesli with sweet creamy Greek-style yoghurt and blueberries",
+        "quantity": "80 g muesli + 120 g Jalna sweetened creamy Greek-style yoghurt + 45 g frozen blueberries",
+        "calories_kcal": 534,
+        "protein_g": 13.600000000000001,
+        "estimated": true,
+        "estimate_confidence": "moderate-high",
+        "notes": "Yoghurt calculated from known label (136 kcal, 3.5 g protein/100 g). Blueberries from supplied label (62 kcal, 0.6 g protein/100 g). Muesli estimated from previously used serving estimate because exact muesli nutrition label is not shown."
       }
     ],
-    "total_calories_kcal": 755,
-    "total_protein_g": 66.3,
+    "total_calories_kcal": 1289,
+    "total_protein_g": 79.9,
     "water_ml": 2250
   },
   "exercise": [],
@@ -82,10 +92,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1395,
+    "calorie_variance_kcal": 861,
     "protein_target_g": 150,
-    "protein_variance_g": 83.7,
-    "notes": "Day in progress. Approximately 755 kcal and 66.3 g protein logged. Hydration logged at 2,250 mL."
+    "protein_variance_g": 70.1,
+    "notes": "Day in progress. Approximately 1289 kcal and 79.9 g protein logged. Hydration logged at 2,250 mL."
   },
   "plans": []
 }
