@@ -13,12 +13,12 @@
       {
         "type": "drink",
         "name": "Home coffee",
-        "quantity": "1 standard home coffee",
-        "calories_kcal": 30,
-        "protein_g": 1.5,
+        "quantity": "1 standard home coffee: espresso + 100 mL milk",
+        "calories_kcal": 65,
+        "protein_g": 3.3,
         "estimated": true,
-        "estimate_confidence": "moderate",
-        "notes": "Standard home coffee, estimated with a small amount of milk."
+        "estimate_confidence": "moderate-high",
+        "notes": "Standard home coffee uses 100 mL milk as a deliberately conservative/top-end quantity because usual milk volume ranges 80–100 mL. Use 65 kcal and 3.3 g protein unless a measured amount or milk label is supplied."
       },
       {
         "type": "drink",
@@ -49,8 +49,8 @@
         "notes": "Plain water; counted toward hydration."
       }
     ],
-    "total_calories_kcal": 240,
-    "total_protein_g": 30.5,
+    "total_calories_kcal": 275,
+    "total_protein_g": 32.3,
     "water_ml": 1500
   },
   "exercise": [],
@@ -62,10 +62,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 1910,
+    "calorie_variance_kcal": 1875,
     "protein_target_g": 150,
-    "protein_variance_g": 119.5,
-    "notes": "Day in progress. Approximately 240 kcal and 30.5 g protein logged from one standard home coffee and one home protein iced coffee. Hydration logged at 1,500 mL from one 750 mL Hydralyte + creatine bottle and one 750 mL plain water bottle."
+    "protein_variance_g": 117.7,
+    "notes": "Day in progress. Approximately 275 kcal and 32.3 g protein logged. Standard home coffee revised to a conservative 100 mL milk assumption at ~65 kcal and ~3.3 g protein. Hydration logged at 1,500 mL."
   },
   "plans": []
 }
