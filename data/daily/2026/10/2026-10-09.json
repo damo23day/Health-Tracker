@@ -29,10 +29,20 @@
         "estimated": true,
         "estimate_confidence": "moderate-low",
         "notes": "Restaurant/takeaway meal; exact burger ingredients, cooking method, sauces and chip weight not supplied. Conservative estimate used."
+      },
+      {
+        "type": "snack",
+        "name": "Apples",
+        "quantity": "2 medium apples",
+        "calories_kcal": 190,
+        "protein_g": 1,
+        "estimated": true,
+        "estimate_confidence": "moderate-high",
+        "notes": "Estimated at approximately 95 kcal and 0.5 g protein per medium apple."
       }
     ],
-    "total_calories_kcal": 1509,
-    "total_protein_g": 45,
+    "total_calories_kcal": 1699,
+    "total_protein_g": 46,
     "water_ml": 0
   },
   "exercise": [
@@ -55,10 +65,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 641,
+    "calorie_variance_kcal": 451,
     "protein_target_g": 150,
-    "protein_variance_g": 105,
-    "notes": "Day in progress. Dinner and three XPA beers logged. Summit exercise calories tracked separately and not subtracted from food target."
+    "protein_variance_g": 104,
+    "notes": "Day in progress. Dinner, three XPA beers and two medium apples logged. Summit exercise calories tracked separately and not subtracted from food target."
   },
   "plans": []
 }
