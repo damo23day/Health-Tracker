@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-09",
+  "measurements": {
+    "weight_kg": null,
+    "waist_cm": null
+  },
+  "sleep": {
+    "hours": null,
+    "quality": null
+  },
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Aldi XPA beer",
+        "quantity": "3 x 375 mL cans",
+        "calories_kcal": 459,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Standard tracked XPA: 153 kcal per can."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Large chicken burger and small chips",
+        "quantity": "1 large chicken burger + 1 small serve chips",
+        "calories_kcal": 1050,
+        "protein_g": 45,
+        "estimated": true,
+        "estimate_confidence": "moderate-low",
+        "notes": "Restaurant/takeaway meal; exact burger ingredients, cooking method, sauces and chip weight not supplied. Conservative estimate used."
+      }
+    ],
+    "total_calories_kcal": 1509,
+    "total_protein_g": 45,
+    "water_ml": 0
+  },
+  "exercise": [
+    {
+      "type": "Group Cycle / Summit",
+      "duration": "45:00",
+      "distance_km": 20.3,
+      "calories_reported": 561,
+      "moves": 1016,
+      "average_power_w": 179,
+      "average_cadence_rpm": 76,
+      "notes": "Different instructor from Tuesday RPM session. No watch worn; no heart-rate data."
+    }
+  ],
+  "activity": {},
+  "wellbeing": {
+    "hunger": null,
+    "energy": null,
+    "notes": null
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "calorie_variance_kcal": 641,
+    "protein_target_g": 150,
+    "protein_variance_g": 105,
+    "notes": "Day in progress. Dinner and three XPA beers logged. Summit exercise calories tracked separately and not subtracted from food target."
+  },
+  "plans": []
+}
