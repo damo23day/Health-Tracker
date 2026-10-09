@@ -12,6 +12,55 @@
     "entries": [
       {
         "type": "drink",
+        "name": "Home coffee",
+        "quantity": "1 standard home coffee: espresso + 100 mL milk",
+        "calories_kcal": 65,
+        "protein_g": 3.3,
+        "estimated": true,
+        "estimate_confidence": "moderate-high",
+        "notes": "Standard conservative home coffee estimate using 100 mL milk."
+      },
+      {
+        "type": "drink",
+        "name": "Home protein iced coffee",
+        "quantity": "150 mL milk + 1 espresso shot + 1 scoop Optimum Nutrition Gold Standard whey",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true,
+        "estimate_confidence": "moderate-high",
+        "notes": "Standard home protein iced coffee recipe."
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Eggs with tomato, cabana and hummus",
+        "quantity": "198 g egg + 128 g tomato + 63 g cabana + small amount hummus",
+        "calories_kcal": 570,
+        "protein_g": 38,
+        "estimated": true,
+        "estimate_confidence": "moderate",
+        "notes": "Egg weight combines 138 g plus additional 60 g supplied by user. Tomato and cabana weighed. Small hummus amount estimated; cabana brand/label not supplied."
+      },
+      {
+        "type": "drink",
+        "name": "Water with Hydralyte and creatine",
+        "quantity": "1 x standard 750 mL drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Morning Hydralyte + creatine bottle; counted toward hydration."
+      },
+      {
+        "type": "drink",
+        "name": "Water",
+        "quantity": "1 x standard 750 mL drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "Morning plain water; counted toward hydration."
+      },
+      {
+        "type": "drink",
         "name": "Aldi XPA beer",
         "quantity": "3 x 375 mL cans",
         "calories_kcal": 459,
@@ -41,9 +90,9 @@
         "notes": "Estimated at approximately 95 kcal and 0.5 g protein per medium apple."
       }
     ],
-    "total_calories_kcal": 1699,
-    "total_protein_g": 46,
-    "water_ml": 0
+    "total_calories_kcal": 2544,
+    "total_protein_g": 116.3,
+    "water_ml": 1500
   },
   "exercise": [
     {
@@ -65,10 +114,10 @@
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "calorie_variance_kcal": 451,
+    "calorie_variance_kcal": -394,
     "protein_target_g": 150,
-    "protein_variance_g": 104,
-    "notes": "Day in progress. Dinner, three XPA beers and two medium apples logged. Summit exercise calories tracked separately and not subtracted from food target."
+    "protein_variance_g": 33.7,
+    "notes": "Morning coffee, protein iced coffee, breakfast and 1.5 L hydration restored to today's log. Approximately 2544 kcal and 116.3 g protein logged. Summit exercise calories tracked separately and not subtracted from food target."
   },
   "plans": []
 }
