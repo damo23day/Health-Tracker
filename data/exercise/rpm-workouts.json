@@ -104,7 +104,7 @@
     },
     {
       "date": "2026-10-09",
-      "workout_type": "Group Cycle / RPM",
+      "workout_type": "Group Cycle / Summit",
       "duration": "45:00",
       "distance_km": 20.3,
       "calories_reported": 561,
@@ -113,7 +113,8 @@
       "max_power_w": null,
       "average_cadence_rpm": 76,
       "source": "Group Cycle Connect screenshots",
-      "notes": "No watch worn, so no Samsung Health heart-rate data available. Group Cycle Connect: 45:00, 20.3 km, 561 kcal, 1016 moves, 179 W average power and 76 rpm average cadence. Max power not displayed numerically in supplied screenshots."
+      "notes": "Summit group cycle session (not RPM). Different instructor from the Tuesday RPM/Lolita session; instructor name not provided. No watch worn, so no Samsung Health heart-rate data available. Group Cycle Connect: 45:00, 20.3 km, 561 kcal, 1016 moves, 179 W average power and 76 rpm average cadence. Max power not displayed numerically in supplied screenshots.",
+      "instructor": null
     }
   ]
 }
