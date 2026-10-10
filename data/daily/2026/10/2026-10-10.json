@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-10",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Home coffee",
+        "quantity": "Espresso with 100 mL milk",
+        "calories_kcal": 65,
+        "protein_g": 3.3,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Home protein iced coffee",
+        "quantity": "150 mL milk, espresso, one scoop whey",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Large chicken salad roll",
+        "quantity": "1 large bread roll with chicken and salad",
+        "calories_kcal": 650,
+        "protein_g": 38,
+        "estimated": true,
+        "estimate_confidence": "low",
+        "notes": "Large roll estimate; bread size, chicken amount, dressing and spreads not specified."
+      }
+    ],
+    "total_calories_kcal": 925,
+    "total_protein_g": 70.3,
+    "water_ml": 0
+  },
+  "exercise": [],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1225,
+    "protein_variance_g": 79.7
+  }
+}
