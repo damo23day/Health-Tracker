@@ -28,11 +28,20 @@
         "estimated": true,
         "estimate_confidence": "low",
         "notes": "Large roll estimate; bread size, chicken amount, dressing and spreads not specified."
+      },
+      {
+        "type": "drink",
+        "name": "Water with Hydralyte and creatine",
+        "quantity": "1 standard 750 mL drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "User drinking bottle; recorded as 750 mL hydration."
       }
     ],
     "total_calories_kcal": 925,
     "total_protein_g": 70.3,
-    "water_ml": 0
+    "water_ml": 750
   },
   "exercise": [],
   "daily_summary": {
