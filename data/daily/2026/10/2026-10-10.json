@@ -37,17 +37,44 @@
         "protein_g": 0,
         "estimated": false,
         "notes": "User drinking bottle; recorded as 750 mL hydration."
+      },
+      {
+        "type": "drink",
+        "name": "ALDI Storm Brewing Co beer 5% ABV",
+        "quantity": "8 x 375 mL cans (3 L, 12 standard drinks)",
+        "calories_kcal": 1224,
+        "protein_g": 0,
+        "estimated": false,
+        "notes": "153 kcal per can from photographed label; protein not listed, treated as negligible."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Small BBQ ribs",
+        "quantity": "1 small serving",
+        "calories_kcal": 400,
+        "protein_g": 25,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Small fried rice",
+        "quantity": "1 small serving",
+        "calories_kcal": 300,
+        "protein_g": 7,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 925,
-    "total_protein_g": 70.3,
+    "total_calories_kcal": 2849,
+    "total_protein_g": 102.3,
     "water_ml": 750
   },
   "exercise": [],
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1225,
-    "protein_variance_g": 79.7
+    "calorie_variance_kcal": 699,
+    "protein_variance_g": 47.7
   }
 }
