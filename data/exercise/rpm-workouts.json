@@ -115,6 +115,24 @@
       "source": "Group Cycle Connect screenshots",
       "notes": "Summit group cycle session (not RPM). Different instructor from the Tuesday RPM/Lolita session; instructor name not provided. No watch worn, so no Samsung Health heart-rate data available. Group Cycle Connect: 45:00, 20.3 km, 561 kcal, 1016 moves, 179 W average power and 76 rpm average cadence. Max power not displayed numerically in supplied screenshots.",
       "instructor": null
+    },
+    {
+      "date": "2026-10-12",
+      "workout_type": "Group Cycle / RPM",
+      "duration": "1:00:07",
+      "distance_km": null,
+      "calories_reported": 550,
+      "moves": null,
+      "average_power_w": null,
+      "max_power_w": null,
+      "average_cadence_rpm": null,
+      "source": "Samsung Health screenshots",
+      "heart_rate": {
+        "source": "Samsung Health",
+        "average_bpm": 128,
+        "max_bpm": 169
+      },
+      "notes": "Watch recorded 550 kcal workout and total calories, 60:07 duration. Heart rate rose through main session, peak 169 bpm, then extended recovery after about 43 minutes. Group Cycle Connect metrics unavailable."
     }
   ]
 }
