@@ -42,10 +42,19 @@
         "calories_kcal": 0,
         "protein_g": 0,
         "estimated": false
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Roast chicken with lentil spinach and cauliflower salad",
+        "quantity": "509 g consumed including 47 g chicken",
+        "calories_kcal": 545,
+        "protein_g": 34,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 695,
-    "total_protein_g": 55.5,
+    "total_calories_kcal": 1240,
+    "total_protein_g": 89.5,
     "water_ml": 1500
   },
   "exercise": [
@@ -65,8 +74,8 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1455,
-    "protein_variance_g": 94.5,
+    "calorie_variance_kcal": 910,
+    "protein_variance_g": 60.5,
     "notes": "Partial-day log. Nutrition estimated from standard portions. RPM metrics pending."
   }
 }
