@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-12",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Home coffee",
+        "quantity": "Espresso with approximately 100 mL milk",
+        "calories_kcal": 65,
+        "protein_g": 3,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Standard iced protein coffee",
+        "quantity": "150 mL milk, espresso and one scoop whey",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Eggs on wholegrain toast with chickpea spread and tomato",
+        "quantity": "2 eggs, 2 slices toast, small hummus spread, 1 tomato",
+        "calories_kcal": 420,
+        "protein_g": 23.5,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Hydralyte with creatine",
+        "quantity": "750 mL standard bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Plain water",
+        "quantity": "750 mL standard bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false
+      }
+    ],
+    "total_calories_kcal": 695,
+    "total_protein_g": 55.5,
+    "water_ml": 1500
+  },
+  "exercise": [
+    {
+      "type": "RPM",
+      "status": "completed; workout results pending upload",
+      "notes": "User reported RPM session; metrics to be added after upload."
+    }
+  ],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1455,
+    "protein_variance_g": 94.5,
+    "notes": "Partial-day log. Nutrition estimated from standard portions. RPM metrics pending."
+  }
+}
