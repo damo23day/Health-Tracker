@@ -112,5 +112,28 @@
     "calorie_variance_kcal": -232,
     "protein_variance_g": -15.7,
     "notes": "Partial-day log. Nutrition estimated from standard portions. RPM metrics pending."
+  },
+  "body_composition": {
+    "weight_kg": 97.3,
+    "bmi": 30,
+    "body_fat_percent": 29.3,
+    "lean_body_mass_kg": 68.8,
+    "body_water_percent": 50.1,
+    "skeletal_muscle_percent": 44.8,
+    "muscle_percent": 67,
+    "protein_percent": 16.9,
+    "bone_percent": 3.7,
+    "visceral_fat_index": 13,
+    "subcutaneous_fat_kg": 25.6,
+    "body_age": 44,
+    "bmr_kcal": 2051,
+    "amr_kcal": 3159,
+    "body_score": 66,
+    "scale_suggested_weight_kg": 80.9,
+    "weight_change_since_2026_10_04_kg": 0.6,
+    "body_fat_percentage_point_change_since_2026_10_04": 0,
+    "measurement_context": "Evening measurement; repeat morning under consistent conditions",
+    "source": "Smart scale health report screenshots",
+    "notes": "Body composition and expenditure estimates are device-derived; not diagnostic."
   }
 }
