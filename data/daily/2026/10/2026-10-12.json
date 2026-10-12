@@ -51,10 +51,18 @@
         "calories_kcal": 545,
         "protein_g": 34,
         "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Chocolate Man Shake",
+        "quantity": "1 standard serving mixed with water (assumed)",
+        "calories_kcal": 200,
+        "protein_g": 30,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 1240,
-    "total_protein_g": 89.5,
+    "total_calories_kcal": 1440,
+    "total_protein_g": 119.5,
     "water_ml": 1500
   },
   "exercise": [
@@ -74,8 +82,8 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 910,
-    "protein_variance_g": 60.5,
+    "calorie_variance_kcal": 710,
+    "protein_variance_g": 30.5,
     "notes": "Partial-day log. Nutrition estimated from standard portions. RPM metrics pending."
   }
 }
