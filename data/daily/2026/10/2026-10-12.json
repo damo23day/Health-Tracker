@@ -51,8 +51,15 @@
   "exercise": [
     {
       "type": "RPM",
-      "status": "completed; workout results pending upload",
-      "notes": "User reported RPM session; metrics to be added after upload."
+      "duration": "1:00:07",
+      "calories_reported": 550,
+      "calorie_source": "Samsung Health workout calories",
+      "heart_rate": {
+        "average_bpm": 128,
+        "max_bpm": 169
+      },
+      "source": "Samsung Health screenshots",
+      "notes": "Watch recording includes extended lower-intensity recovery after approximately 43 minutes; Group Cycle Connect data not yet provided."
     }
   ],
   "daily_summary": {
