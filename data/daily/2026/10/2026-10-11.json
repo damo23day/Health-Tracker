@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-11",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Home coffee",
+        "quantity": "Espresso with 100 mL milk",
+        "calories_kcal": 65,
+        "protein_g": 3,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Two eggs",
+        "quantity": "2 standard eggs",
+        "calories_kcal": 145,
+        "protein_g": 13,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Wholegrain toast",
+        "quantity": "2 slices",
+        "calories_kcal": 200,
+        "protein_g": 8,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Chickpea spread (hummus)",
+        "quantity": "Small spread",
+        "calories_kcal": 45,
+        "protein_g": 1,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Large tomato",
+        "quantity": "1 large",
+        "calories_kcal": 35,
+        "protein_g": 2,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chicken salad roll",
+        "quantity": "1 roll",
+        "calories_kcal": 550,
+        "protein_g": 35,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chicken drumstick",
+        "quantity": "1 piece",
+        "calories_kcal": 160,
+        "protein_g": 20,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "VB beer",
+        "quantity": "2 x 375 mL cans assumed",
+        "calories_kcal": 290,
+        "protein_g": 0,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "XPA beer",
+        "quantity": "5 x 375 mL cans assumed",
+        "calories_kcal": 765,
+        "protein_g": 0,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Chicken wing",
+        "quantity": "1 piece",
+        "calories_kcal": 110,
+        "protein_g": 10,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Chickpea salad",
+        "quantity": "1 serving",
+        "calories_kcal": 250,
+        "protein_g": 10,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Hydralyte and creatine water",
+        "quantity": "750 mL bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Hydralyte water",
+        "quantity": "750 mL bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": true
+      }
+    ],
+    "total_calories_kcal": 2615,
+    "total_protein_g": 102,
+    "water_ml": 1500
+  },
+  "exercise": [],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 465,
+    "protein_variance_g": 48,
+    "notes": "Retrospective estimates without weights. Assumed 375 mL beer cans, XPA 153 kcal/can and two 750 mL water bottles. Alcohol estimate uncertain; no exercise reported."
+  }
+}
