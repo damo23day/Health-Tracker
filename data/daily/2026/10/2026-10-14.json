@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-14",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Breakfast burrito with eggs avocado chicken and hash brown",
+        "quantity": "318 g total; estimated 2 eggs 100 g, chicken 50 g, avocado 40 g, hash brown 55 g, tortilla 73 g",
+        "calories_kcal": 632,
+        "protein_g": 36.8,
+        "estimated": true,
+        "notes": "Only total weight and ingredients supplied; component weights estimated. No cheese sauce or additional oil assumed."
+      }
+    ],
+    "total_calories_kcal": 632,
+    "total_protein_g": 36.8,
+    "water_ml": 0
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1518,
+    "protein_variance_g": 113.2,
+    "notes": "Partial day; hydration not yet reported."
+  }
+}
