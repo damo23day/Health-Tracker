@@ -45,15 +45,27 @@
         "calories_kcal": 550,
         "protein_g": 30,
         "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Beef with broccoli and white rice",
+        "quantity": "60 g beef, 50 g broccoli, 120 g cooked white rice",
+        "calories_kcal": 308,
+        "protein_g": 20.6,
+        "estimated": true,
+        "notes": "Assumes cooked weights and no added oil or sauce."
       }
     ],
-    "total_calories_kcal": 970,
-    "total_protein_g": 39.5,
+    "total_calories_kcal": 1278,
+    "total_protein_g": 60.1,
     "water_ml": 1500
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "notes": "Partial day. Fruit and sandwiches estimated; drinks recorded as two 750 mL bottles."
+    "notes": "Partial day. Fruit and sandwiches estimated; drinks recorded as two 750 mL bottles.",
+    "calorie_variance_kcal": 872,
+    "protein_variance_g": 89.9
   }
 }
