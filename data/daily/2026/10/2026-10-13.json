@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "meal",
+        "meal": "snack",
+        "name": "Sweet & Creamy Greek-style yoghurt with kiwi, frozen mango and frozen raspberries",
+        "quantity": "120 g yoghurt, 65 g kiwi, 40 g frozen mango, 40 g frozen raspberries",
+        "calories_kcal": 230,
+        "protein_g": 6.5,
+        "fibre_g": 5,
+        "estimated": true
+      }
+    ],
+    "total_calories_kcal": 230,
+    "total_protein_g": 6.5,
+    "water_ml": 0
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "notes": "Partial-day log; only the reported snack has been recorded so far. Totals are for recorded items, not the full day."
+  }
+}
