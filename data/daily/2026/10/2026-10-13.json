@@ -55,17 +55,33 @@
         "protein_g": 20.6,
         "estimated": true,
         "notes": "Assumes cooked weights and no added oil or sauce."
+      },
+      {
+        "type": "snack",
+        "name": "BBQ Shapes, small bag",
+        "quantity": "Approximately 25 g",
+        "calories_kcal": 120,
+        "protein_g": 2,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "IPA beer",
+        "quantity": "1 can, assumed 375 mL",
+        "calories_kcal": 180,
+        "protein_g": 1,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 1278,
-    "total_protein_g": 60.1,
+    "total_calories_kcal": 1578,
+    "total_protein_g": 63.1,
     "water_ml": 1500
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
     "notes": "Partial day. Fruit and sandwiches estimated; drinks recorded as two 750 mL bottles.",
-    "calorie_variance_kcal": 872,
-    "protein_variance_g": 89.9
+    "calorie_variance_kcal": 572,
+    "protein_variance_g": 86.9
   }
 }
