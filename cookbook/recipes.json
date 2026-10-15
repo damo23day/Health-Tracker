@@ -337,6 +337,55 @@
         "overall_stars": null,
         "review_count": 0
       }
+    },
+    {
+      "id": "rice-paper-croque-madame",
+      "name": "Rice Paper Croque Madame",
+      "category": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "path": "breakfast/rice-paper-croque-madame.md",
+      "servings": 2,
+      "total_minutes": 24,
+      "active_minutes": 10,
+      "difficulty": 2,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "rice paper",
+        "egg",
+        "ham",
+        "cheese"
+      ],
+      "optional_ingredients": [
+        "dijon mustard",
+        "everything bagel seasoning",
+        "spinach",
+        "oil spray"
+      ],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 300,
+        "protein_g": 17,
+        "estimated": true,
+        "note": "Original author's estimate per pocket; article inconsistently mentions 35g protein. Adaptation not calculated."
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     }
   ]
 }
