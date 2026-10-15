@@ -20,12 +20,13 @@
       },
       {
         "type": "meal",
-        "meal": "breakfast",
+        "meal": "brunch",
         "name": "Two eggs on toast with medium tomato and chickpea spread",
         "quantity": "2 eggs, 2 slices toast, 1 medium tomato, small chickpea spread",
         "calories_kcal": 420,
         "protein_g": 23.5,
-        "estimated": true
+        "estimated": true,
+        "time": "11:30"
       },
       {
         "type": "drink",
@@ -71,6 +72,6 @@
     "protein_target_g": 150,
     "calorie_variance_kcal": 829,
     "protein_variance_g": 74,
-    "notes": "Partial-day log. Coffee milk, spreads, bread, and snack portions estimated. No lunch or dinner reported yet."
+    "notes": "Partial-day log. Eggs on toast eaten as brunch around 11:30 am, not breakfast. Coffee milk, spreads, bread, and snack portions estimated. No separate lunch reported."
   }
 }
