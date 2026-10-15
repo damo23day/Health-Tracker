@@ -58,3 +58,20 @@ All three are initial concepts and should be tested for taste, timing and ingred
 - [Rice Paper Croque Madame](breakfast/rice-paper-croque-madame.md) — breakfast, lunch or dinner; 20–24 min; taste not yet rated.
 
 - [High-Protein Pistachio Cheesecake](dessert/high-protein-pistachio-cheesecake.md) — dessert or snack; 10 min prep + 45 min bake + 8 h chill; ~254 kcal and ~14 g protein per slice (author estimate); taste not yet rated.
+
+## Curated from The Chef Out West high-protein collection
+
+These are initial candidates, **not personally rated**. Linked files summarise preparation and link to the author's full ingredient measurements and instructions.
+
+| Recipe | Meal | Total | Published calories / protein per serving |
+|---|---|---:|---|
+| [High-Protein Microwave Chocolate Lava Cake](dessert/high-protein-microwave-chocolate-lava-cake.md) | dessert, snack | 7 min | ~339 kcal / 21 g |
+| [90-Second High-Protein Chocolate Cake](dessert/90-second-high-protein-chocolate-cake.md) | dessert, snack | 7 min | ~430 kcal / 52 g |
+| [Edible High-Protein Cookie Dough](dessert/edible-high-protein-cookie-dough.md) | dessert, snack | 15 min | ~368 kcal / 16 g |
+| [High-Protein Microwave Pistachio Lava Cake](dessert/high-protein-microwave-pistachio-lava-cake.md) | dessert, snack | 7 min | ~497 kcal / 17 g |
+| [Smoked Salmon Breakfast Bowl](breakfast/smoked-salmon-breakfast-bowl.md) | breakfast, lunch, dinner | 7 min | Unverified |
+| [Easy High-Protein Tortilla Quiche](breakfast/easy-high-protein-tortilla-quiche.md) | breakfast, lunch, dinner | 20 min | ~271 kcal / 25 g |
+| [High-Protein McChicken Smash Tacos](lunch/high-protein-mcchicken-smash-tacos.md) | lunch, dinner | 20 min | ~328 kcal / 27 g |
+| [Bacon Egg & Cheese Rice Paper Dumplings](breakfast/bacon-egg-cheese-rice-paper-dumplings.md) | breakfast, lunch, snack | 38 min | Unverified |
+
+The pistachio lava cake and edible cookie dough are energy-dense despite their protein content. Times are total, not just microwave cook time. The smoked salmon bowl's 7-minute time assumes pre-pickled onions.
