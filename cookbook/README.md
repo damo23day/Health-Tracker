@@ -41,3 +41,6 @@ As the collection grows, consider a machine-readable recipe index and ingredient
 - [Machine-readable recipe index](recipes.json)
 
 **Maintenance rule:** When adding or modifying a recipe, update its Markdown file, the corresponding `recipes.json` entry and the human-readable table above. The JSON index is structured data, not yet a running search application.
+
+## Dessert recipes
+Dessert is a supported meal category. Keep desserts in `dessert/` where practical; tag them in `recipes.json` and include them in the Anytime search. Prioritise easy 5–15-minute options as well as occasional treats; record portion sizes and estimated nutrition.
