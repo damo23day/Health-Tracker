@@ -44,3 +44,17 @@ Ingredient entries should use canonical singular lowercase names, with quantitie
 A recipe may belong to multiple categories (breakfast, lunch, dinner, snack, dessert). Store each recipe once using its stable ID and one Markdown file; category is a filter, not a directory constraint. The **Anytime** filter means all categories and is not a stored tag. Do not duplicate recipes across folders. Fridge-first matching searches all categories by default unless the user requests a meal type.
 
 Dessert is a meal category, not an automatic exemption from nutrition tracking. Record servings, sugar where available, calories and protein, and offer lighter or higher-protein alternatives only when they remain appealing and practical.
+
+## Post-cook star reviews (v1)
+Store pre-cook **estimated difficulty / ingredient hassle / estimated time** separately from **actual post-cook ratings**. Never populate review fields until user has cooked the recipe.
+- **flavour_stars** (1–5, optional): how it tastes; primary recipe rating.
+- **ease_stars** (1–5, optional): higher = easier to prepare, distinct from estimated difficulty (higher = harder).
+- **fullness_stars** (1–5, optional): satisfaction/satiety, optional for desserts.
+- **make_again_stars** (1–5, optional): likelihood of repeating.
+- **actual_total_minutes** (integer, optional): measured time from starting prep to serving.
+- **review_notes** (optional): modifications, texture, family feedback, next-time improvements.
+- **reviewed_at** (ISO date, optional).
+- **overall_stars** (optional): compute only if both flavour and make_again are rated; simple mean, rounded to 1 decimal. Do not include time, ease or fullness in overall flavour preference.
+- **review_count**: number of distinct recorded cooking reviews; initial value zero.
+On repeat cooks, preserve previous reviews in recipe Markdown (or a future dedicated review log), rather than silently overwriting history. Index can expose the latest review and/or averages when sufficient data exist.
+After a review, update recipe Markdown, recipes.json and the human-readable index. Do not confuse convenience estimates with personal experience.
