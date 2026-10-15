@@ -34,3 +34,10 @@ Each recipe should include:
 
 ## Future additions
 As the collection grows, consider a machine-readable recipe index and ingredient aliases for filtering (e.g. mozzarella → cheese). For now, Markdown files are the source of truth. Prioritise quick, easy, high-protein recipes that can use everyday fridge ingredients.
+
+## Cookbook framework files
+- [Specification and matching rules](SPECIFICATION.md)
+- [Standard recipe template](RECIPE_TEMPLATE.md)
+- [Machine-readable recipe index](recipes.json)
+
+**Maintenance rule:** When adding or modifying a recipe, update its Markdown file, the corresponding `recipes.json` entry and the human-readable table above. The JSON index is structured data, not yet a running search application.
