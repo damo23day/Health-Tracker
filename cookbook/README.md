@@ -1,26 +1,36 @@
-# Healthy Cookbook
+# Healthy Cookbook — Fridge-First Meal Finder
 
-Recipes are stored as Markdown files by meal category. Each recipe retains the original and a Health Tracker adaptation.
+**Primary goal:** Tell Health Tracker which ingredients are in the fridge and the available cooking time (especially **15 minutes or less**). Find recipes that can be made now, with practical substitutions, while supporting protein and calorie goals.
 
-## Convenience rating system
-- **Total time (minutes):** preparation + cooking; include prerequisite cooking if not already prepared.
-- **Active time (minutes):** hands-on preparation and attention.
-- **Difficulty (1–5):** 1 = minimal skill, 2 = straightforward, 3 = multiple cooking steps, 4 = technical or timing-sensitive, 5 = advanced.
-- **Ingredient hassle (1–5):** 1 = common pantry/fridge staples, 2 = mostly everyday groceries, 3 = several fresh/special purchases, 4 = uncommon ingredients, 5 = difficult sourcing or substantial preparation.
-- **Taste (1–5):** user rating after cooking; leave blank until tested.
-- **Ingredient count:** count core ingredients; seasonings and optional garnishes excluded.
-- **Status:** To try / Tried / Favourite.
+## How to use
+Example: **"I've got eggs, spinach, tuna and cheese. What can I make in 15 minutes?"**
 
-Lower time, difficulty and ingredient hassle mean more convenient. Taste is higher-is-better.
+Rank results:
+1. **Make now:** all essential ingredients available and total time within limit.
+2. **Make with substitutions:** missing items have credible substitutions or are optional.
+3. **Missing one item:** one essential ingredient unavailable.
+4. **Shopping required:** two or more essentials missing.
 
-## Initial index (provisional estimates)
+Never present a recipe as a match if an essential ingredient is missing without an explicit substitution. Count prerequisite cooking time (e.g. raw sweet potato), and distinguish a simplified variant from the full recipe. Return quick instructions and approximate calories/protein.
 
-| Recipe | Category | Total time | Active time | Difficulty | Ingredient hassle | Taste | Status |
-|---|---|---:|---:|---:|---:|---|---|
-| [Tuna, Spinach & Vegetable Omelette](breakfast/tuna-spinach-vegetable-omelette.md) | Breakfast / Lunch | 15 min | 10 min | 2/5 | 2/5 | Not rated | To try |
-| [Sweet Potato, Avocado & Egg Waffles](breakfast/sweet-potato-avocado-egg-waffles.md) | Breakfast | 25 min* | 15 min | 2/5 | 2/5 | Not rated | To try |
-| [Low-Carb Waffle Burger](lunch/low-carb-waffle-burger.md) | Lunch / Dinner | 30 min | 25 min | 3/5 | 3/5 | Not rated | To try |
+## Recipe metadata standard
+Each recipe should include:
+- **Total time** and **active time** in minutes; distinguish precooked ingredients.
+- **Difficulty (1–5):** 1 effortless, 2 easy, 3 moderate, 4 involved, 5 advanced.
+- **Ingredient hassle (1–5):** 1 staples, 2 common groceries, 3 multiple fresh purchases, 4 specialist, 5 hard to source.
+- **Essential ingredients**, **optional ingredients**, **substitutions** and a **quick version** when practical.
+- **Estimated calories/protein**, servings, status (To try / Tried / Favourite), **taste rating (1–5)** once tested.
+- Retain the **original recipe** and the **Health Tracker version** separately. Record assumptions and don't treat estimates as verified macros.
 
-*Sweet potato time assumes already cooked; add cooking/cooling time otherwise.
+## Recipe index (provisional; times and ratings untested)
 
-When adding new recipes, update this index and include the same metadata in the recipe file. Ratings are estimates until tested.
+| Recipe | Category | Total | Active | Difficulty | Ingredient hassle | Protein estimate | Taste | Status |
+|---|---|---:|---:|---:|---:|---:|---|---|
+| [Tuna & Vegetable Omelette](breakfast/tuna-spinach-vegetable-omelette.md) | Breakfast / Lunch | 15 min | 10 min | 2/5 | 2/5 | ~39 g | Not rated | To try |
+| [Sweet Potato & Egg Waffles](breakfast/sweet-potato-avocado-egg-waffles.md) | Breakfast | 25 min* | 15 min | 2/5 | 2/5 | ~29–33 g | Not rated | To try |
+| [Low-Carb Waffle Burger](lunch/low-carb-waffle-burger.md) | Lunch / Dinner | 30 min | 25 min | 3/5 | 3/5 | ~53 g | Not rated | To try |
+
+*Sweet potato must already be cooked; otherwise allow additional time.
+
+## Future additions
+As the collection grows, consider a machine-readable recipe index and ingredient aliases for filtering (e.g. mozzarella → cheese). For now, Markdown files are the source of truth. Prioritise quick, easy, high-protein recipes that can use everyday fridge ingredients.
