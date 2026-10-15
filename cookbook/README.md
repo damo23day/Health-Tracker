@@ -56,3 +56,5 @@ Dessert is a supported meal category. Keep desserts in `dessert/` where practica
 All three are initial concepts and should be tested for taste, timing and ingredient-specific macros.
 
 - [Rice Paper Croque Madame](breakfast/rice-paper-croque-madame.md) — breakfast, lunch or dinner; 20–24 min; taste not yet rated.
+
+- [High-Protein Pistachio Cheesecake](dessert/high-protein-pistachio-cheesecake.md) — dessert or snack; 10 min prep + 45 min bake + 8 h chill; ~254 kcal and ~14 g protein per slice (author estimate); taste not yet rated.
