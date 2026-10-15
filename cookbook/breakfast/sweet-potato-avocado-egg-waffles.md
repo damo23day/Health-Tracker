@@ -34,3 +34,13 @@ Original ingredients: 1 large cooked sweet potato, 1 egg, 1/4 cup shredded chees
 - Log the cooked sweet potato weight, avocado weight, cheese brand, number of eggs, egg whites, and oil used.
 - Best tested on a day when breakfast needs to be filling or before activity.
 - Rating: pending first cook.
+
+## Fridge-first matching metadata
+
+- **Total / active time:** ~25 / 15 minutes **only if sweet potato is already cooked**; otherwise longer
+- **Difficulty / ingredient hassle:** 2/5 / 2/5
+- **Essential:** cooked sweet potato, eggs, waffle maker
+- **Optional:** avocado, cheese, chilli, sesame seeds, egg whites (boost protein)
+- **Substitutions:** pumpkin for cooked sweet potato (different moisture and nutrition); cottage cheese for some grated cheese (texture may change)
+- **Quick version:** pre-cook sweet potato in advance; make smaller waffles for faster cooking. **Not a verified under-15-minute recipe**; use full estimated time until tested.
+- **Taste:** not rated (not yet tried)
