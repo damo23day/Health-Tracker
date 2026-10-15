@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-15",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "name": "Hydralyte with creatine",
+        "quantity": "750 mL standard bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Water",
+        "quantity": "750 mL standard bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": false
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Two eggs on toast with medium tomato and chickpea spread",
+        "quantity": "2 eggs, 2 slices toast, 1 medium tomato, small chickpea spread",
+        "calories_kcal": 420,
+        "protein_g": 23.5,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Two standard home coffees",
+        "quantity": "2 coffees with milk",
+        "calories_kcal": 130,
+        "protein_g": 6,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Iced protein coffee",
+        "quantity": "150 mL milk, espresso, one scoop whey assumed",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "afternoon snack",
+        "name": "Peanut butter and honey on toast",
+        "quantity": "2 slices toast, approximately 30 g peanut butter, 20 g honey",
+        "calories_kcal": 441,
+        "protein_g": 15.5,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "afternoon snack",
+        "name": "Small packet BBQ Shapes",
+        "quantity": "Approximately 25 g",
+        "calories_kcal": 120,
+        "protein_g": 2,
+        "estimated": true
+      }
+    ],
+    "total_calories_kcal": 1321,
+    "total_protein_g": 76,
+    "water_ml": 1500
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 829,
+    "protein_variance_g": 74,
+    "notes": "Partial-day log. Coffee milk, spreads, bread, and snack portions estimated. No lunch or dinner reported yet."
+  }
+}
