@@ -440,6 +440,367 @@
         "overall_stars": null,
         "review_count": 0
       }
+    },
+    {
+      "id": "high-protein-microwave-chocolate-lava-cake",
+      "name": "High-Protein Microwave Chocolate Lava Cake",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/high-protein-microwave-chocolate-lava-cake.md",
+      "servings": 2,
+      "total_minutes": 7,
+      "active_minutes": 5,
+      "difficulty": 2,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "greek yoghurt",
+        "eggs",
+        "maple syrup or honey",
+        "cocoa powder",
+        "almond flour",
+        "vanilla",
+        "baking powder"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 339,
+        "protein_g": 21,
+        "estimated": true,
+        "note": "Original author's estimate per serving, not independently verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
+    },
+    {
+      "id": "90-second-high-protein-chocolate-cake",
+      "name": "90-Second High-Protein Chocolate Cake",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/90-second-high-protein-chocolate-cake.md",
+      "servings": 1,
+      "total_minutes": 7,
+      "active_minutes": 5,
+      "difficulty": 2,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "egg",
+        "greek yoghurt",
+        "honey",
+        "oat flour",
+        "cocoa powder",
+        "baking powder",
+        "vanilla",
+        "protein powder"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 430,
+        "protein_g": 52,
+        "estimated": true,
+        "note": "Original author's estimate per serving, not independently verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
+    },
+    {
+      "id": "edible-high-protein-cookie-dough",
+      "name": "Edible High-Protein Cookie Dough",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/edible-high-protein-cookie-dough.md",
+      "servings": 4,
+      "total_minutes": 15,
+      "active_minutes": 5,
+      "difficulty": 1,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "greek yoghurt",
+        "almond flour",
+        "protein powder",
+        "almond butter",
+        "maple syrup",
+        "vanilla",
+        "dark chocolate chips"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 368,
+        "protein_g": 16,
+        "estimated": true,
+        "note": "Original author's estimate per serving, not independently verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
+    },
+    {
+      "id": "high-protein-microwave-pistachio-lava-cake",
+      "name": "High-Protein Microwave Pistachio Lava Cake",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/high-protein-microwave-pistachio-lava-cake.md",
+      "servings": 2,
+      "total_minutes": 7,
+      "active_minutes": 5,
+      "difficulty": 2,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "greek yoghurt",
+        "pistachios",
+        "maple syrup or honey",
+        "eggs",
+        "vanilla",
+        "baking powder"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 497,
+        "protein_g": 17,
+        "estimated": true,
+        "note": "Original author's estimate per serving, not independently verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
+    },
+    {
+      "id": "smoked-salmon-breakfast-bowl",
+      "name": "Smoked Salmon Breakfast Bowl",
+      "category": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "path": "breakfast/smoked-salmon-breakfast-bowl.md",
+      "servings": 1,
+      "total_minutes": 7,
+      "active_minutes": 5,
+      "difficulty": 1,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "cottage cheese",
+        "eggs",
+        "smoked salmon",
+        "avocado"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": null,
+        "protein_g": null,
+        "estimated": true,
+        "note": "Not yet verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
+    },
+    {
+      "id": "easy-high-protein-tortilla-quiche",
+      "name": "Easy High-Protein Tortilla Quiche",
+      "category": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "path": "breakfast/easy-high-protein-tortilla-quiche.md",
+      "servings": 2,
+      "total_minutes": 20,
+      "active_minutes": 5,
+      "difficulty": 1,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "tortilla",
+        "eggs",
+        "cottage cheese",
+        "tomato",
+        "feta"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 271,
+        "protein_g": 25,
+        "estimated": true,
+        "note": "Original author's estimate per serving, not independently verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
+    },
+    {
+      "id": "high-protein-mcchicken-smash-tacos",
+      "name": "High-Protein McChicken Smash Tacos",
+      "category": [
+        "lunch",
+        "dinner"
+      ],
+      "path": "lunch/high-protein-mcchicken-smash-tacos.md",
+      "servings": 4,
+      "total_minutes": 20,
+      "active_minutes": 10,
+      "difficulty": 2,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "chicken mince",
+        "tortillas",
+        "breadcrumbs",
+        "greek yoghurt",
+        "lettuce"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 328,
+        "protein_g": 27,
+        "estimated": true,
+        "note": "Original author's estimate per serving, not independently verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
+    },
+    {
+      "id": "bacon-egg-cheese-rice-paper-dumplings",
+      "name": "Bacon Egg & Cheese Rice Paper Dumplings",
+      "category": [
+        "breakfast",
+        "lunch",
+        "snack"
+      ],
+      "path": "breakfast/bacon-egg-cheese-rice-paper-dumplings.md",
+      "servings": 6,
+      "total_minutes": 38,
+      "active_minutes": 10,
+      "difficulty": 3,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "rice paper",
+        "eggs",
+        "bacon",
+        "mozzarella"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": null,
+        "protein_g": null,
+        "estimated": true,
+        "note": "Not yet verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     }
   ]
 }
