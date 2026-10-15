@@ -39,3 +39,6 @@ Ingredient entries should use canonical singular lowercase names, with quantitie
 5. Save Markdown using `RECIPE_TEMPLATE.md`.
 6. Add one entry to `recipes.json`, verify unique ID, valid path, complete required fields, and update README index.
 7. Mark ratings provisional until user cooks and reviews.
+
+## Meal categories
+A recipe may belong to multiple categories (breakfast, lunch, dinner, snack). Store each recipe once using its stable ID and one Markdown file; category is a filter, not a directory constraint. The **Anytime** filter means all categories and is not a stored tag. Do not duplicate recipes across folders. Fridge-first matching searches all categories by default unless the user requests a meal type.
