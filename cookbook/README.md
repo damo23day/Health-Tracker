@@ -54,3 +54,5 @@ Dessert is a supported meal category. Keep desserts in `dessert/` where practica
 | [Chocolate Banana Mug Cake](dessert/chocolate-banana-mug-cake.md) | 8 min | 5 min | 2/5 | 1/5 | ~11 g | Not rated |
 
 All three are initial concepts and should be tested for taste, timing and ingredient-specific macros.
+
+- [Rice Paper Croque Madame](breakfast/rice-paper-croque-madame.md) — breakfast, lunch or dinner; 20–24 min; taste not yet rated.
