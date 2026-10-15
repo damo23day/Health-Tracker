@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "description": "Fridge-first Health Tracker cookbook index. Nutrition and times provisional until tested.",
+  "ingredient_aliases": {
+    "eggs": "egg",
+    "tinned tuna": "tuna",
+    "canned tuna": "tuna",
+    "baby spinach": "spinach",
+    "courgette": "zucchini",
+    "beef mince": "lean beef mince",
+    "grated carrot": "carrot",
+    "mozzarella": "reduced-fat mozzarella"
+  },
+  "recipes": [
+    {
+      "id": "tuna-spinach-vegetable-omelette",
+      "name": "Tuna, Spinach & Vegetable Omelette",
+      "category": [
+        "breakfast",
+        "lunch"
+      ],
+      "path": "breakfast/tuna-spinach-vegetable-omelette.md",
+      "servings": 1,
+      "total_minutes": 15,
+      "active_minutes": 10,
+      "difficulty": 2,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "egg",
+        "tuna"
+      ],
+      "optional_ingredients": [
+        "carrot",
+        "broccoli",
+        "reduced-fat mozzarella",
+        "spinach",
+        "red onion"
+      ],
+      "substitutions": [
+        {
+          "from": "tuna",
+          "to": "cooked chicken",
+          "note": "Protein and macros change"
+        },
+        {
+          "from": "tuna",
+          "to": "canned salmon",
+          "note": "Nutrition changes"
+        }
+      ],
+      "quick_version": {
+        "total_minutes": 12,
+        "description": "Egg, tuna and optional spinach/cheese; skip carrot, broccoli and onion; macros change"
+      },
+      "nutrition": {
+        "calories_kcal": 360,
+        "protein_g": 39,
+        "estimated": true
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "notes": "Original full version uses additional vegetables; quick version is simpler."
+    },
+    {
+      "id": "sweet-potato-avocado-egg-waffles",
+      "name": "Sweet Potato, Avocado & Egg Waffles",
+      "category": [
+        "breakfast"
+      ],
+      "path": "breakfast/sweet-potato-avocado-egg-waffles.md",
+      "servings": 1,
+      "total_minutes": 25,
+      "active_minutes": 15,
+      "difficulty": 2,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "cooked sweet potato",
+        "egg"
+      ],
+      "optional_ingredients": [
+        "reduced-fat cheese",
+        "egg whites",
+        "avocado",
+        "sesame seeds"
+      ],
+      "substitutions": [
+        {
+          "from": "cooked sweet potato",
+          "to": "cooked pumpkin",
+          "note": "Moisture and nutrition differ"
+        }
+      ],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 450,
+        "protein_g": 30,
+        "estimated": true
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [
+        "sweet potato must be cooked before timed preparation"
+      ],
+      "notes": "25 minutes assumes pre-cooked sweet potato; otherwise longer. Waffle maker required."
+    },
+    {
+      "id": "low-carb-waffle-burger",
+      "name": "Low-Carb Waffle Burger",
+      "category": [
+        "lunch",
+        "dinner"
+      ],
+      "path": "lunch/low-carb-waffle-burger.md",
+      "servings": 1,
+      "total_minutes": 30,
+      "active_minutes": 25,
+      "difficulty": 3,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "lean beef mince",
+        "egg",
+        "zucchini",
+        "carrot",
+        "reduced-fat mozzarella"
+      ],
+      "optional_ingredients": [
+        "cheese slice",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "greek yoghurt",
+        "sriracha"
+      ],
+      "substitutions": [
+        {
+          "from": "lean beef mince",
+          "to": "chicken mince",
+          "note": "Cook thoroughly; nutrition changes"
+        },
+        {
+          "from": "reduced-fat mozzarella",
+          "to": "cheddar",
+          "note": "Nutrition changes"
+        }
+      ],
+      "quick_version": {
+        "total_minutes": 15,
+        "description": "Burger bowl variant: omit waffle buns, cook thin patty thoroughly, serve over ready salad; macros must be recalculated"
+      },
+      "nutrition": {
+        "calories_kcal": 450,
+        "protein_g": 53,
+        "estimated": true
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "notes": "30-minute waffle burger; 15-minute bowl is a different variant and requires available salad."
+    }
+  ]
+}
