@@ -17,7 +17,8 @@
       "name": "Tuna, Spinach & Vegetable Omelette",
       "category": [
         "breakfast",
-        "lunch"
+        "lunch",
+        "dinner"
       ],
       "path": "breakfast/tuna-spinach-vegetable-omelette.md",
       "servings": 1,
@@ -66,7 +67,8 @@
       "id": "sweet-potato-avocado-egg-waffles",
       "name": "Sweet Potato, Avocado & Egg Waffles",
       "category": [
-        "breakfast"
+        "breakfast",
+        "lunch"
       ],
       "path": "breakfast/sweet-potato-avocado-egg-waffles.md",
       "servings": 1,
