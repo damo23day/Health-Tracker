@@ -159,6 +159,118 @@
       "status": "to_try",
       "requires_prep": [],
       "notes": "30-minute waffle burger; 15-minute bowl is a different variant and requires available salad."
+    },
+    {
+      "id": "chocolate-protein-mousse",
+      "name": "Chocolate Protein Mousse",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/chocolate-protein-mousse.md",
+      "servings": 1,
+      "total_minutes": 5,
+      "active_minutes": 5,
+      "difficulty": 1,
+      "ingredient_hassle": 1,
+      "essential_ingredients": [
+        "plain greek yoghurt",
+        "chocolate whey protein"
+      ],
+      "optional_ingredients": [
+        "cocoa powder",
+        "milk",
+        "berries"
+      ],
+      "substitutions": [],
+      "quick_version": {
+        "total_minutes": 5,
+        "description": "Standard quick recipe; see Markdown for substitutions"
+      },
+      "nutrition": {
+        "calories_kcal": 240,
+        "protein_g": 35,
+        "estimated": true
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "notes": "Untested suggested dessert; estimates vary with ingredients."
+    },
+    {
+      "id": "warm-cinnamon-apple-yoghurt",
+      "name": "Warm Cinnamon Apple & Yoghurt",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/warm-cinnamon-apple-yoghurt.md",
+      "servings": 1,
+      "total_minutes": 7,
+      "active_minutes": 4,
+      "difficulty": 1,
+      "ingredient_hassle": 1,
+      "essential_ingredients": [
+        "apple",
+        "plain greek yoghurt"
+      ],
+      "optional_ingredients": [
+        "cinnamon",
+        "honey",
+        "nuts"
+      ],
+      "substitutions": [],
+      "quick_version": {
+        "total_minutes": 7,
+        "description": "Standard quick recipe; see Markdown for substitutions"
+      },
+      "nutrition": {
+        "calories_kcal": 180,
+        "protein_g": 15,
+        "estimated": true
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "notes": "Untested suggested dessert; estimates vary with ingredients."
+    },
+    {
+      "id": "chocolate-banana-mug-cake",
+      "name": "Chocolate Banana Mug Cake",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/chocolate-banana-mug-cake.md",
+      "servings": 1,
+      "total_minutes": 8,
+      "active_minutes": 5,
+      "difficulty": 2,
+      "ingredient_hassle": 1,
+      "essential_ingredients": [
+        "banana",
+        "egg",
+        "cocoa powder"
+      ],
+      "optional_ingredients": [
+        "peanut butter",
+        "baking powder",
+        "milk"
+      ],
+      "substitutions": [],
+      "quick_version": {
+        "total_minutes": 8,
+        "description": "Standard quick recipe; see Markdown for substitutions"
+      },
+      "nutrition": {
+        "calories_kcal": 260,
+        "protein_g": 11,
+        "estimated": true
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [],
+      "notes": "Untested suggested dessert; estimates vary with ingredients."
     }
   ]
 }
