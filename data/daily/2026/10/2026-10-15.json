@@ -61,17 +61,27 @@
         "calories_kcal": 120,
         "protein_g": 2,
         "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Chicken with pumpkin salad",
+        "quantity": "220 g chicken, 130 g salad with pumpkin",
+        "calories_kcal": 458,
+        "protein_g": 70,
+        "estimated": true,
+        "notes": "Assumes cooked skinless chicken breast, mixed salad with roasted pumpkin, minimal oil/dressing."
       }
     ],
-    "total_calories_kcal": 1321,
-    "total_protein_g": 76,
+    "total_calories_kcal": 1779,
+    "total_protein_g": 146,
     "water_ml": 1500
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 829,
-    "protein_variance_g": 74,
+    "calorie_variance_kcal": 371,
+    "protein_variance_g": 4,
     "notes": "Partial-day log. Eggs on toast eaten as brunch around 11:30 am, not breakfast. Coffee milk, spreads, bread, and snack portions estimated. No separate lunch reported."
   }
 }
