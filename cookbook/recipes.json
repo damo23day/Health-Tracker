@@ -386,6 +386,60 @@
         "overall_stars": null,
         "review_count": 0
       }
+    },
+    {
+      "id": "high-protein-pistachio-cheesecake",
+      "name": "High-Protein Pistachio Cheesecake",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/high-protein-pistachio-cheesecake.md",
+      "servings": 6,
+      "total_minutes": 535,
+      "active_minutes": 10,
+      "difficulty": 2,
+      "ingredient_hassle": 3,
+      "essential_ingredients": [
+        "cottage cheese",
+        "greek yoghurt",
+        "egg",
+        "pistachios",
+        "maple syrup or honey",
+        "almond flour or oat flour",
+        "vanilla extract"
+      ],
+      "optional_ingredients": [
+        "chopped pistachios"
+      ],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 254,
+        "protein_g": 14,
+        "carbohydrate_g": 21,
+        "fat_g": 13,
+        "estimated": true,
+        "note": "Author's published per-slice estimate, not independently verified"
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [
+        "oven",
+        "blender",
+        "8 hours chilling"
+      ],
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     }
   ]
 }
