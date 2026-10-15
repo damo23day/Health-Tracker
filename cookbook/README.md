@@ -44,3 +44,13 @@ As the collection grows, consider a machine-readable recipe index and ingredient
 
 ## Dessert recipes
 Dessert is a supported meal category. Keep desserts in `dessert/` where practical; tag them in `recipes.json` and include them in the Anytime search. Prioritise easy 5–15-minute options as well as occasional treats; record portion sizes and estimated nutrition.
+
+## Quick dessert recipes (untested estimates)
+
+| Recipe | Total | Active | Difficulty | Ingredient hassle | Estimated protein | Taste |
+|---|---:|---:|---:|---:|---:|---|
+| [Chocolate Protein Mousse](dessert/chocolate-protein-mousse.md) | 5 min | 5 min | 1/5 | 1/5 | ~35 g | Not rated |
+| [Warm Cinnamon Apple & Yoghurt](dessert/warm-cinnamon-apple-yoghurt.md) | 7 min | 4 min | 1/5 | 1/5 | ~15 g | Not rated |
+| [Chocolate Banana Mug Cake](dessert/chocolate-banana-mug-cake.md) | 8 min | 5 min | 2/5 | 1/5 | ~11 g | Not rated |
+
+All three are initial concepts and should be tested for taste, timing and ingredient-specific macros.
