@@ -51,3 +51,13 @@ Mix bun ingredients, cook in a lightly greased mini waffle maker in two batches 
 - Greek yoghurt + sriracha sauce can be reused in wraps and salads.
 - Optional side salad or potato wedges should be logged separately.
 - Personal taste rating: pending first cook.
+
+## Fridge-first matching metadata
+
+- **Total / active time:** ~30 / 25 minutes
+- **Difficulty / ingredient hassle:** 3/5 / 3/5
+- **Essential:** beef mince (or other burger protein), egg, zucchini, carrot, cheese, waffle maker
+- **Optional:** lettuce, tomato, pickles, yoghurt, sriracha, garlic powder
+- **Substitutions:** lean chicken mince or turkey mince for beef; cheddar for mozzarella; plain yoghurt plus chilli sauce for sriracha yoghurt
+- **Quick version:** serve cooked burger patty over salad with yoghurt sauce, skipping waffle buns. **This is a burger bowl variant, not the original waffle burger**, and needs separate nutrition estimates. Can be ~15 minutes with a thin patty and ready-to-eat salad; cook mince thoroughly.
+- **Taste:** not rated (not yet tried)
