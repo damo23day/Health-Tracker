@@ -61,7 +61,18 @@
       "taste_rating": null,
       "status": "to_try",
       "requires_prep": [],
-      "notes": "Original full version uses additional vegetables; quick version is simpler."
+      "notes": "Original full version uses additional vegetables; quick version is simpler.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     },
     {
       "id": "sweet-potato-avocado-egg-waffles",
@@ -104,7 +115,18 @@
       "requires_prep": [
         "sweet potato must be cooked before timed preparation"
       ],
-      "notes": "25 minutes assumes pre-cooked sweet potato; otherwise longer. Waffle maker required."
+      "notes": "25 minutes assumes pre-cooked sweet potato; otherwise longer. Waffle maker required.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     },
     {
       "id": "low-carb-waffle-burger",
@@ -158,7 +180,18 @@
       "taste_rating": null,
       "status": "to_try",
       "requires_prep": [],
-      "notes": "30-minute waffle burger; 15-minute bowl is a different variant and requires available salad."
+      "notes": "30-minute waffle burger; 15-minute bowl is a different variant and requires available salad.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     },
     {
       "id": "chocolate-protein-mousse",
@@ -195,7 +228,18 @@
       "taste_rating": null,
       "status": "to_try",
       "requires_prep": [],
-      "notes": "Untested suggested dessert; estimates vary with ingredients."
+      "notes": "Untested suggested dessert; estimates vary with ingredients.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     },
     {
       "id": "warm-cinnamon-apple-yoghurt",
@@ -232,7 +276,18 @@
       "taste_rating": null,
       "status": "to_try",
       "requires_prep": [],
-      "notes": "Untested suggested dessert; estimates vary with ingredients."
+      "notes": "Untested suggested dessert; estimates vary with ingredients.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     },
     {
       "id": "chocolate-banana-mug-cake",
@@ -270,7 +325,18 @@
       "taste_rating": null,
       "status": "to_try",
       "requires_prep": [],
-      "notes": "Untested suggested dessert; estimates vary with ingredients."
+      "notes": "Untested suggested dessert; estimates vary with ingredients.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      }
     }
   ]
 }
