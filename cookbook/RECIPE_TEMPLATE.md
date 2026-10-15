@@ -1,7 +1,7 @@
 # Recipe title
 
 **ID:** kebab-case-id
-**Category:** Breakfast / Lunch / Dinner / Snack
+**Category:** Breakfast / Lunch / Dinner / Snack / Dessert
 **Status:** To try
 **Servings:** 1
 
