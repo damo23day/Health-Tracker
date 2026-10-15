@@ -40,3 +40,14 @@ Method:
 - Optional wholegrain toast for extra carbohydrate on active days (log separately).
 - Weigh cheese and oil, which meaningfully affect calories.
 - Personal taste rating: pending first cook.
+
+## Fridge-first matching metadata
+
+- **Total / active time:** ~15 / 10 minutes
+- **Difficulty / ingredient hassle:** 2/5 / 2/5
+- **Essential:** eggs, tuna (or another cooked protein)
+- **Flexible vegetables:** carrot, broccoli, spinach, red onion; use whichever are available
+- **Optional:** mozzarella, chilli flakes, cooking oil if using a non-stick pan
+- **Substitutions:** canned salmon or cooked chicken for tuna; cheddar for mozzarella; any quick-cooking greens for spinach
+- **Quick version (10–12 minutes):** whisk 3 eggs, add drained tuna, spinach and grated cheese; cook in non-stick pan until set. Omit broccoli, carrot and onion if unavailable. **Nutrition changes** when ingredients are omitted.
+- **Taste:** not rated (not yet tried)
