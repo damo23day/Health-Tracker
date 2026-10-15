@@ -41,4 +41,6 @@ Ingredient entries should use canonical singular lowercase names, with quantitie
 7. Mark ratings provisional until user cooks and reviews.
 
 ## Meal categories
-A recipe may belong to multiple categories (breakfast, lunch, dinner, snack). Store each recipe once using its stable ID and one Markdown file; category is a filter, not a directory constraint. The **Anytime** filter means all categories and is not a stored tag. Do not duplicate recipes across folders. Fridge-first matching searches all categories by default unless the user requests a meal type.
+A recipe may belong to multiple categories (breakfast, lunch, dinner, snack, dessert). Store each recipe once using its stable ID and one Markdown file; category is a filter, not a directory constraint. The **Anytime** filter means all categories and is not a stored tag. Do not duplicate recipes across folders. Fridge-first matching searches all categories by default unless the user requests a meal type.
+
+Dessert is a meal category, not an automatic exemption from nutrition tracking. Record servings, sugar where available, calories and protein, and offer lighter or higher-protein alternatives only when they remain appealing and practical.
