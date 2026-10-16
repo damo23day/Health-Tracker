@@ -6,11 +6,11 @@
         "type": "meal",
         "meal": "breakfast",
         "name": "Chocolate protein berry smoothie",
-        "quantity": "30 g frozen blueberries, 45 g frozen mixed berries, 150 mL milk, 59 g egg, 1 scoop Optimum Nutrition Gold Standard Double Rich Chocolate whey, 55 g ice",
+        "quantity": "30 g frozen blueberries, 45 g frozen mixed berries, 150 mL full-cream milk, 59 g raw egg, 1 scoop Optimum Nutrition Gold Standard Double Rich Chocolate whey, 55 g ice",
         "calories_kcal": 339,
         "protein_g": 37.1,
         "estimated": true,
-        "notes": "Blueberry and mixed berry calories from package labels; full cream milk assumed, standard ~30 g whey scoop assumed. Egg assumed raw; use pasteurised egg for food safety."
+        "notes": "Confirmed full-cream milk and raw egg (59 g). Berry calories from package labels; standard ~30 g whey scoop assumed. Raw unpasteurised egg carries Salmonella risk; pasteurised egg is safer."
       }
     ],
     "total_calories_kcal": 339,
