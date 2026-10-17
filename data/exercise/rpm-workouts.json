@@ -133,6 +133,19 @@
         "max_bpm": 169
       },
       "notes": "Watch recorded 550 kcal workout and total calories, 60:07 duration. Heart rate rose through main session, peak 169 bpm, then extended recovery after about 43 minutes. Group Cycle Connect metrics unavailable."
+    },
+    {
+      "date": "2026-10-18",
+      "workout_type": "Group Cycle / RPM",
+      "duration": "43:54",
+      "distance_km": 20.4,
+      "calories_reported": 587,
+      "moves": 1064,
+      "average_power_w": 197,
+      "max_power_w": 423,
+      "average_cadence_rpm": 75,
+      "source": "Group Cycle Connect screenshots",
+      "notes": "43:54, 20.4 km, 587 Technogym kcal, 1064 MOVEs, 197 W average power, 423 W max, 75 rpm average cadence. Instructor and subjective feedback not yet supplied."
     }
   ]
 }
