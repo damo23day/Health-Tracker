@@ -23,5 +23,20 @@
     "calorie_variance_kcal": 1760,
     "protein_variance_g": 127,
     "notes": "Partial-day log. Only breakfast smoothie reported so far."
-  }
+  },
+  "exercise": [
+    {
+      "type": "Group Cycle / RPM",
+      "duration": "43:54",
+      "distance_km": 20.4,
+      "calories_reported": 587,
+      "calorie_source": "Technogym Group Cycle Connect",
+      "moves": 1064,
+      "average_power_w": 197,
+      "max_power_w": 423,
+      "average_cadence_rpm": 75,
+      "source": "Group Cycle Connect screenshots",
+      "notes": "Workout calories are a device estimate; not added to food intake."
+    }
+  ]
 }
