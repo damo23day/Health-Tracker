@@ -11,17 +11,27 @@
         "protein_g": 37.1,
         "estimated": true,
         "notes": "Confirmed full-cream milk and raw egg (59 g). Berry calories from package labels; standard ~30 g whey scoop assumed. Raw unpasteurised egg carries Salmonella risk; pasteurised egg is safer."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Homemade air-fried crumbed chicken wrap with lettuce",
+        "quantity": "300 g total, including 100 g crumbed chicken; remaining 200 g wrap and fillings not individually measured",
+        "calories_kcal": 480,
+        "protein_g": 28,
+        "estimated": true,
+        "notes": "Assumed 70 g wrap and 130 g lettuce/other filling, no sauces, cheese or additional oil. Actual values may vary substantially."
       }
     ],
-    "total_calories_kcal": 339,
-    "total_protein_g": 37.1,
+    "total_calories_kcal": 819,
+    "total_protein_g": 65.1,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1811,
-    "protein_variance_g": 112.9,
+    "calorie_variance_kcal": 1331,
+    "protein_variance_g": 84.9,
     "notes": "Partial day. Only smoothie reported so far."
   }
 }
