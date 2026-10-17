@@ -21,17 +21,25 @@
         "protein_g": 24.1,
         "estimated": true,
         "notes": "Standard breakfast reported after RPM; portion weights estimated."
+      },
+      {
+        "type": "drink",
+        "name": "Standard iced protein coffee",
+        "quantity": "150 mL full-cream milk, espresso shot, 1 scoop Gold Standard Whey",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 812,
-    "total_protein_g": 47.1,
+    "total_calories_kcal": 1022,
+    "total_protein_g": 76.1,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1338,
-    "protein_variance_g": 102.9,
+    "calorie_variance_kcal": 1128,
+    "protein_variance_g": 73.9,
     "notes": "Partial day. Mango banana smoothie and eggs on toast recorded; morning Group Cycle workout logged separately. Food estimates; exercise calories not deducted from food intake."
   },
   "exercise": [
