@@ -29,11 +29,20 @@
         "calories_kcal": 210,
         "protein_g": 29,
         "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "Hydralyte water (no creatine)",
+        "quantity": "750 mL standard drink bottle",
+        "calories_kcal": 0,
+        "protein_g": 0,
+        "estimated": true,
+        "notes": "Creatine planned for next bottle, not yet consumed."
       }
     ],
     "total_calories_kcal": 1022,
     "total_protein_g": 76.1,
-    "water_ml": 0
+    "water_ml": 750
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
