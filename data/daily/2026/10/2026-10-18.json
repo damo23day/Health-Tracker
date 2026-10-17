@@ -11,18 +11,28 @@
         "protein_g": 23,
         "estimated": true,
         "notes": "User confirmed drinking entire batch; nutritional values estimated from recipe."
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Two eggs on wholegrain toast with hummus and large tomato",
+        "quantity": "2 eggs, 2 slices wholegrain toast, approximately 20 g hummus, 1 large tomato (~180 g)",
+        "calories_kcal": 422,
+        "protein_g": 24.1,
+        "estimated": true,
+        "notes": "Standard breakfast reported after RPM; portion weights estimated."
       }
     ],
-    "total_calories_kcal": 390,
-    "total_protein_g": 23,
+    "total_calories_kcal": 812,
+    "total_protein_g": 47.1,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1760,
-    "protein_variance_g": 127,
-    "notes": "Partial-day log. Only breakfast smoothie reported so far."
+    "calorie_variance_kcal": 1338,
+    "protein_variance_g": 102.9,
+    "notes": "Partial day. Mango banana smoothie and eggs on toast recorded; morning Group Cycle workout logged separately. Food estimates; exercise calories not deducted from food intake."
   },
   "exercise": [
     {
