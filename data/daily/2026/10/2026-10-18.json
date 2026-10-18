@@ -38,17 +38,27 @@
         "protein_g": 0,
         "estimated": true,
         "notes": "Creatine planned for next bottle, not yet consumed."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Chicken wrap with Greek-style yoghurt lettuce capsicum and tomato",
+        "quantity": "72 g wrap, 12 g Greek-style yoghurt, 44 g lettuce, 36 g capsicum, 80 g tomato, 150 g chicken (394 g total)",
+        "calories_kcal": 511,
+        "protein_g": 54.7,
+        "estimated": true,
+        "notes": "Assumes cooked skinless chicken breast; no added oil or other sauce."
       }
     ],
-    "total_calories_kcal": 1022,
-    "total_protein_g": 76.1,
+    "total_calories_kcal": 1533,
+    "total_protein_g": 130.8,
     "water_ml": 750
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1128,
-    "protein_variance_g": 73.9,
+    "calorie_variance_kcal": 617,
+    "protein_variance_g": 19.2,
     "notes": "Partial day. Mango banana smoothie and eggs on toast recorded; morning Group Cycle workout logged separately. Food estimates; exercise calories not deducted from food intake."
   },
   "exercise": [
