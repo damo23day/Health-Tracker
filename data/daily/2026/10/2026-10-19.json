@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-19",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Vanilla peanut butter banana berry protein smoothie",
+        "quantity": "140 mL Inner Goodness Original almond milk, 1 scoop vanilla whey protein, 100 g banana, 30 g rolled oats, 30 g peanut butter, 50 g Greek yoghurt, 50 g frozen mixed berries",
+        "calories_kcal": 626,
+        "protein_g": 42,
+        "estimated": true,
+        "notes": "Almond milk calories from package label; other ingredients and protein estimated. User confirmed smoothie consumed and requested GitHub log."
+      }
+    ],
+    "total_calories_kcal": 626,
+    "total_protein_g": 42,
+    "water_ml": 0
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1524,
+    "protein_variance_g": 108,
+    "notes": "Partial day; breakfast smoothie recorded."
+  }
+}
