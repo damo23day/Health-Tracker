@@ -48,17 +48,34 @@
         "protein_g": 54.7,
         "estimated": true,
         "notes": "Assumes cooked skinless chicken breast; no added oil or other sauce."
+      },
+      {
+        "type": "snack",
+        "name": "Handful of hot chips",
+        "quantity": "Approximately 75 g",
+        "calories_kcal": 230,
+        "protein_g": 3,
+        "estimated": true
+      },
+      {
+        "type": "drink",
+        "name": "XPA beer",
+        "quantity": "4 beers, assumed 375 mL each",
+        "calories_kcal": 600,
+        "protein_g": 4,
+        "estimated": true,
+        "notes": "Beer energy depends on ABV and can size; estimate 150 kcal each."
       }
     ],
-    "total_calories_kcal": 1533,
-    "total_protein_g": 130.8,
+    "total_calories_kcal": 2363,
+    "total_protein_g": 137.8,
     "water_ml": 750
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 617,
-    "protein_variance_g": 19.2,
+    "calorie_variance_kcal": -213,
+    "protein_variance_g": 12.2,
     "notes": "Partial day. Mango banana smoothie and eggs on toast recorded; morning Group Cycle workout logged separately. Food estimates; exercise calories not deducted from food intake."
   },
   "exercise": [
