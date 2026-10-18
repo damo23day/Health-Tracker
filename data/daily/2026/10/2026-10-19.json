@@ -11,17 +11,25 @@
         "protein_g": 42,
         "estimated": true,
         "notes": "Almond milk calories from package label; other ingredients and protein estimated. User confirmed smoothie consumed and requested GitHub log."
+      },
+      {
+        "type": "drink",
+        "name": "Provincial Café large cappuccino",
+        "quantity": "12 oz, assumed full-cream milk, no added sugar",
+        "calories_kcal": 160,
+        "protein_g": 8,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 626,
-    "total_protein_g": 42,
+    "total_calories_kcal": 786,
+    "total_protein_g": 50,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1524,
-    "protein_variance_g": 108,
+    "calorie_variance_kcal": 1364,
+    "protein_variance_g": 100,
     "notes": "Partial day; breakfast smoothie recorded."
   }
 }
