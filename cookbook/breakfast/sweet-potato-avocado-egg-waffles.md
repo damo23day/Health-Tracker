@@ -44,3 +44,10 @@ Original ingredients: 1 large cooked sweet potato, 1 egg, 1/4 cup shredded chees
 - **Substitutions:** pumpkin for cooked sweet potato (different moisture and nutrition); cottage cheese for some grated cheese (texture may change)
 - **Quick version:** pre-cook sweet potato in advance; make smaller waffles for faster cooking. **Not a verified under-15-minute recipe**; use full estimated time until tested.
 - **Taste:** not rated (not yet tried)
+
+## First batch feedback — 20 October 2026
+- Served sweet potato waffle with avocado and egg, **without toast**.
+- Feedback: waffle was relatively bland and felt too thick/dense. This is qualitative feedback, **not a numerical star rating**.
+- Suggested next test batch: 200 g cooked mashed sweet potato, 40 g tasty shredded cheese, 1 egg, 20 g plain flour, 1/2 tsp smoked paprika, 1/4 tsp garlic powder, 5 mL vegetable oil for plates; spread thinner in iron. These are experimental adjustments, not yet tested.
+- Tajín chilli-lime seasoning optional on finished avocado/egg topping; go easy on extra salt.
+- Ask for flavour/ease/fullness stars after next cook. Do not infer star ratings from qualitative comments.
