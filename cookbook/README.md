@@ -75,3 +75,8 @@ These are initial candidates, **not personally rated**. Linked files summarise p
 | [Bacon Egg & Cheese Rice Paper Dumplings](breakfast/bacon-egg-cheese-rice-paper-dumplings.md) | breakfast, lunch, snack | 38 min | Unverified |
 
 The pistachio lava cake and edible cookie dough are energy-dense despite their protein content. Times are total, not just microwave cook time. The smoked salmon bowl's 7-minute time assumes pre-pickled onions.
+
+## Cooking history (workout-style)
+Each actual cook gets a numbered session in `logs/<recipe-id>.md`, recording ingredients actually used, ratings, cooking time, results and changes to test. The recipe file shows the **current version**, with prior versions and sessions retained. Proposed changes are marked **untested** until cooked.
+
+- [Sweet Potato Waffles — current v2 (proposed)](breakfast/sweet-potato-avocado-egg-waffles.md) · [Session 001 and feedback](logs/sweet-potato-avocado-egg-waffles.md)
