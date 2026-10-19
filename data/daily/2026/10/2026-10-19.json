@@ -37,17 +37,27 @@
         "calories_kcal": 200,
         "protein_g": 30,
         "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Teriyaki chicken mini wrap with capsicum, tomato and jalapeño lime sauce",
+        "quantity": "47 g Bakers Life white mini wrap, 96 g capsicum and tomato, 91 g teriyaki chicken, 10 g MasterFoods sweet jalapeño lime sauce",
+        "calories_kcal": 373,
+        "protein_g": 28,
+        "estimated": true,
+        "notes": "Wrap label 132 kcal/45 g, 3.7 g protein/45 g; sauce label 280 kJ/15 mL. Chicken and vegetables estimated."
       }
     ],
-    "total_calories_kcal": 1106,
-    "total_protein_g": 81.5,
+    "total_calories_kcal": 1479,
+    "total_protein_g": 109.5,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1044,
-    "protein_variance_g": 68.5,
+    "calorie_variance_kcal": 671,
+    "protein_variance_g": 40.5,
     "notes": "Partial day; breakfast smoothie recorded."
   }
 }
