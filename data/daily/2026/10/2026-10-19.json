@@ -19,17 +19,35 @@
         "calories_kcal": 160,
         "protein_g": 8,
         "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "snack",
+        "name": "Large banana",
+        "quantity": "1 large banana, approximately 135 g edible portion",
+        "calories_kcal": 120,
+        "protein_g": 1.5,
+        "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chocolate Man Shake",
+        "quantity": "1 standard serving, assumed mixed with water",
+        "calories_kcal": 200,
+        "protein_g": 30,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 786,
-    "total_protein_g": 50,
+    "total_calories_kcal": 1106,
+    "total_protein_g": 81.5,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1364,
-    "protein_variance_g": 100,
+    "calorie_variance_kcal": 1044,
+    "protein_variance_g": 68.5,
     "notes": "Partial day; breakfast smoothie recorded."
   }
 }
