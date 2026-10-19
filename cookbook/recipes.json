@@ -72,7 +72,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "sweet-potato-avocado-egg-waffles",
@@ -89,13 +94,15 @@
       "ingredient_hassle": 2,
       "essential_ingredients": [
         "cooked sweet potato",
-        "egg"
+        "egg",
+        "cheese",
+        "plain flour"
       ],
       "optional_ingredients": [
-        "reduced-fat cheese",
-        "egg whites",
+        "smoked paprika",
+        "garlic powder",
         "avocado",
-        "sesame seeds"
+        "tajin seasoning"
       ],
       "substitutions": [
         {
@@ -106,27 +113,33 @@
       ],
       "quick_version": null,
       "nutrition": {
-        "calories_kcal": 450,
-        "protein_g": 30,
-        "estimated": true
+        "calories_kcal": null,
+        "protein_g": null,
+        "estimated": true,
+        "note": "Current v2 quantities depend on egg/flour used; recalculate after next cook."
       },
       "taste_rating": null,
-      "status": "to_try",
+      "status": "tried",
       "requires_prep": [
         "sweet potato must be cooked before timed preparation"
       ],
-      "notes": "25 minutes assumes pre-cooked sweet potato; otherwise longer. Waffle maker required.",
+      "notes": "Current v2 is proposed and untested. Session 001 actual flour ~60g (not precisely weighed), runny mix, bland and thick waffles; see log. Historical macros for original egg-white adaptation do not describe v2.",
       "review": {
         "flavour_stars": null,
         "ease_stars": null,
         "fullness_stars": null,
         "make_again_stars": null,
         "actual_total_minutes": null,
-        "review_notes": null,
+        "review_notes": "Session 001: waffles bland, thick/dense; runny batter required ~60g flour. No star ratings supplied.",
         "reviewed_at": null,
         "overall_stars": null,
-        "review_count": 0
-      }
+        "review_count": 1
+      },
+      "current_version": "v2",
+      "current_version_status": "proposed",
+      "history_path": "logs/sweet-potato-avocado-egg-waffles.md",
+      "last_cooked_at": "2026-10-20",
+      "cook_count": 1
     },
     {
       "id": "low-carb-waffle-burger",
@@ -191,7 +204,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "chocolate-protein-mousse",
@@ -239,7 +257,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "warm-cinnamon-apple-yoghurt",
@@ -287,7 +310,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "chocolate-banana-mug-cake",
@@ -336,7 +364,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "rice-paper-croque-madame",
@@ -385,7 +418,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "high-protein-pistachio-cheesecake",
@@ -439,7 +477,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "high-protein-microwave-chocolate-lava-cake",
@@ -485,7 +528,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "90-second-high-protein-chocolate-cake",
@@ -532,7 +580,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "edible-high-protein-cookie-dough",
@@ -578,7 +631,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "high-protein-microwave-pistachio-lava-cake",
@@ -623,7 +681,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "smoked-salmon-breakfast-bowl",
@@ -667,7 +730,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "easy-high-protein-tortilla-quiche",
@@ -712,7 +780,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "high-protein-mcchicken-smash-tacos",
@@ -756,7 +829,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     },
     {
       "id": "bacon-egg-cheese-rice-paper-dumplings",
@@ -800,7 +878,12 @@
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 0
-      }
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     }
   ]
 }
