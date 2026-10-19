@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-20",
+  "body_composition": {
+    "weight_kg": 96.6,
+    "bmi": 29.8,
+    "body_fat_percent": 29.3,
+    "body_water_percent": 50,
+    "skeletal_muscle_percent": 44.8,
+    "bone_percent": 3.7,
+    "protein_percent": 17,
+    "muscle_percent": 67,
+    "muscle_reserve_capacity": 2,
+    "visceral_fat_index": 13,
+    "subcutaneous_fat_kg": 25.4,
+    "lean_body_mass_kg": 68.3,
+    "body_age": 45,
+    "body_score": 66,
+    "bmr_kcal": 2034,
+    "amr_kcal": 3132,
+    "standard_weight_kg": 80.4,
+    "weight_control_kg": -16.2,
+    "fat_control_kg": -16.2,
+    "muscle_control_kg": 0,
+    "source": "Body fat scale screenshots",
+    "notes": "Compared with 2026-10-12: weight -0.7 kg, body fat percentage unchanged; BIA estimates are sensitive to hydration and measurement conditions."
+  }
+}
