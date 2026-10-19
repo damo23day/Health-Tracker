@@ -51,3 +51,8 @@ Original ingredients: 1 large cooked sweet potato, 1 egg, 1/4 cup shredded chees
 - Suggested next test batch: 200 g cooked mashed sweet potato, 40 g tasty shredded cheese, 1 egg, 20 g plain flour, 1/2 tsp smoked paprika, 1/4 tsp garlic powder, 5 mL vegetable oil for plates; spread thinner in iron. These are experimental adjustments, not yet tested.
 - Tajín chilli-lime seasoning optional on finished avocado/egg topping; go easy on extra salt.
 - Ask for flavour/ease/fullness stars after next cook. Do not infer star ratings from qualitative comments.
+
+### First batch clarification — actual flour quantity
+User reports the mixture was very runny and approximately **doubled the planned 30 g plain flour to ~60 g** to make it thick enough for the stovetop waffle iron. Actual amount not weighed/confirmed. This likely contributed to a thick, dense and less flavoursome result; nutrition for this batch should not use the original 30 g flour assumption.
+
+**Next test (not yet cooked):** Prioritise drier cooked sweet potato: microwave without added water in a covered, vented microwave-safe dish; allow steam to escape and drain moisture. Mix 240 g mashed sweet potato, 30–40 g tasty cheese, paprika and garlic powder; start with 20 g flour and add beaten egg gradually until thick and scoopable, not runny. Spread thinner and oil both waffle plates. This supersedes the earlier suggestion to simply reduce sweet potato to 200 g; reassess after test.
