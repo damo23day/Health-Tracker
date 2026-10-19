@@ -36,3 +36,11 @@ Calories, protein, carbohydrates and fat, with label/weight assumptions.
 
 ## Notes
 Meal-prep tips, equipment, taste review and improvements after cooking.
+
+## Version and cooking history
+- Current version: v1 (proposed until cooked)
+- [Cooking session history](../logs/kebab-case-id.md) — create after first cook
+- Changes since previous version: None yet
+- Next experiment: To be decided from real feedback
+
+Each cook gets a numbered session recording actual ingredient weights, cooking time, yield, 1–5 star ratings (if provided), texture, what worked, what didn't and the next changes to test. Preserve earlier sessions and mark unknown data clearly.
