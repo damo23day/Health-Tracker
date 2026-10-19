@@ -26,7 +26,7 @@
   },
   "exercise": [
     {
-      "type": "Group Cycle (class type unconfirmed)",
+      "type": "Group Cycle / RPM",
       "duration": "46:09",
       "distance_km": 21.7,
       "calories_reported": 613,
@@ -39,7 +39,16 @@
         "max_bpm": 171,
         "source": "Galaxy Watch3"
       },
-      "notes": "Watch duration 45:57 and 510 kcal; machine 613 kcal is primary cycling record. Do not double count."
+      "notes": "Watch duration 45:57 and 510 kcal; machine 613 kcal is primary cycling record. Do not double count.",
+      "instructor": "Lolita",
+      "post_workout_feedback": {
+        "starting_energy": "Flat / low during first music track",
+        "turning_point": "After the first track, felt a mental shift and wanted to push as hard as possible",
+        "perceived_effort": "Very hard / near maximum voluntary effort",
+        "motivation": "Focused on making the most of fitness built through previous sessions and not giving up on the effort",
+        "user_feedback": "Started flat, then something clicked and I wanted to smash myself and work as hard as I could.",
+        "note": "High effort reflects user report, not a physiological maximum; remind that recovery and lighter days do not undo progress."
+      }
     }
   ]
 }
