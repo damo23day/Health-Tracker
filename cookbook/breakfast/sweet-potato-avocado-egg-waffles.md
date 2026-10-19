@@ -1,3 +1,37 @@
+# Sweet Potato & Cheese Waffles — Current Version v2 (TEST RECIPE)
+
+**Status:** v1 cooked; v2 proposed, not yet tested. **History:** [Cooking sessions](../logs/sweet-potato-avocado-egg-waffles.md)
+
+## Waffle bases only — next batch
+- 240 g **well-drained, cooked** sweet potato, mashed
+- 30–40 g Nestlé Tasty shredded cheese
+- 1 egg, beaten **and added gradually** (you may not need all of it)
+- Start with 20 g plain flour; only add more in small amounts if necessary
+- ½ tsp smoked paprika and ¼ tsp garlic powder (optional flavour tests)
+- Approximately 5 mL vegetable oil to brush waffle iron plates
+- Pepper; minimal extra salt
+
+### Method
+1. Dice sweet potato and microwave **without added water** in a covered, vented microwave-safe dish until soft. Drain and allow steam to escape, then mash. Weigh **240 g after cooking**.
+2. Stir through cheese and optional spices, then 20 g flour.
+3. Add beaten egg a little at a time until the mix is **thick and scoopable, not pourable**. Note the amount actually used.
+4. Warm both sides of stovetop waffle iron on medium-low, then carefully brush both plates with vegetable oil away from the burner.
+5. Add smaller, thinner portions; cook roughly 4–6 min on first side, flip and cook another 3–5 min, adjusting to your iron. Cook until firm and fully set.
+6. Cool on wire rack. Note yield and cooking time.
+
+### Meal prep / breakfast
+Cool promptly and refrigerate in an airtight plastic container within 2 hours; use within 3–4 days. Freeze individual waffles for longer storage. Reheat from fridge in air fryer at **180°C for ~4–6 minutes** until piping hot throughout; top with freshly cooked egg, avocado and optional Tajín chilli-lime seasoning. No toast required.
+
+**Nutrition:** Not yet calculated for v2. Measure actual egg, flour, cheese and oil and weigh final yield before assigning per-waffle calories or protein.
+
+### After cooking
+Log flavour, ease, fullness and make-again stars (1–5), actual total minutes, waffle count, sticking, texture and adjustments in the [session log](../logs/sweet-potato-avocado-egg-waffles.md). Keep v1 history unchanged.
+
+---
+
+## Archived original and previous recipe notes
+The following is retained for comparison, not the current v2 instructions.
+
 # Sweet Potato, Avocado & Egg Waffles
 
 **Category:** Breakfast | **Status:** To try | **Servings:** 1 (adapted version)
