@@ -146,6 +146,27 @@
       "average_cadence_rpm": 75,
       "source": "Group Cycle Connect screenshots",
       "notes": "43:54, 20.4 km, 587 Technogym kcal, 1064 MOVEs, 197 W average power, 423 W max, 75 rpm average cadence. Instructor and subjective feedback not yet supplied."
+    },
+    {
+      "date": "2026-10-20",
+      "workout_type": "Group Cycle (class type unconfirmed)",
+      "instructor": null,
+      "duration": "46:09",
+      "distance_km": 21.7,
+      "calories_reported": 613,
+      "moves": 1147,
+      "average_power_w": 201,
+      "max_power_w": 412,
+      "average_cadence_rpm": 75,
+      "source": "Group Cycle Connect and Samsung Health / Galaxy Watch3 screenshots",
+      "heart_rate": {
+        "source": "Samsung Health / Galaxy Watch3",
+        "duration": "45:57",
+        "calories_reported": 510,
+        "average_bpm": 147,
+        "max_bpm": 171
+      },
+      "notes": "Workout type/instructor not supplied; do not assume RPM or Summit. Group Cycle Connect reports 46:09, 21.7 km, 613 kcal, 1147 moves, 201 W avg, 412 W max, 75 rpm. Watch reports 45:57, 510 kcal, 147 avg HR, 171 max HR. Gym machine kcal kept separate from watch kcal; not summed."
     }
   ]
 }
