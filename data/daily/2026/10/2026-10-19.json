@@ -47,17 +47,27 @@
         "protein_g": 28,
         "estimated": true,
         "notes": "Wrap label 132 kcal/45 g, 3.7 g protein/45 g; sauce label 280 kJ/15 mL. Chicken and vegetables estimated."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Chicken with sweet potato, corn, peas and feta salad",
+        "quantity": "220 g chicken, 120 g mixed salad including sweet potato, corn, peas and a little feta",
+        "calories_kcal": 493,
+        "protein_g": 72,
+        "estimated": true,
+        "notes": "Assumed 220 g cooked skinless chicken breast and salad without significant added dressing/oil; estimates vary with chicken cut and preparation."
       }
     ],
-    "total_calories_kcal": 1479,
-    "total_protein_g": 109.5,
+    "total_calories_kcal": 1972,
+    "total_protein_g": 181.5,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 671,
-    "protein_variance_g": 40.5,
+    "calorie_variance_kcal": 178,
+    "protein_variance_g": -31.5,
     "notes": "Partial day; breakfast smoothie recorded."
   }
 }
