@@ -62,17 +62,26 @@
         "protein_g": 23,
         "estimated": true,
         "notes": "Waffle calories approximate due to first-batch extra flour; egg and produce standard estimates."
+      },
+      {
+        "type": "drink",
+        "name": "Iced protein coffee",
+        "quantity": "150 mL full-cream milk, 1 espresso shot, 1 scoop whey protein",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "estimated": true,
+        "notes": "Usual protein coffee recipe; assumed full-cream milk."
       }
     ],
-    "total_calories_kcal": 480,
-    "total_protein_g": 23,
+    "total_calories_kcal": 690,
+    "total_protein_g": 52,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1670,
-    "protein_variance_g": 127
+    "calorie_variance_kcal": 1460,
+    "protein_variance_g": 98
   },
   "recipe_feedback": [
     {
