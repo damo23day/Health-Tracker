@@ -50,5 +50,28 @@
         "note": "High effort reflects user report, not a physiological maximum; remind that recovery and lighter days do not undo progress."
       }
     }
-  ]
+  ],
+  "nutrition": {
+    "entries": [
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Sweet potato waffles with eggs, tomato and avocado",
+        "quantity": "118 g first-batch sweet potato waffles (extra plain flour added), 128 g eggs, 130 g tomato, 40 g avocado",
+        "calories_kcal": 480,
+        "protein_g": 23,
+        "estimated": true,
+        "notes": "Waffle calories approximate due to first-batch extra flour; egg and produce standard estimates."
+      }
+    ],
+    "total_calories_kcal": 480,
+    "total_protein_g": 23,
+    "water_ml": 0
+  },
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1670,
+    "protein_variance_g": 127
+  }
 }
