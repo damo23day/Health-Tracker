@@ -73,5 +73,13 @@
     "protein_target_g": 150,
     "calorie_variance_kcal": 1670,
     "protein_variance_g": 127
-  }
+  },
+  "recipe_feedback": [
+    {
+      "recipe": "First-batch sweet potato waffles with eggs, avocado and tomato",
+      "date": "2026-10-20",
+      "feedback": "130 g tomato (one whole tomato) was too much for this breakfast.",
+      "next_time": "Recommend half a tomato, approximately 60–65 g, keeping eggs and avocado the same."
+    }
+  ]
 }
