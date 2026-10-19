@@ -58,3 +58,13 @@ Store pre-cook **estimated difficulty / ingredient hassle / estimated time** sep
 - **review_count**: number of distinct recorded cooking reviews; initial value zero.
 On repeat cooks, preserve previous reviews in recipe Markdown (or a future dedicated review log), rather than silently overwriting history. Index can expose the latest review and/or averages when sufficient data exist.
 After a review, update recipe Markdown, recipes.json and the human-readable index. Do not confuse convenience estimates with personal experience.
+
+## Versioned recipes and cooking sessions (v2)
+Use a workout-style append-only session log for every recipe once cooked:
+- **Current recipe:** `cookbook/<category>/<id>.md` begins with the latest proposed or tested recipe version; keep the original source and earlier versions available.
+- **Cooking log:** `cookbook/logs/<id>.md`, with one dated **Session 001, 002, ...** per actual cook. Do not create a completed session for a planned cook.
+- **Index:** `recipes.json` includes `current_version`, `current_version_status` (tested/proposed), `history_path`, `last_cooked_at` and `cook_count`; update the latest review and averages only from real user ratings.
+
+Each session records date (or date unknown), recipe version, servings/yield, **actual** ingredient weights and substitutions (mark unconfirmed quantities as estimates), cooking equipment, prep/cook/total minutes if known, star ratings (flavour, ease, fullness, make again), texture/sticking/satiety notes, nutrition estimate basis, what worked, what didn't, and changes proposed for next time. Distinguish a user's direct observation from the assistant's hypothesis. Missing ratings remain null.
+
+When the user reports a cook: append a session, preserve prior sessions, link it from recipe, update the index and propose a numbered next version without marking it tested. Never overwrite an earlier version or silently treat proposed quantities as actual.
