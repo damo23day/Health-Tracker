@@ -23,5 +23,23 @@
     "muscle_control_kg": 0,
     "source": "Body fat scale screenshots",
     "notes": "Compared with 2026-10-12: weight -0.7 kg, body fat percentage unchanged; BIA estimates are sensitive to hydration and measurement conditions."
-  }
+  },
+  "exercise": [
+    {
+      "type": "Group Cycle (class type unconfirmed)",
+      "duration": "46:09",
+      "distance_km": 21.7,
+      "calories_reported": 613,
+      "moves": 1147,
+      "average_power_w": 201,
+      "max_power_w": 412,
+      "average_cadence_rpm": 75,
+      "heart_rate": {
+        "average_bpm": 147,
+        "max_bpm": 171,
+        "source": "Galaxy Watch3"
+      },
+      "notes": "Watch duration 45:57 and 510 kcal; machine 613 kcal is primary cycling record. Do not double count."
+    }
+  ]
 }
