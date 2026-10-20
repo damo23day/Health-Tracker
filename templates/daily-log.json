@@ -22,7 +22,19 @@
     "entries": [],
     "total_calories_kcal": 0,
     "total_protein_g": 0,
-    "water_ml": null
+    "water_ml": null,
+    "total_carbs_g": null,
+    "total_fat_g": null,
+    "total_fiber_g": null,
+    "total_sugar_g": null,
+    "total_added_sugar_g": null,
+    "entry_nutrient_fields": {
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sugar_g": null,
+      "added_sugar_g": null
+    }
   },
   "exercise": [],
   "activity": {
@@ -39,6 +51,13 @@
     "calorie_variance_kcal": null,
     "protein_target_g": null,
     "protein_variance_g": null,
-    "notes": null
+    "notes": null,
+    "nutrition_targets": {
+      "carbs_g": 230,
+      "fat_g": 70,
+      "fiber_g": 30,
+      "protein_g": 150,
+      "calories_kcal": 2150
+    }
   }
 }
