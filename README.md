@@ -14,7 +14,7 @@ ChatGPT is the day-to-day tracking interface. This repository is the durable sou
 - Body goal: leaner waist, improved muscle definition and general fitness without focusing on bulk
 
 ## Tracking rhythm
-- Daily: food, drinks, calories, protein, exercise, activity, water, sleep and useful notes
+- Daily: food, drinks, calories, protein, carbs, fat, fibre, sugars, exercise, activity, water, sleep and useful notes
 - Weekly: weight, waist and progress photos plus summary
 - Fortnightly: deeper review and target adjustment if required
 - Monthly: progress report and trend review
@@ -60,7 +60,7 @@ Auto-detected incidental walking can remain part of the daily/activity record an
 `config/supplements.json` is the source of truth for current supplement and electrolyte products, standard serving sizes and product-label details. Actual consumption is logged in the relevant daily JSON file.
 
 ### Nutrition
-The daily JSON file is the authoritative record for food, drinks, calories, protein and hydration for that day. Estimated values should remain marked as estimates and can be refined later when better information becomes available.
+The daily JSON file is the authoritative record for food, drinks, calories, protein, carbohydrates, fat, fibre, total sugar, added sugar and hydration for that day. Missing nutrient measurements are null rather than zero; see `framework/health-tracker-v1.md` for completeness rules and `config/nutrition-targets.json` for guide targets. Estimated values should remain marked as estimates and can be refined later when better information becomes available.
 
 ## Source-of-truth principle
 - **Specific day:** use the relevant daily JSON file.
