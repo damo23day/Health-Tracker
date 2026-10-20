@@ -99,17 +99,27 @@
         "calories_kcal": 65,
         "protein_g": 3,
         "estimated": true
+      },
+      {
+        "type": "meal",
+        "meal": "dessert",
+        "name": "Chocolate banana protein mug cake",
+        "quantity": "1 mug cake; chocolate whey, banana, egg, cocoa, peanut butter, almond milk and ALDI dark chocolate baking bits; exact weights unconfirmed",
+        "calories_kcal": 362,
+        "protein_g": 27,
+        "estimated": true,
+        "notes": "Estimated using suggested recipe including ~10 g baking bits. Cooked 2x30 seconds, briefly chilled. User enjoyed; banana flavour stronger than chocolate."
       }
     ],
-    "total_calories_kcal": 1710,
-    "total_protein_g": 121.5,
+    "total_calories_kcal": 2072,
+    "total_protein_g": 148.5,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 440,
-    "protein_variance_g": 28.5
+    "calorie_variance_kcal": 78,
+    "protein_variance_g": 1.5
   },
   "recipe_feedback": [
     {
