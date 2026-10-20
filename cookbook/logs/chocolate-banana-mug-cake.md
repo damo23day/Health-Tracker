@@ -34,3 +34,9 @@
 - Karley also tasted it and **did not like it**. Her reasons were not specified; do not assume she disliked the banana flavour specifically.
 - Neither person supplied numerical star ratings. No texture complaint was reported (not equivalent to confirming texture was perfect).
 - **Potential v3 experiment, untested:** banana 40 g (down from suggested 60 g), cocoa 8 g (up from 5 g), chocolate whey 20 g and baking bits 10 g unchanged; add 10–15 mL extra milk only as needed for consistency. Aim: more chocolate-forward flavour. Preserve v2 as the successful version for user.
+
+### Further first-cook clarification
+- **Actual milk:** almond milk, not regular dairy milk; amount not confirmed.
+- **Texture:** user felt it was **slightly undercooked**, and might have benefited from longer cooking. This is the user's impression, not a verified food-safety assessment.
+- **Next cooking-time test:** after 60 seconds, rest briefly and check centre; if still wet/liquid, microwave in 10–15-second bursts, aiming around 75–90 seconds total as needed for microwave and dish. Ensure egg batter is fully cooked; chilling does not cook it.
+- Keep almond milk in next version. Avoid changing cook time and flavour ratios simultaneously if trying to identify cause of improvement.
