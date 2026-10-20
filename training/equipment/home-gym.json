@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-21",
+  "equipment": [
+    {
+      "item": "tri-grip weight plate",
+      "quantity": 2,
+      "weight_kg_each": 10,
+      "total_kg": 20,
+      "notes": "Purple plates with integrated hand grips; may be used individually or mounted on compatible barbell. Confirm plate bore/bar compatibility and grip security."
+    },
+    {
+      "item": "lightweight aerobic-style barbell",
+      "quantity": 1,
+      "weight_kg": null,
+      "notes": "Les Mills/BODYPUMP-style lightweight bar; actual mass and safe rated load not yet confirmed."
+    }
+  ],
+  "other_plates": "Not yet confirmed",
+  "safety": "Avoid assuming 10 kg plates are suitable for wrist-sensitive unilateral exercises or that the lightweight bar supports 20 kg of plates; verify load rating and collars."
+}
