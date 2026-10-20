@@ -351,25 +351,25 @@
         "estimated": true
       },
       "taste_rating": null,
-      "status": "to_try",
+      "status": "tried",
       "requires_prep": [],
-      "notes": "Untested suggested dessert; estimates vary with ingredients.",
+      "notes": "Tested chocolate whey version with dark chocolate baking bits; see cooking history. Suggested ingredient weights unconfirmed. Proposed v3 cocoa 8g, banana 40g remains untested.",
       "review": {
         "flavour_stars": null,
         "ease_stars": null,
         "fullness_stars": null,
         "make_again_stars": null,
         "actual_total_minutes": null,
-        "review_notes": null,
+        "review_notes": "Session 001: user liked cake but banana flavour stronger than chocolate; Karley disliked it (reason unspecified). No numeric stars. 60s microwave and brief refrigeration.",
         "reviewed_at": null,
         "overall_stars": null,
-        "review_count": 0
+        "review_count": 1
       },
-      "current_version": "v1",
-      "current_version_status": "proposed",
-      "history_path": null,
-      "last_cooked_at": null,
-      "cook_count": 0
+      "current_version": "v2",
+      "current_version_status": "tested",
+      "history_path": "logs/chocolate-banana-mug-cake.md",
+      "last_cooked_at": "2026-10-20",
+      "cook_count": 1
     },
     {
       "id": "rice-paper-croque-madame",
