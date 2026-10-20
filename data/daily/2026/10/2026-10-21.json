@@ -30,14 +30,29 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Standard protein coffee using almond milk instead of full-cream milk; assumes 150 mL almond milk and usual whey scoop. Macro estimates, added sugar not confirmed."
+      },
+      {
+        "type": "meal",
+        "meal": "snack",
+        "name": "One and a half large bananas",
+        "quantity": "1 large banana plus half a large banana (~202.5 g edible portion estimated)",
+        "calories_kcal": 180,
+        "protein_g": 2.2,
+        "carbs_g": 46.2,
+        "fat_g": 0.6,
+        "fiber_g": 5.3,
+        "sugar_g": 24.7,
+        "added_sugar_g": 0,
+        "estimated": true,
+        "notes": "Estimated using 135 g edible weight per large banana; naturally occurring fruit sugar, no added sugar."
       }
     ],
-    "total_calories_kcal": 617,
-    "total_protein_g": 51.6,
-    "total_carbs_g": 53.5,
-    "total_fat_g": 21.4,
-    "total_fiber_g": 14.1,
-    "total_sugar_g": 10.7,
+    "total_calories_kcal": 797,
+    "total_protein_g": 53.8,
+    "total_carbs_g": 99.7,
+    "total_fat_g": 22,
+    "total_fiber_g": 19.4,
+    "total_sugar_g": 35.4,
     "total_added_sugar_g": null,
     "water_ml": null
   },
@@ -45,7 +60,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1533,
-    "protein_variance_g": 98.4
+    "calorie_variance_kcal": 1353,
+    "protein_variance_g": 96.2
   }
 }
