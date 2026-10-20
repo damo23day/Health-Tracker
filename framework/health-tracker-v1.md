@@ -31,6 +31,18 @@ Reassess weight, measurements, activity and goals and establish the next fat-los
 - Do not use aggressive compensation after a high-calorie day; assess both daily intake and the weekly average.
 - Calorie and protein targets are calibrated using real progress over time.
 
+### Expanded nutrient tracking (from 21 October 2026)
+- Keep **2,150 kcal** and **150 g protein** as primary daily targets.
+- Record `carbs_g`, `fat_g`, `fiber_g`, `sugar_g` and, where distinguishable, `added_sugar_g` on every new food or drink entry.
+- Prefer nutrition labels and weighed ingredients; otherwise estimate with `estimated: true`. Do not invent exact values.
+- Missing nutrient data must be `null`, **not zero**. A genuine zero is recorded as `0`.
+- Daily `total_carbs_g`, `total_fat_g`, `total_fiber_g`, `total_sugar_g`, `total_added_sugar_g` must be `null` if any included entry has an unknown value for that nutrient. Optionally report a separately labelled *known subtotal* without treating it as the daily total.
+- Initial guide targets: **230 g carbs**, **70 g fat**, **30 g fibre** (30–38 g desirable). Carbs and fat are flexible guides, not hard caps; their macro-energy total with 150 g protein is approximately 2,150 kcal.
+- Track total sugar for awareness; track added sugar separately where known, without assigning a daily total-sugar limit or conflating fruit/dairy sugars with added sugar.
+- Preserve existing daily JSON and historic calories/protein. Add new fields prospectively; backfill only where ingredient/label evidence supports it.
+- Continue logging exercise calories separately from food intake.
+- Expanded daily reviews show macros and fibre when enough data exists, plus sugar with an indication of data completeness.
+
 ## 5. Exercise
 Baseline: 4 structured sessions per week.
 - 2 × approximately 45-minute RPM sessions
