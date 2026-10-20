@@ -77,21 +77,21 @@
         "meal": "lunch",
         "name": "Chicken chilli lime crunch salad wrap",
         "quantity": "74 g wrap, 77 g Fresh Salad Co Chilli Lime Crunch salad kit, 104 g chicken",
-        "calories_kcal": 494,
-        "protein_g": 40.2,
+        "calories_kcal": 475,
+        "protein_g": 40,
         "estimated": true,
-        "notes": "Salad label 135 kcal and 2.5 g protein per 100 g including dressing and noodles. Wrap estimated using Bakers Life mini white wrap label 294 kcal per 100 g. Chicken assumed cooked skinless breast."
+        "notes": "77 g chilli lime salad kit WITHOUT fried noodles; dressing provisionally assumed included. Salad energy estimated because label applies to complete kit. Wrap 74 g and chicken 104 g unchanged."
       }
     ],
-    "total_calories_kcal": 1184,
-    "total_protein_g": 92.2,
+    "total_calories_kcal": 1165,
+    "total_protein_g": 92,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 966,
-    "protein_variance_g": 57.8
+    "calorie_variance_kcal": 985,
+    "protein_variance_g": 58
   },
   "recipe_feedback": [
     {
