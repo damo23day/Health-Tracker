@@ -40,3 +40,6 @@
 - **Texture:** user felt it was **slightly undercooked**, and might have benefited from longer cooking. This is the user's impression, not a verified food-safety assessment.
 - **Next cooking-time test:** after 60 seconds, rest briefly and check centre; if still wet/liquid, microwave in 10–15-second bursts, aiming around 75–90 seconds total as needed for microwave and dish. Ensure egg batter is fully cooked; chilling does not cook it.
 - Keep almond milk in next version. Avoid changing cook time and flavour ratios simultaneously if trying to identify cause of improvement.
+
+### Texture clarification — same session
+User clarified the brownie-like centre may actually have been **spot on** for their preference. There was **a little liquid in the middle and at the bottom**; unknown whether this was melted chocolate/moist crumb or uncooked batter. Do not conclusively label the entire cake undercooked. For next cook, retain **60 seconds as starting time**, rest 1 minute, check centre/bottom; if visibly liquid batter remains, microwave in 10–15 second increments until cooked. Do not automatically extend to 90 seconds, to preserve fudgy texture.
