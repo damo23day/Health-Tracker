@@ -81,17 +81,27 @@
         "protein_g": 40,
         "estimated": true,
         "notes": "77 g chilli lime salad kit WITHOUT fried noodles; dressing provisionally assumed included. Salad energy estimated because label applies to complete kit. Wrap 74 g and chicken 104 g unchanged."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Spaghetti with tomato meat sauce",
+        "quantity": "165 g spaghetti pasta, 160 g tomato meat sauce",
+        "calories_kcal": 480,
+        "protein_g": 26.5,
+        "estimated": true,
+        "notes": "Assumed cooked pasta and homemade tomato-based meat sauce; meat type and recipe unknown."
       }
     ],
-    "total_calories_kcal": 1165,
-    "total_protein_g": 92,
+    "total_calories_kcal": 1645,
+    "total_protein_g": 118.5,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 985,
-    "protein_variance_g": 58
+    "calorie_variance_kcal": 505,
+    "protein_variance_g": 31.5
   },
   "recipe_feedback": [
     {
