@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-21",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Two eggs on wholegrain toast with chickpea spread and Corale baked beans",
+        "quantity": "2 large eggs, 2 slices wholegrain toast (assumed), ~20 g chickpea spread (assumed), 90 g Corale baked beans",
+        "calories_kcal": 452,
+        "protein_g": 26.6,
+        "carbs_g": 47.5,
+        "fat_g": 17.4,
+        "fiber_g": 13.1,
+        "sugar_g": 6.7,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Corale beans scaled from photographed label: 90 g = 72 kcal, 4.1 g protein, 9.7 g carbs, 0.6 g fat, 6.1 g fibre, 3.7 g sugar. Eggs/toast/spread are estimates; toast type and chickpea spread weight not confirmed. Added sugar unknown."
+      }
+    ],
+    "total_calories_kcal": 452,
+    "total_protein_g": 26.6,
+    "total_carbs_g": 47.5,
+    "total_fat_g": 17.4,
+    "total_fiber_g": 13.1,
+    "total_sugar_g": 6.7,
+    "total_added_sugar_g": null,
+    "water_ml": null
+  },
+  "exercise": [],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1698,
+    "protein_variance_g": 123.4
+  }
+}
