@@ -28,3 +28,9 @@
 - Repeat v2 as the reference version; do not change without further feedback.
 - Confirm actual weights and whether preferred warm or chilled.
 - Request optional 1–5 stars for flavour, ease, fullness and make again.
+
+### Follow-up taste feedback (same Session 001)
+- User **liked** the cake; banana flavour was stronger than chocolate.
+- Karley also tasted it and **did not like it**. Her reasons were not specified; do not assume she disliked the banana flavour specifically.
+- Neither person supplied numerical star ratings. No texture complaint was reported (not equivalent to confirming texture was perfect).
+- **Potential v3 experiment, untested:** banana 40 g (down from suggested 60 g), cocoa 8 g (up from 5 g), chocolate whey 20 g and baking bits 10 g unchanged; add 10–15 mL extra milk only as needed for consistency. Aim: more chocolate-forward flavour. Preserve v2 as the successful version for user.
