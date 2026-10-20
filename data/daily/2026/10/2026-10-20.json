@@ -71,17 +71,27 @@
         "protein_g": 29,
         "estimated": true,
         "notes": "Usual protein coffee recipe; assumed full-cream milk."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chicken chilli lime crunch salad wrap",
+        "quantity": "74 g wrap, 77 g Fresh Salad Co Chilli Lime Crunch salad kit, 104 g chicken",
+        "calories_kcal": 494,
+        "protein_g": 40.2,
+        "estimated": true,
+        "notes": "Salad label 135 kcal and 2.5 g protein per 100 g including dressing and noodles. Wrap estimated using Bakers Life mini white wrap label 294 kcal per 100 g. Chicken assumed cooked skinless breast."
       }
     ],
-    "total_calories_kcal": 690,
-    "total_protein_g": 52,
+    "total_calories_kcal": 1184,
+    "total_protein_g": 92.2,
     "water_ml": 0
   },
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1460,
-    "protein_variance_g": 98
+    "calorie_variance_kcal": 966,
+    "protein_variance_g": 57.8
   },
   "recipe_feedback": [
     {
