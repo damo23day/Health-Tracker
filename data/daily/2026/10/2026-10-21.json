@@ -16,14 +16,28 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Corale beans scaled from photographed label: 90 g = 72 kcal, 4.1 g protein, 9.7 g carbs, 0.6 g fat, 6.1 g fibre, 3.7 g sugar. Eggs/toast/spread are estimates; toast type and chickpea spread weight not confirmed. Added sugar unknown."
+      },
+      {
+        "type": "drink",
+        "name": "Iced protein coffee with almond milk",
+        "quantity": "150 mL Inner Goodness Original almond milk (assumed), 1 espresso shot, 1 scoop chocolate whey protein",
+        "calories_kcal": 165,
+        "protein_g": 25,
+        "carbs_g": 6,
+        "fat_g": 4,
+        "fiber_g": 1,
+        "sugar_g": 4,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Standard protein coffee using almond milk instead of full-cream milk; assumes 150 mL almond milk and usual whey scoop. Macro estimates, added sugar not confirmed."
       }
     ],
-    "total_calories_kcal": 452,
-    "total_protein_g": 26.6,
-    "total_carbs_g": 47.5,
-    "total_fat_g": 17.4,
-    "total_fiber_g": 13.1,
-    "total_sugar_g": 6.7,
+    "total_calories_kcal": 617,
+    "total_protein_g": 51.6,
+    "total_carbs_g": 53.5,
+    "total_fat_g": 21.4,
+    "total_fiber_g": 14.1,
+    "total_sugar_g": 10.7,
     "total_added_sugar_g": null,
     "water_ml": null
   },
@@ -31,7 +45,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1698,
-    "protein_variance_g": 123.4
+    "calorie_variance_kcal": 1533,
+    "protein_variance_g": 98.4
   }
 }
