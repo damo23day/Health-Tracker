@@ -1,3 +1,31 @@
+# Chocolate Banana Protein Mug Cake — v2 (COOKED)
+
+**Status:** Tried, positive feedback. **Cooking history:** [Session 001](../logs/chocolate-banana-mug-cake.md)
+
+## Current v2 recipe (suggested quantities; exact first-cook weights unconfirmed)
+- 60 g ripe banana
+- 1 large egg (~50 g)
+- 20 g ON Gold Standard Double Rich Chocolate whey protein
+- 5 g cocoa powder
+- 10 g peanut butter
+- 20–30 mL milk
+- ¼ tsp baking powder
+- 10 g ALDI dark chocolate baking bits, optional
+
+1. Mash banana in microwave-safe mug or bowl. Mix in egg and peanut butter.
+2. Stir in whey, cocoa and baking powder. Add milk until thick but pourable.
+3. Sprinkle baking bits on top, pushing some into centre if desired.
+4. Microwave **30 seconds, then another 30 seconds**; rest 60 seconds. If liquid uncooked batter remains, continue in 10–15 second bursts until set throughout. Fridge chilling firms texture but does not cook raw egg.
+5. Enjoy warm or briefly chilled; user's preferred temperature not yet confirmed.
+
+**Estimated nutrition:** ~362 kcal and ~27 g protein with 10 g chocolate and all suggested amounts; actual quantities not verified. For future cooks, weigh and record.
+
+**Feedback (Session 001):** “Delishious”; no numerical star ratings supplied. Repeat this version before making further changes.
+
+---
+
+## Archived original v1 recipe
+
 # Chocolate Banana Mug Cake
 
 **ID:** chocolate-banana-mug-cake | **Category:** Dessert / Snack | **Status:** To try | **Servings:** 1
