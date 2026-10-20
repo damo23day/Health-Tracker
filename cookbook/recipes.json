@@ -353,14 +353,14 @@
       "taste_rating": null,
       "status": "tried",
       "requires_prep": [],
-      "notes": "Tested chocolate whey version with dark chocolate baking bits; see cooking history. Suggested ingredient weights unconfirmed. Proposed v3 cocoa 8g, banana 40g remains untested.",
+      "notes": "Tested chocolate whey version with dark chocolate baking bits; see cooking history. Suggested ingredient weights unconfirmed. Proposed v3 cocoa 8g, banana 40g remains untested. Actual milk was almond milk; next time test additional 10–15s microwave increments until fully cooked.",
       "review": {
         "flavour_stars": null,
         "ease_stars": null,
         "fullness_stars": null,
         "make_again_stars": null,
         "actual_total_minutes": null,
-        "review_notes": "Session 001: user liked cake but banana flavour stronger than chocolate; Karley disliked it (reason unspecified). No numeric stars. 60s microwave and brief refrigeration.",
+        "review_notes": "Session 001: user liked cake but banana flavour stronger than chocolate; Karley disliked it (reason unspecified). No numeric stars. 60s microwave and brief refrigeration. User used almond milk (amount unknown) and felt cake slightly undercooked at 60s.",
         "reviewed_at": null,
         "overall_stars": null,
         "review_count": 1
