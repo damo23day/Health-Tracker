@@ -27,14 +27,7 @@
     "total_fat_g": null,
     "total_fiber_g": null,
     "total_sugar_g": null,
-    "total_added_sugar_g": null,
-    "entry_nutrient_fields": {
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sugar_g": null,
-      "added_sugar_g": null
-    }
+    "total_added_sugar_g": null
   },
   "exercise": [],
   "activity": {
