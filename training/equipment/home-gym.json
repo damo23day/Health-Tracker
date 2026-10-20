@@ -16,6 +16,13 @@
       "notes": "Orange plates with integrated hand grips, confirmed from photo; check bar compatibility and secure collars."
     },
     {
+      "item": "tri-grip weight plate",
+      "quantity": 4,
+      "weight_kg_each": 2.5,
+      "total_kg": 10,
+      "notes": "Green plates with integrated hand grips, confirmed from photo."
+    },
+    {
       "item": "lightweight aerobic-style barbell",
       "quantity": 1,
       "weight_kg": null,
@@ -24,6 +31,6 @@
   ],
   "other_plates": "Not yet confirmed",
   "safety": "Avoid assuming 10 kg plates are suitable for wrist-sensitive unilateral exercises or that the lightweight bar supports 20 kg of plates; verify load rating and collars.",
-  "total_known_plate_weight_kg": 50,
-  "total_known_plates": 8
+  "total_known_plate_weight_kg": 60,
+  "total_known_plates": 12
 }
