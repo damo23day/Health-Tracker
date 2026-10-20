@@ -1,0 +1,30 @@
+# Chocolate Banana Mug Cake — Cooking Sessions
+
+## Session 001 — 20 October 2026
+**Version:** v2, dark chocolate whey protein variant
+**Result:** Cooked and eaten; user described it as **“Delishious”** and shared a photo of the empty bowl. No numerical star rating provided.
+
+### Suggested ingredient quantities (not independently confirmed as weighed)
+- Banana 60 g
+- Egg 1 large (~50 g)
+- ON Gold Standard Double Rich Chocolate whey protein 20 g
+- Cocoa powder 5 g
+- Peanut butter 10 g
+- Milk 20–30 mL
+- Baking powder ¼ tsp
+- ALDI dark chocolate baking bits suggested 10 g; exact amount actually used not confirmed
+
+### Actual reported cooking details
+- Microwave **2 × 30 seconds (60 seconds total)**.
+- Refrigerated briefly after cooking.
+- Dark chocolate baking bits visible on cake in photo.
+- Final bowl empty; positive flavour feedback.
+- No actual preparation time, exact weighed ingredient quantities, final texture description, or numeric star ratings provided.
+
+### Nutrition
+**~362 kcal and ~27 g protein** only if suggested ingredients and 10 g chocolate were used; estimate, not verified intake.
+
+### Next time
+- Repeat v2 as the reference version; do not change without further feedback.
+- Confirm actual weights and whether preferred warm or chilled.
+- Request optional 1–5 stars for flavour, ease, fullness and make again.
