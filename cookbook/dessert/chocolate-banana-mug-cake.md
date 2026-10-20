@@ -8,14 +8,14 @@
 - 20 g ON Gold Standard Double Rich Chocolate whey protein
 - 5 g cocoa powder
 - 10 g peanut butter
-- 20–30 mL milk
+- 20–30 mL **almond milk** (used in Session 001; amount unconfirmed)
 - ¼ tsp baking powder
 - 10 g ALDI dark chocolate baking bits, optional
 
 1. Mash banana in microwave-safe mug or bowl. Mix in egg and peanut butter.
 2. Stir in whey, cocoa and baking powder. Add milk until thick but pourable.
 3. Sprinkle baking bits on top, pushing some into centre if desired.
-4. Microwave **30 seconds, then another 30 seconds**; rest 60 seconds. If liquid uncooked batter remains, continue in 10–15 second bursts until set throughout. Fridge chilling firms texture but does not cook raw egg.
+4. Microwave **30 seconds, then another 30 seconds**; rest 60 seconds. **First cook seemed slightly underdone at 60 seconds**: next time check centre and continue in 10–15 second bursts as needed (perhaps ~75–90 seconds total), until set throughout. Fridge chilling firms texture but does not cook raw egg.
 5. Enjoy warm or briefly chilled; user's preferred temperature not yet confirmed.
 
 **Estimated nutrition:** ~362 kcal and ~27 g protein with 10 g chocolate and all suggested amounts; actual quantities not verified. For future cooks, weigh and record.
