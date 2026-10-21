@@ -14,7 +14,7 @@
   "core": "Dead bugs described as hardest; completed 2 sets of 8 per side, shaking towards end of final set",
   "wrist": "Right wrist strained; standard push-ups difficult for wrist",
   "chest": "Push-ups challenging; wants to build chest strength",
-  "neck": "No pain during workout; delayed headache response still unknown, check later and next day",
+  "neck": "No neck pain during session and no back issues or headaches reported the following morning (2026-10-22).",
   "training_priorities": [
     "chest",
     "core",
@@ -28,5 +28,16 @@
   "next_session": "More upper-body resistance, maintain challenging controlled core work, avoid painful wrist extension and aggravating neck symptoms; adjust based on delayed headache/recovery",
   "weights_used": null,
   "effort_score": null,
-  "notes": "Self-reported summary, not a verified set-by-set record."
+  "notes": "Self-reported summary, not a verified set-by-set record.",
+  "next_day_recovery": {
+    "date": "2026-10-22",
+    "overall": "Feels good, pleasantly mildly achy after a long period without similar muscle soreness",
+    "neck_back_pain": false,
+    "headache": false,
+    "other_activity": "Played pickleball evening of 2026-10-21; not particularly strenuous",
+    "soreness_severity": "mild, not numerically rated",
+    "wrist_status": "Not re-assessed in next-day report",
+    "interpretation": "Positive initial recovery report; do not infer absence of all symptoms or readiness for heavier loads.",
+    "next_step": "Check soreness, wrist, neck and headaches before next session."
+  }
 }
