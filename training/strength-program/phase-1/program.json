@@ -1,6 +1,6 @@
 {
   "program_name": "Strength Re-entry – Phase 1",
-  "version": "1.0",
+  "version": "1.1",
   "start_date": "2026-09-27",
   "goal": "Reintroduce resistance training with an upper-body emphasis while retaining some leg and core work, building consistency without excessive soreness.",
   "schedule": {
@@ -154,7 +154,7 @@
       ]
     }
   },
-  "progression": "For Weeks 1-2 keep two sets. If recovery and neck/headache response are good, Phase 2 can add selected third sets and gradual load/repetition progression.",
+  "progression": "Progress individually based on prior completed sets, technique, recovery and symptoms: usually add 1–2 reps before smallest feasible load increase, and change only one variable at a time. Keep challenging dead bugs at 2 × 8/side until controlled; monitor wrist and delayed neck headaches. See required_workflow.",
   "session_logging": {
     "fields": [
       "date",
@@ -214,5 +214,7 @@
       ]
     },
     "coaching_rule": "Review the previous session, post-workout feedback, next-day recovery and current readiness before prescribing the next workout. Adjust exercise selection, sets, reps or load when warranted."
-  }
+  },
+  "required_workflow": "training/strength-program/WORKFLOW.md",
+  "pre_workout_rule": "Before every strength workout, follow required_workflow: read most recent completed workout and recovery, compare earlier sessions, check current readiness and actual home equipment, then choose conservative exercise-specific progression."
 }
