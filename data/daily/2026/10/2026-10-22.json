@@ -51,5 +51,13 @@
   "wellbeing": {
     "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
     "notes": "Walking on under-desk treadmill while working; duration, steps and workout calories not yet provided."
-  }
+  },
+  "recipe_feedback": [
+    {
+      "recipe": "Banana protein smoothie with fresh Farmdale full-cream milk",
+      "date": "2026-10-22",
+      "feedback": "Really nice; user quite liked it.",
+      "next_time": "Keep as a preferred smoothie option; confirmed vanilla protein powder and 15 g oats, with fresh full-cream milk."
+    }
+  ]
 }
