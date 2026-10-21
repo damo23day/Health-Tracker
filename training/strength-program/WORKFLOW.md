@@ -29,13 +29,17 @@ If symptoms are worsening, neurological, or recurring, avoid provoking movements
 ## 4. Build the next session
 - Target ~45 minutes; generally 5-minute warm-up, 30–35 minutes strength/core, 5-minute cool-down, adjusted to readiness.
 - Include actual sets/reps/load targets with a short explanation of what changed from the prior session and why.
-- Include interactive **set-by-set checkboxes** and an actual countdown timer for every timed warm-up, cool-down and between-set rest where the interface supports it. Clearly disclose limitations of background timing.
+- **Default to time-boxed workouts**, generally 45 minutes total, with explicit allocations that add up to 45 minutes. The time is a schedule, not a race: prescribe controlled sets/reps and estimate that they fit in each block, including rest and transitions. Never ask the user to speed up repetitions to beat a timer. Adjust blocks or volume when necessary.
+- Prefer watch-friendly time blocks (1, 2, 5, or 10 minutes) so the user can start a timer on their Samsung watch and use remaining time to recover. Shorter rests can be suggested within blocks. Clearly distinguish a time allocation from an AMRAP or timed repetition exercise.
+- Present a single interactive workout screen with **set-by-set checkboxes**, weights/reps where available, watch timer instruction for every block, and a **Complete Workout** control at the bottom. Use inline countdowns only as optional aids; the watch is the preferred reliable timer. Ensure the full planned duration includes warm-up, exercises, rest, transitions and cool-down.
 - Choose wrist-friendly pressing and upper-body exercises; avoid painful wrist extension. Do not prescribe plate-held movements without checking secure grip and tolerability.
 - Include progression and regression options.
 
 ## 5. Log immediately and check recovery later
+When the user taps **Complete Workout**, the interface should submit a structured completed-session summary into the conversation for the assistant to write via the GitHub connector. **A UI button cannot directly commit to GitHub**; only confirm 'saved' after a successful GitHub commit. Preserve partial sets and skips accurately. After the commit, ask for immediate feedback (overall difficulty, enjoyment, energy, wrist, neck/back, headaches, exercise-specific comments). Append the feedback to the same session file, preserving the original session data.
+
 After training, save date, exercises, completed sets, actual repetitions and weights (unknown as null), effort, form, symptoms, enjoyment and modifications in `training/strength-program/sessions/`.
-Ask for delayed symptoms and recovery the next day: neck/back pain, headache, wrist symptoms, soreness, fatigue, other activities, and readiness. Append feedback to the same session file; preserve original observations and label later additions with their date.
+When the user reports later same-day or next-day recovery, update that same session file, not a disconnected record. Ask for delayed symptoms and recovery the next day: neck/back pain, headache, wrist symptoms, soreness, fatigue, other activities, and readiness. Append feedback to the same session file; preserve original observations and label later additions with their date.
 Before the next workout, **repeat from Step 1**. Do not invent progress, reps, or loads.
 
 ## Current baseline (21–22 October 2026)
