@@ -1,14 +1,30 @@
 {
   "date": "2026-10-22",
   "nutrition": {
-    "entries": [],
-    "total_calories_kcal": 0,
-    "total_protein_g": 0,
-    "total_carbs_g": 0,
-    "total_fat_g": 0,
-    "total_fiber_g": 0,
-    "total_sugar_g": 0,
-    "total_added_sugar_g": 0,
+    "entries": [
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Banana protein smoothie with fresh Farmdale full-cream milk",
+        "quantity": "100 g banana, 150 mL fresh Farmdale full-cream milk, 1 scoop vanilla whey protein, 15 g rolled oats, ice/water as needed (recipe amounts assumed)",
+        "calories_kcal": 365,
+        "protein_g": 33,
+        "carbs_g": 44.5,
+        "fat_g": 8.5,
+        "fiber_g": 4.2,
+        "sugar_g": 20.1,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Logged from previously proposed smoothie recipe; user confirmed fresh full-cream Farmdale milk instead of almond milk, not UHT/long-life. Actual ingredient weights and whether oats/protein powder were included not yet confirmed. All nutrient figures provisional."
+      }
+    ],
+    "total_calories_kcal": 365,
+    "total_protein_g": 33,
+    "total_carbs_g": 44.5,
+    "total_fat_g": 8.5,
+    "total_fiber_g": 4.2,
+    "total_sugar_g": 20.1,
+    "total_added_sugar_g": null,
     "water_ml": 2250,
     "hydration_entries": [
       {
@@ -28,7 +44,9 @@
   "exercise": [],
   "daily_summary": {
     "calorie_target_kcal": 2150,
-    "protein_target_g": 150
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1785,
+    "protein_variance_g": 117
   },
   "wellbeing": {
     "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
