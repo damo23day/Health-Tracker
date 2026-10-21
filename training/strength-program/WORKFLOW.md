@@ -33,6 +33,7 @@ If symptoms are worsening, neurological, or recurring, avoid provoking movements
 - Prefer watch-friendly time blocks (1, 2, 5, or 10 minutes) so the user can start a timer on their Samsung watch and use remaining time to recover. Shorter rests can be suggested within blocks. Clearly distinguish a time allocation from an AMRAP or timed repetition exercise.
 - Present a single interactive workout screen with **set-by-set checkboxes**, weights/reps where available, watch timer instruction for every block, and a **Complete Workout** control at the bottom. Use inline countdowns only as optional aids; the watch is the preferred reliable timer. Ensure the full planned duration includes warm-up, exercises, rest, transitions and cool-down.
 - Choose wrist-friendly pressing and upper-body exercises; avoid painful wrist extension. Do not prescribe plate-held movements without checking secure grip and tolerability.
+- Include a clear demonstration image for **every exercise**, preferably a reliable technique illustration/photo, and an expandable **How to do it** section with setup, movement steps, target muscles, common mistakes, and any wrist/neck/back modifications. Keep instructions accessible without overwhelming the active workout checklist. If a reliable image cannot be shown, disclose this and provide the written technique rather than inventing a depiction.
 - Include progression and regression options.
 
 ## 5. Log immediately and check recovery later
