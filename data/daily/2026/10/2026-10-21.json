@@ -75,12 +75,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Pre-pickleball snack. Yoghurt nutrition estimated pending product panel; frozen berry blend unspecified. No banana, peanut butter or honey included."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Salmon rice bowl with avocado, vegetables, edamame, sushi ginger and Kewpie mayo",
+        "quantity": "133 g cooked rice (assumed), 106 g salmon skin on, 40 g avocado, 38 g capsicum, 24 g carrot, 20 g edamame beans (assumed), 4 g sushi ginger, 16 g Kewpie mayo",
+        "calories_kcal": 614,
+        "protein_g": 28.8,
+        "carbs_g": 49.8,
+        "fat_g": 32.5,
+        "fiber_g": 5.3,
+        "sugar_g": 5.2,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Salmon assumed cooked edible portion including skin; rice assumed cooked; edamame assumed 20 g, not 20 individual beans. Standard estimates, Kewpie mayo brand assumed; adjust if rice was weighed dry or edamame meant 20 beans."
       }
     ],
-    "total_calories_kcal": 1461,
-    "total_protein_g": 98.8,
-    "total_carbs_g": 166.2,
-    "total_fat_g": 47.6,
+    "total_calories_kcal": 2075,
+    "total_protein_g": 127.6,
+    "total_carbs_g": 216,
+    "total_fat_g": 80.1,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -90,8 +105,8 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 689,
-    "protein_variance_g": 51.2
+    "calorie_variance_kcal": 75,
+    "protein_variance_g": 22.4
   },
   "wellbeing": {
     "post_lunch": {
