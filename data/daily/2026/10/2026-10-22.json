@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-22",
+  "nutrition": {
+    "entries": [],
+    "total_calories_kcal": 0,
+    "total_protein_g": 0,
+    "total_carbs_g": 0,
+    "total_fat_g": 0,
+    "total_fiber_g": 0,
+    "total_sugar_g": 0,
+    "total_added_sugar_g": 0,
+    "water_ml": 2250,
+    "hydration_entries": [
+      {
+        "quantity_ml": 750,
+        "drink": "Water with Hydralyte and creatine",
+        "time_of_day": "morning",
+        "notes": "Standard 750 mL bottle; Hydralyte and creatine serving quantities unspecified; supplement calories not yet included."
+      },
+      {
+        "quantity_ml": 1500,
+        "drink": "Water",
+        "quantity": "2 standard 750 mL bottles",
+        "time_of_day": "morning"
+      }
+    ]
+  },
+  "exercise": [],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150
+  },
+  "wellbeing": {
+    "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
+    "notes": "Walking on under-desk treadmill while working; duration, steps and workout calories not yet provided."
+  }
+}
