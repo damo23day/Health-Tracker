@@ -6,7 +6,7 @@
         "type": "meal",
         "meal": "breakfast",
         "name": "Banana protein smoothie with fresh Farmdale full-cream milk",
-        "quantity": "100 g banana, 150 mL fresh Farmdale full-cream milk, 1 scoop vanilla whey protein, 15 g rolled oats, ice/water as needed (recipe amounts assumed)",
+        "quantity": "100 g banana (assumed), 150 mL fresh Farmdale full-cream milk (assumed), 1 scoop vanilla whey protein (confirmed), 15 g rolled oats (confirmed), ice/water as needed",
         "calories_kcal": 365,
         "protein_g": 33,
         "carbs_g": 44.5,
@@ -15,7 +15,7 @@
         "sugar_g": 20.1,
         "added_sugar_g": null,
         "estimated": true,
-        "notes": "Logged from previously proposed smoothie recipe; user confirmed fresh full-cream Farmdale milk instead of almond milk, not UHT/long-life. Actual ingredient weights and whether oats/protein powder were included not yet confirmed. All nutrient figures provisional."
+        "notes": "User confirmed both one scoop vanilla protein powder and 15 g rolled oats were included. Fresh Farmdale full-cream milk (not long-life) confirmed. Banana and milk amounts remain based on proposed recipe unless weighed quantities are provided."
       }
     ],
     "total_calories_kcal": 365,
