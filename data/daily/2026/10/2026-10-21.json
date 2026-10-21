@@ -45,14 +45,29 @@
         "added_sugar_g": 0,
         "estimated": true,
         "notes": "Estimated using 135 g edible weight per large banana; naturally occurring fruit sugar, no added sugar."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Man Shake with mixed fruit, oats, almond milk and Greek style yoghurt",
+        "quantity": "1 standard Man Shake serving (assumed), 80 g frozen mixed fruit, 25 g rolled oats, 120 mL almond milk, 50 g Lyttos Greek Style natural yoghurt",
+        "calories_kcal": 444,
+        "protein_g": 37,
+        "carbs_g": 47.5,
+        "fat_g": 13.6,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Man Shake estimated at 200 kcal and 30 g protein for a standard serving; exact powder quantity/flavour and nutrition label not supplied. Fruit mix unspecified. Lyttos yoghurt label 128 kcal, 4.9 g protein, 9.7 g fat, 5.5 g carbs, 4.5 g sugar per 100 g. Carbs and fat estimated; fibre and sugar unknown until shake powder and fruit nutrition confirmed."
       }
     ],
-    "total_calories_kcal": 797,
-    "total_protein_g": 53.8,
-    "total_carbs_g": 99.7,
-    "total_fat_g": 22,
-    "total_fiber_g": 19.4,
-    "total_sugar_g": 35.4,
+    "total_calories_kcal": 1241,
+    "total_protein_g": 90.8,
+    "total_carbs_g": 147.2,
+    "total_fat_g": 35.6,
+    "total_fiber_g": null,
+    "total_sugar_g": null,
     "total_added_sugar_g": null,
     "water_ml": null
   },
@@ -60,7 +75,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1353,
-    "protein_variance_g": 96.2
+    "calorie_variance_kcal": 909,
+    "protein_variance_g": 59.2
   }
 }
