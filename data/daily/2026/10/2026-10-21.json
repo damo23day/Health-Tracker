@@ -77,5 +77,13 @@
     "protein_target_g": 150,
     "calorie_variance_kcal": 909,
     "protein_variance_g": 59.2
+  },
+  "wellbeing": {
+    "post_lunch": {
+      "meal": "Man Shake with mixed fruit, oats, almond milk and Greek style yoghurt",
+      "satiety": "Felt full; enjoyed shake",
+      "energy": "Getting pretty tired after shake",
+      "notes": "Timing and cause of fatigue not established; consider sleep, prior hard RPM session, hydration, normal afternoon slump."
+    }
   }
 }
