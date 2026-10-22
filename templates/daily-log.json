@@ -32,6 +32,14 @@
   "exercise": [],
   "activity": {
     "steps": null,
+    "step_goal": 10000,
+    "goal_achieved": null,
+    "active_minutes": null,
+    "activity_calories_kcal": null,
+    "total_burned_kcal": null,
+    "distance_km": null,
+    "source": "Samsung Health",
+    "partial_day": null,
     "notes": null
   },
   "wellbeing": {
