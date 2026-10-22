@@ -61,12 +61,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "One scoop of vanilla protein powder assumed, not explicitly weighed. Banana treated as separate from earlier logged large banana; confirm to avoid double-counting. Fresh full-cream milk assumed consistent with morning smoothie."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Lamb chops with carrot, broccoli, potatoes and corn",
+        "quantity": "380 g lamb chops less 125 g bones = 255 g edible lamb; 230 g combined carrot, broccoli and potatoes; 120 g corn",
+        "calories_kcal": 945,
+        "protein_g": 74,
+        "carbs_g": 55,
+        "fat_g": 48,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Estimated 255 g cooked edible lamb, including eaten fat, from user-reported chop and bone weights. Assumes cooked weight and all edible portion eaten. Cut/fat level and cooking method not specified; no added cooking oil, butter or sauce included. Mixed vegetable ratios unspecified."
       }
     ],
-    "total_calories_kcal": 1209,
-    "total_protein_g": 90.5,
-    "total_carbs_g": 148.5,
-    "total_fat_g": 35.099999999999994,
+    "total_calories_kcal": 2154,
+    "total_protein_g": 164.5,
+    "total_carbs_g": 203.5,
+    "total_fat_g": 83.1,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -96,8 +111,8 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 941,
-    "protein_variance_g": 59.5
+    "calorie_variance_kcal": -4,
+    "protein_variance_g": -14.5
   },
   "wellbeing": {
     "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
