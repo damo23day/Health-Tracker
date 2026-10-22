@@ -31,12 +31,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Salad leaf mix 20 g excluded from consumed totals pending confirmation: package use-by date 2026-10-21, advised not to eat on 2026-10-22. Add approximately 4 kcal if user confirms consumed. Egg cooking oil not included. Homemade waffle macros approximate; ingredients were confirmed as plated, not explicitly confirmed eaten."
+      },
+      {
+        "type": "snack",
+        "meal": "afternoon snack",
+        "name": "Large banana",
+        "quantity": "1 large banana (estimated 136 g edible portion)",
+        "calories_kcal": 120,
+        "protein_g": 1.5,
+        "carbs_g": 31,
+        "fat_g": 0.4,
+        "fiber_g": 3.5,
+        "sugar_g": 16.6,
+        "added_sugar_g": 0,
+        "estimated": true,
+        "notes": "Estimated standard large banana; actual weight not provided. Not part of proposed smoothie."
       }
     ],
-    "total_calories_kcal": 760,
-    "total_protein_g": 58,
-    "total_carbs_g": 78.5,
-    "total_fat_g": 26.5,
+    "total_calories_kcal": 880,
+    "total_protein_g": 59.5,
+    "total_carbs_g": 109.5,
+    "total_fat_g": 26.9,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -60,8 +75,8 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1390,
-    "protein_variance_g": 92
+    "calorie_variance_kcal": 1270,
+    "protein_variance_g": 90.5
   },
   "wellbeing": {
     "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
