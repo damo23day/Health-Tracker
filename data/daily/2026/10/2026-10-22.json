@@ -16,14 +16,29 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "User confirmed both one scoop vanilla protein powder and 15 g rolled oats were included. Fresh Farmdale full-cream milk (not long-life) confirmed. Banana and milk amounts remain based on proposed recipe unless weighed quantities are provided."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Sweet potato waffle with eggs, ham, avocado, baked beans and mini Roma tomatoes",
+        "quantity": "52 g homemade sweet potato waffle, 100 g eggs, 24 g ham, 30 g avocado, 80 g Corale baked beans, 68 g mini Roma tomatoes; 20 g salad leaf mix mentioned separately",
+        "calories_kcal": 395,
+        "protein_g": 25,
+        "carbs_g": 34,
+        "fat_g": 18,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Salad leaf mix 20 g excluded from consumed totals pending confirmation: package use-by date 2026-10-21, advised not to eat on 2026-10-22. Add approximately 4 kcal if user confirms consumed. Egg cooking oil not included. Homemade waffle macros approximate; ingredients were confirmed as plated, not explicitly confirmed eaten."
       }
     ],
-    "total_calories_kcal": 365,
-    "total_protein_g": 33,
-    "total_carbs_g": 44.5,
-    "total_fat_g": 8.5,
-    "total_fiber_g": 4.2,
-    "total_sugar_g": 20.1,
+    "total_calories_kcal": 760,
+    "total_protein_g": 58,
+    "total_carbs_g": 78.5,
+    "total_fat_g": 26.5,
+    "total_fiber_g": null,
+    "total_sugar_g": null,
     "total_added_sugar_g": null,
     "water_ml": 2250,
     "hydration_entries": [
@@ -45,8 +60,8 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1785,
-    "protein_variance_g": 117
+    "calorie_variance_kcal": 1390,
+    "protein_variance_g": 92
   },
   "wellbeing": {
     "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
