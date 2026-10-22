@@ -22,7 +22,7 @@
     "fat_control_kg": -15.4,
     "muscle_control_kg": 0,
     "source": "Body fat scale screenshots supplied 2026-10-23",
-    "notes": "Scale comparison to 2026-10-20: weight -2.35 kg, BMI -0.7, body fat -0.4 percentage points. Rapid change likely includes hydration/glycogen/gut contents; BIA composition estimates and proprietary categories not diagnostic. Keep nutrition target unchanged pending trend."
+    "notes": "Scale comparison to 2026-10-20: weight -2.35 kg, BMI -0.7, body fat -0.4 percentage points. Rapid change likely includes hydration/glycogen/gut contents; BIA composition estimates and proprietary categories not diagnostic. Keep nutrition target unchanged pending trend. User confirmed measurement was neither after using toilet nor before food/drink; measurement conditions not standardised and comparisons should be treated cautiously."
   },
   "nutrition": {
     "entries": [],
