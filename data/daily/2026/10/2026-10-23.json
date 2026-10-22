@@ -25,14 +25,30 @@
     "notes": "Scale comparison to 2026-10-20: weight -2.35 kg, BMI -0.7, body fat -0.4 percentage points. Rapid change likely includes hydration/glycogen/gut contents; BIA composition estimates and proprietary categories not diagnostic. Keep nutrition target unchanged pending trend. User confirmed measurement was neither after using toilet nor before food/drink; measurement conditions not standardised and comparisons should be treated cautiously."
   },
   "nutrition": {
-    "entries": [],
-    "total_calories_kcal": 0,
-    "total_protein_g": 0,
-    "total_carbs_g": 0,
-    "total_fat_g": 0,
-    "total_fiber_g": 0,
-    "total_sugar_g": 0,
-    "total_added_sugar_g": 0,
+    "entries": [
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Pancakes with sweet yoghurt and frozen berries",
+        "quantity": "115 g pancakes, 40 g sweet yoghurt, 28 g frozen berries",
+        "calories_kcal": 337,
+        "protein_g": 9.3,
+        "carbs_g": 48,
+        "fat_g": 12,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Pancake recipe unspecified; standard prepared pancakes assumed. Sweet yoghurt estimated as sweetened Greek-style yoghurt; confirm brand/recipe for precision."
+      }
+    ],
+    "total_calories_kcal": 337,
+    "total_protein_g": 9.3,
+    "total_carbs_g": 48,
+    "total_fat_g": 12,
+    "total_fiber_g": null,
+    "total_sugar_g": null,
+    "total_added_sugar_g": null,
     "water_ml": 0,
     "hydration_entries": []
   },
@@ -40,7 +56,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 2150,
-    "protein_variance_g": 150
+    "calorie_variance_kcal": 1813,
+    "protein_variance_g": 140.7
   }
 }
