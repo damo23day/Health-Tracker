@@ -91,9 +91,24 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Calories estimated from alcohol content and typical XPA carbohydrates; approximately 1.3 Australian standard drinks. Not included in water intake."
+      },
+      {
+        "type": "drink",
+        "meal": "evening",
+        "name": "Beer (second can, assumed Stockade Brew Co Splicer XPA)",
+        "quantity": "1 can assumed 375 mL at 4.4% ABV",
+        "calories_kcal": 145,
+        "protein_g": 0,
+        "carbs_g": null,
+        "fat_g": 0,
+        "fiber_g": 0,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "User reported another beer; brand/size assumed same as earlier Splicer XPA pending confirmation. Estimated 1.3 Australian standard drinks."
       }
     ],
-    "total_calories_kcal": 2299,
+    "total_calories_kcal": 2444,
     "total_protein_g": 164.5,
     "total_carbs_g": null,
     "total_fat_g": 83.1,
@@ -126,12 +141,12 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": -149,
+    "calorie_variance_kcal": -294,
     "protein_variance_g": -14.5
   },
   "wellbeing": {
     "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
-    "notes": "Walking on under-desk treadmill while working; duration, steps and workout calories not yet provided."
+    "notes": "Walking on under-desk treadmill while working; duration, steps and workout calories not yet provided. After second beer in evening, familiar mild headache/neck-spine ache began; user suspects alcohol trigger after a period of little/no drinking. Causation not established; monitor and avoid further alcohol tonight."
   },
   "recipe_feedback": [
     {
