@@ -59,5 +59,17 @@
       "feedback": "Really nice; user quite liked it.",
       "next_time": "Keep as a preferred smoothie option; confirmed vanilla protein powder and 15 g oats, with fresh full-cream milk."
     }
-  ]
+  ],
+  "activity": {
+    "steps": 12464,
+    "active_minutes": 111,
+    "activity_calories_kcal": 805,
+    "total_burned_kcal": 1602,
+    "distance_km": 10.04,
+    "step_goal": 10000,
+    "source": "Samsung Health",
+    "recorded_at_local": "11:45",
+    "partial_day": true,
+    "notes": "Under-desk walking treadmill. Two auto-detected walks 42:46 (4.27 km) and 30:02 (3.41 km). Distances require validation against treadmill. Do not double-count activity calories with exercise."
+  }
 }
