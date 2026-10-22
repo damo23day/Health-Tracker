@@ -67,7 +67,33 @@
     "water_ml": 0,
     "hydration_entries": []
   },
-  "exercise": [],
+  "exercise": [
+    {
+      "type": "Group Cycle / Summit",
+      "duration": "44:01",
+      "distance_km": 20.2,
+      "calories_reported": 561,
+      "moves": 1016,
+      "average_power_w": 185,
+      "average_cadence_rpm": 80,
+      "source": "Group Cycle Connect screenshots",
+      "heart_rate": {
+        "source": "Samsung Health / Galaxy Watch3",
+        "recorded_duration": "1:02:57",
+        "recorded_calories_kcal": 596,
+        "average_bpm": 130,
+        "max_bpm": 175,
+        "notes": "Watch was not stopped promptly; recording continued well beyond cycling workout. Average HR and calories cover extended period, not comparable to cycling app workout. Graph includes apparent sensor dropouts."
+      },
+      "post_workout_feedback": {
+        "starting_energy": "Lethargic, sore/achy on waking",
+        "focus": "Distracted by checking emails during roughly first 15 minutes; then became focused and worked hard",
+        "perceived_effort": "Strong effort after slow start",
+        "recovery_context": "First light weights workout recently, high treadmill step count yesterday, possible cumulative fatigue. Beer last night and headache discussed as possible multifactorial contributors, not established causation."
+      },
+      "notes": "Summit, not RPM. App recorded 44:01, user estimates actual focused workout about 40 minutes; retain 44:01 as measured app duration. Do not add watch and machine calories together."
+    }
+  ],
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
