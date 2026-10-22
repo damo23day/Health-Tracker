@@ -70,7 +70,7 @@
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
-    "water_ml": 2250,
+    "water_ml": 3750,
     "hydration_entries": [
       {
         "quantity_ml": 750,
@@ -83,6 +83,12 @@
         "drink": "Water",
         "quantity": "2 standard 750 mL bottles",
         "time_of_day": "morning"
+      },
+      {
+        "quantity_ml": 1500,
+        "drink": "Water",
+        "quantity": "2 standard 750 mL bottles",
+        "time_of_day": "later in day"
       }
     ]
   },
