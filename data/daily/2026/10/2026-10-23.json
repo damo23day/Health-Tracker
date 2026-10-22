@@ -40,12 +40,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Pancake recipe supplied via screenshot (1x batch): 2 cups plain flour, 4 tbsp sugar, 4 tsp baking powder, 1/4 tsp baking soda, 1/2 tsp salt, 1 3/4 cups milk, 4 tbsp melted unsalted butter, 2 tsp vanilla extract, 1 large egg. Full batch estimated ~2200-2300 kcal; 115 g cooked pancakes estimated ~270 kcal. Yoghurt type/brand and total cooked batch yield unconfirmed; maple syrup not yet confirmed or logged."
+      },
+      {
+        "type": "drink",
+        "meal": "morning",
+        "name": "Protein coffee",
+        "quantity": "1 espresso, 150 mL full-cream milk, 1 scoop whey protein (usual recipe assumed)",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "carbs_g": 10,
+        "fat_g": 6.5,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Usual protein coffee recipe assumed; confirm milk and powder amounts if different. Pancake breakfast already logged, not duplicated. Maple syrup not confirmed or logged."
       }
     ],
-    "total_calories_kcal": 347,
-    "total_protein_g": 9.3,
-    "total_carbs_g": 49,
-    "total_fat_g": 12.5,
+    "total_calories_kcal": 557,
+    "total_protein_g": 38.3,
+    "total_carbs_g": 59,
+    "total_fat_g": 19,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -56,7 +71,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1803,
-    "protein_variance_g": 140.7
+    "calorie_variance_kcal": 1593,
+    "protein_variance_g": 111.7
   }
 }
