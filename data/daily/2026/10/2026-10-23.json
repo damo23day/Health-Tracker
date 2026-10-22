@@ -29,23 +29,23 @@
       {
         "type": "meal",
         "meal": "breakfast",
-        "name": "Pancakes with sweet yoghurt and frozen berries",
+        "name": "Homemade fluffy pancakes with sweet yoghurt and frozen berries",
         "quantity": "115 g pancakes, 40 g sweet yoghurt, 28 g frozen berries",
-        "calories_kcal": 337,
+        "calories_kcal": 347,
         "protein_g": 9.3,
-        "carbs_g": 48,
-        "fat_g": 12,
+        "carbs_g": 49,
+        "fat_g": 12.5,
         "fiber_g": null,
         "sugar_g": null,
         "added_sugar_g": null,
         "estimated": true,
-        "notes": "Pancake recipe unspecified; standard prepared pancakes assumed. Sweet yoghurt estimated as sweetened Greek-style yoghurt; confirm brand/recipe for precision."
+        "notes": "Pancake recipe supplied via screenshot (1x batch): 2 cups plain flour, 4 tbsp sugar, 4 tsp baking powder, 1/4 tsp baking soda, 1/2 tsp salt, 1 3/4 cups milk, 4 tbsp melted unsalted butter, 2 tsp vanilla extract, 1 large egg. Full batch estimated ~2200-2300 kcal; 115 g cooked pancakes estimated ~270 kcal. Yoghurt type/brand and total cooked batch yield unconfirmed; maple syrup not yet confirmed or logged."
       }
     ],
-    "total_calories_kcal": 337,
+    "total_calories_kcal": 347,
     "total_protein_g": 9.3,
-    "total_carbs_g": 48,
-    "total_fat_g": 12,
+    "total_carbs_g": 49,
+    "total_fat_g": 12.5,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -56,7 +56,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1813,
+    "calorie_variance_kcal": 1803,
     "protein_variance_g": 140.7
   }
 }
