@@ -46,12 +46,27 @@
         "added_sugar_g": 0,
         "estimated": true,
         "notes": "Estimated standard large banana; actual weight not provided. Not part of proposed smoothie."
+      },
+      {
+        "type": "snack",
+        "meal": "afternoon snack",
+        "name": "Frozen banana and mixed berry vanilla protein smoothie",
+        "quantity": "74 g frozen banana, 96 g frozen mixed berries, 152 mL fresh full-cream milk, vanilla protein powder (assumed 1 scoop), ice and water",
+        "calories_kcal": 329,
+        "protein_g": 31,
+        "carbs_g": 39,
+        "fat_g": 8.2,
+        "fiber_g": 5,
+        "sugar_g": 26,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "One scoop of vanilla protein powder assumed, not explicitly weighed. Banana treated as separate from earlier logged large banana; confirm to avoid double-counting. Fresh full-cream milk assumed consistent with morning smoothie."
       }
     ],
-    "total_calories_kcal": 880,
-    "total_protein_g": 59.5,
-    "total_carbs_g": 109.5,
-    "total_fat_g": 26.9,
+    "total_calories_kcal": 1209,
+    "total_protein_g": 90.5,
+    "total_carbs_g": 148.5,
+    "total_fat_g": 35.099999999999994,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -75,8 +90,8 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1270,
-    "protein_variance_g": 90.5
+    "calorie_variance_kcal": 941,
+    "protein_variance_g": 59.5
   },
   "wellbeing": {
     "hunger": "Not very hungry in the morning; comfortable waiting until lunch",
