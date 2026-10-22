@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-23",
+  "body_composition": {
+    "weight_kg": 94.25,
+    "bmi": 29.1,
+    "body_fat_percent": 28.9,
+    "body_water_percent": 49.8,
+    "skeletal_muscle_percent": 44.6,
+    "bone_percent": 3.7,
+    "protein_percent": 17.6,
+    "muscle_percent": 67.4,
+    "muscle_reserve_capacity": 2,
+    "visceral_fat_index": 13,
+    "subcutaneous_fat_kg": 24.5,
+    "lean_body_mass_kg": 67,
+    "body_age": 45,
+    "body_score": 67,
+    "bmr_kcal": 2002,
+    "amr_kcal": 3083,
+    "standard_weight_kg": 78.9,
+    "weight_control_kg": -15.4,
+    "fat_control_kg": -15.4,
+    "muscle_control_kg": 0,
+    "source": "Body fat scale screenshots supplied 2026-10-23",
+    "notes": "Scale comparison to 2026-10-20: weight -2.35 kg, BMI -0.7, body fat -0.4 percentage points. Rapid change likely includes hydration/glycogen/gut contents; BIA composition estimates and proprietary categories not diagnostic. Keep nutrition target unchanged pending trend."
+  },
+  "nutrition": {
+    "entries": [],
+    "total_calories_kcal": 0,
+    "total_protein_g": 0,
+    "total_carbs_g": 0,
+    "total_fat_g": 0,
+    "total_fiber_g": 0,
+    "total_sugar_g": 0,
+    "total_added_sugar_g": 0,
+    "water_ml": 0,
+    "hydration_entries": []
+  },
+  "exercise": [],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 2150,
+    "protein_variance_g": 150
+  }
+}
