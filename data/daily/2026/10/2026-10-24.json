@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-24",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "meal": "breakfast",
+        "name": "Banana protein smoothie with double oats",
+        "quantity": "100 g banana, 1 scoop vanilla protein powder, 150 mL full-cream milk, 30 g rolled oats, 100–150 mL water and ice",
+        "calories_kcal": 422,
+        "protein_g": 34,
+        "carbs_g": 53,
+        "fat_g": 9,
+        "fiber_g": 5,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "User requested logging after confirming rolled oats doubled from 15 g to 30 g. Other ingredients assumed as suggested, not independently weighed."
+      }
+    ],
+    "total_calories_kcal": 422,
+    "total_protein_g": 34,
+    "total_carbs_g": 53,
+    "total_fat_g": 9,
+    "total_fiber_g": 5,
+    "total_sugar_g": null,
+    "total_added_sugar_g": null,
+    "water_ml": 0,
+    "hydration_entries": []
+  },
+  "exercise": [],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1728,
+    "protein_variance_g": 116
+  }
+}
