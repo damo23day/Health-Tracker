@@ -85,9 +85,24 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "User confirmed eating all ingredients in proposed lunch, replacing suggested wholemeal wrap with usual Baker's Life large white wrap. Exact wrap label/weight and choice of yoghurt vs light dressing not verified; estimated wrap ~210 kcal. Adjust if standard food reference found."
+      },
+      {
+        "type": "drink",
+        "meal": "lunch",
+        "name": "Pepsi Max can",
+        "quantity": "1 standard 375 mL can",
+        "calories_kcal": 1,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0,
+        "fiber_g": 0,
+        "sugar_g": 0,
+        "added_sugar_g": 0,
+        "estimated": true,
+        "notes": "Consumed with chicken avocado wrap. Standard Australian can size assumed 375 mL; negligible energy rounded to 1 kcal."
       }
     ],
-    "total_calories_kcal": 1349,
+    "total_calories_kcal": 1350,
     "total_protein_g": 112.3,
     "total_carbs_g": 144,
     "total_fat_g": 37.5,
@@ -128,7 +143,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 801,
+    "calorie_variance_kcal": 800,
     "protein_variance_g": 37.7
   }
 }
