@@ -55,12 +55,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Usual protein coffee recipe assumed; confirm milk and powder amounts if different. Pancake breakfast already logged, not duplicated. Maple syrup not confirmed or logged."
+      },
+      {
+        "type": "drink",
+        "meal": "post-workout snack",
+        "name": "Post-Summit banana berry oat protein smoothie",
+        "quantity": "1 scoop vanilla protein powder, 60 g frozen banana, 100 g frozen mixed berries, 50 mL full-cream milk, 15 g rolled oats, ice and water",
+        "calories_kcal": 312,
+        "protein_g": 29,
+        "carbs_g": 40,
+        "fat_g": 5.5,
+        "fiber_g": 6,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "User confirmed shake consumed about an hour before message, using all previously suggested ingredients. Amounts based on suggested recipe rather than individually weighed confirmation."
       }
     ],
-    "total_calories_kcal": 557,
-    "total_protein_g": 38.3,
-    "total_carbs_g": 59,
-    "total_fat_g": 19,
+    "total_calories_kcal": 869,
+    "total_protein_g": 67.3,
+    "total_carbs_g": 99,
+    "total_fat_g": 24.5,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -98,7 +113,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1593,
-    "protein_variance_g": 111.7
+    "calorie_variance_kcal": 1281,
+    "protein_variance_g": 82.7
   }
 }
