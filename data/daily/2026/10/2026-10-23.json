@@ -70,12 +70,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "User confirmed shake consumed about an hour before message, using all previously suggested ingredients. Amounts based on suggested recipe rather than individually weighed confirmation."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chicken and avocado wrap with Baker's Life large white wrap",
+        "quantity": "1 Baker's Life Large White Soft & Flexible Wrap (weight not confirmed), 120 g cooked chicken breast, 30 g avocado, 70 g tomato, 30 g lettuce/salad, 20 g Greek yoghurt or light dressing",
+        "calories_kcal": 480,
+        "protein_g": 45,
+        "carbs_g": 45,
+        "fat_g": 13,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "User confirmed eating all ingredients in proposed lunch, replacing suggested wholemeal wrap with usual Baker's Life large white wrap. Exact wrap label/weight and choice of yoghurt vs light dressing not verified; estimated wrap ~210 kcal. Adjust if standard food reference found."
       }
     ],
-    "total_calories_kcal": 869,
-    "total_protein_g": 67.3,
-    "total_carbs_g": 99,
-    "total_fat_g": 24.5,
+    "total_calories_kcal": 1349,
+    "total_protein_g": 112.3,
+    "total_carbs_g": 144,
+    "total_fat_g": 37.5,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -113,7 +128,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1281,
-    "protein_variance_g": 82.7
+    "calorie_variance_kcal": 801,
+    "protein_variance_g": 37.7
   }
 }
