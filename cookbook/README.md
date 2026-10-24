@@ -80,3 +80,5 @@ The pistachio lava cake and edible cookie dough are energy-dense despite their p
 Each actual cook gets a numbered session in `logs/<recipe-id>.md`, recording ingredients actually used, ratings, cooking time, results and changes to test. The recipe file shows the **current version**, with prior versions and sessions retained. Proposed changes are marked **untested** until cooked.
 
 - [Sweet Potato Waffles — current v2 (proposed)](breakfast/sweet-potato-avocado-egg-waffles.md) · [Session 001 and feedback](logs/sweet-potato-avocado-egg-waffles.md)
+
+- [Homemade High-Protein Vanilla Bean Custard](dessert/high-protein-vanilla-bean-custard.md) — 2 servings; ~150 kcal and ~22 g protein each (provisional); 10–15 min hands-on plus chilling; **to try**.
