@@ -16,13 +16,29 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "User requested logging after confirming rolled oats doubled from 15 g to 30 g. Other ingredients assumed as suggested, not independently weighed."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Chicken sushi pack (220 g)",
+        "quantity": "1 pack, 220 g",
+        "calories_kcal": 455,
+        "protein_g": 12.8,
+        "carbs_g": 61.4,
+        "fat_g": 16.1,
+        "fiber_g": null,
+        "sugar_g": 5.1,
+        "added_sugar_g": null,
+        "sodium_mg": 790,
+        "estimated": false,
+        "notes": "User supplied product label. Per pack: 1905 kJ (~455 kcal), protein 12.8 g, fat 16.1 g, carbohydrate 61.4 g, sugars 5.1 g, sodium 790 mg. Assumed entire pack consumed based on request to add to GitHub; product appears chicken schnitzel sushi with avocado and mayonnaise."
       }
     ],
-    "total_calories_kcal": 422,
-    "total_protein_g": 34,
-    "total_carbs_g": 53,
-    "total_fat_g": 9,
-    "total_fiber_g": 5,
+    "total_calories_kcal": 877,
+    "total_protein_g": 46.8,
+    "total_carbs_g": 114.4,
+    "total_fat_g": 25.1,
+    "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
     "water_ml": 0,
@@ -32,7 +48,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1728,
-    "protein_variance_g": 116
+    "calorie_variance_kcal": 1273,
+    "protein_variance_g": 103.2
   }
 }
