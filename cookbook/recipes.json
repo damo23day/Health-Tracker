@@ -884,6 +884,73 @@
       "history_path": null,
       "last_cooked_at": null,
       "cook_count": 0
+    },
+    {
+      "id": "high-protein-vanilla-bean-custard",
+      "name": "Homemade High-Protein Vanilla Bean Custard",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/high-protein-vanilla-bean-custard.md",
+      "servings": 2,
+      "total_minutes": 135,
+      "active_minutes": 12,
+      "difficulty": 2,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "skim milk",
+        "vanilla protein powder",
+        "cornflour",
+        "vanilla extract"
+      ],
+      "optional_ingredients": [
+        "sweetener",
+        "salt"
+      ],
+      "substitutions": [
+        {
+          "from": "vanilla extract",
+          "to": "vanilla bean paste",
+          "note": "Check sweetness and nutrition"
+        },
+        {
+          "from": "skim milk",
+          "to": "full-cream milk (partial replacement)",
+          "note": "Richer texture; higher calories"
+        }
+      ],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 150,
+        "protein_g": 22,
+        "carbohydrate_g": 12,
+        "fat_g": 2,
+        "estimated": true,
+        "note": "Provisional per serving; depends on powder and milk labels."
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "requires_prep": [
+        "1–2 hours refrigeration to chill and set"
+      ],
+      "notes": "Inspired by Wicked Sister high-protein vanilla custard; homemade recipe is untested. Heating whey may affect texture.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     }
   ]
 }
