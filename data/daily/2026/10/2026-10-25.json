@@ -8,12 +8,32 @@
         "calories_kcal": 422,
         "protein_g": 34,
         "estimated": true
+      },
+      {
+        "meal": "Breakfast",
+        "description": "182 g omelette with 2 eggs, ham and cheese",
+        "calories_kcal": 350,
+        "protein_g": 25,
+        "estimated": true
+      },
+      {
+        "meal": "Morning drinks",
+        "description": "Two standard coffees with milk",
+        "calories_kcal": 130,
+        "protein_g": 7,
+        "estimated": true
       }
     ],
-    "total_calories_kcal": 422,
-    "total_protein_g": 34,
-    "water_ml": 0,
-    "hydration_entries": []
+    "total_calories_kcal": 902,
+    "total_protein_g": 66,
+    "water_ml": 375,
+    "hydration_entries": [
+      {
+        "description": "Half of 750 mL water bottle with Hydralyte and creatine",
+        "water_ml": 375,
+        "estimated": true
+      }
+    ]
   },
   "exercise": [
     {
@@ -50,7 +70,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1728,
-    "protein_variance_g": 116
+    "calorie_variance_kcal": 1248,
+    "protein_variance_g": 84
   }
 }
