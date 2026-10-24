@@ -175,6 +175,27 @@
         "user_feedback": "Started flat, then something clicked and I wanted to smash myself and work as hard as I could.",
         "note": "High effort reflects user report, not a physiological maximum; remind that recovery and lighter days do not undo progress."
       }
+    },
+    {
+      "date": "2026-10-25",
+      "workout_type": "Group Cycle / RPM",
+      "instructor": "Cindy",
+      "duration": "49:53",
+      "distance_km": 23.1,
+      "calories_reported": 656,
+      "moves": 1189,
+      "average_power_w": 196,
+      "max_power_w": 406,
+      "average_cadence_rpm": 77,
+      "source": "Group Cycle Connect and Samsung Health / Galaxy Watch3 screenshots",
+      "heart_rate": {
+        "source": "Samsung Health / Galaxy Watch3",
+        "duration": "43:24",
+        "calories_reported": 499,
+        "average_bpm": 152,
+        "max_bpm": 178
+      },
+      "notes": "Sunday RPM with Cindy. Machine 49:53, 23.1 km, 656 kcal, 1189 MOVEs, 196 W average, 406 W max, 77 rpm average cadence. Watch 43:24, 499 kcal, 152 bpm avg and 178 bpm max; brief apparent optical HR dropouts. Keep device calorie estimates separate; do not sum. Subjective workout feedback not yet supplied."
     }
   ]
 }
