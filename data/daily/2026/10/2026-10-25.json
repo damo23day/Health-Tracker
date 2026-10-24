@@ -27,7 +27,16 @@
         "average_bpm": 152,
         "max_bpm": 178
       },
-      "notes": "Sunday RPM with Cindy. Machine 49:53, 23.1 km, 656 kcal, 1189 MOVEs, 196 W average, 406 W max, 77 rpm average cadence. Watch 43:24, 499 kcal, 152 bpm avg and 178 bpm max; brief apparent optical HR dropouts. Keep device calorie estimates separate; do not sum. Subjective workout feedback not yet supplied."
+      "notes": "Sunday RPM with Cindy. Machine 49:53, 23.1 km, 656 kcal, 1189 MOVEs, 196 W average, 406 W max, 77 rpm average cadence. Watch 43:24, 499 kcal, 152 bpm avg and 178 bpm max; brief apparent optical HR dropouts. Keep device calorie estimates separate; do not sum. Subjective workout feedback not yet supplied.",
+      "post_workout_feedback": {
+        "starting_energy": "Moderate-low; fatigued",
+        "perceived_effort": "Very hard; sustained grind",
+        "physical_strength": "Felt strong and capable despite fatigue",
+        "mental_effort": "High; consciously pushed through difficult effort",
+        "enjoyment": "Good and satisfying despite difficulty",
+        "user_feedback": "I was fatigued and working hard and knew I had to push, but I felt strong. I felt like my base fitness could get me through even though I wasn't on top of the workout. It was a real grind, felt good, but was really hard.",
+        "interpretation": "User perceives improving base fitness; single workout cannot establish trend."
+      }
     }
   ],
   "daily_summary": {
