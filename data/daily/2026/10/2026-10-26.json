@@ -20,7 +20,7 @@
       {
         "type": "drink",
         "meal": "morning tea",
-        "name": "Provincial large coffee",
+        "name": "Provincial large cappuccino",
         "quantity": "1 large coffee",
         "calories_kcal": 160,
         "protein_g": 8,
@@ -30,7 +30,7 @@
         "sugar_g": null,
         "added_sugar_g": null,
         "estimated": true,
-        "notes": "Assumed large milk-based coffee with full-cream milk and no added sugar; exact coffee type and milk not specified."
+        "notes": "Large cappuccino; estimated with full-cream milk, no added sugar. Size and exact milk volume unknown."
       }
     ],
     "total_calories_kcal": 525,
