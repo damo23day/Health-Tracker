@@ -22,10 +22,18 @@
         "calories_kcal": 130,
         "protein_g": 7,
         "estimated": true
+      },
+      {
+        "meal": "Lunch",
+        "description": "103 g white bread roll with 157 g crumbed chicken (cooking method, sauces and spreads unconfirmed)",
+        "calories_kcal": 665,
+        "protein_g": 38,
+        "estimated": true,
+        "notes": "Bread roll estimated 275 kcal, 9 g protein; crumbed chicken estimated 390 kcal, 29 g protein. Chicken cooked weight assumed; preparation method unknown."
       }
     ],
-    "total_calories_kcal": 902,
-    "total_protein_g": 66,
+    "total_calories_kcal": 1567,
+    "total_protein_g": 104,
     "water_ml": 375,
     "hydration_entries": [
       {
@@ -70,7 +78,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1248,
-    "protein_variance_g": 84
+    "calorie_variance_kcal": 583,
+    "protein_variance_g": 46
   }
 }
