@@ -71,7 +71,9 @@
         "session_intention": "Planned a solid, controlled workout rather than pushing extremely hard",
         "notable_interval": "Track six included approximately three-minute sprint, unexpectedly very hard and substantially outside comfort zone",
         "overall_perceived_effort": "Solid controlled effort for most of session, with one exceptionally hard sprint",
-        "user_follow_up": "It was really solid. Had a substantial effort in the sixth track, like a three-minute sprint, and that was really, really hard. I wasn't expecting that; mindset was to do a nice solid session but not push too hard. It pushed me into a really uncomfortable position."
+        "user_follow_up": "It was really solid. Had a substantial effort in the sixth track, like a three-minute sprint, and that was really, really hard. I wasn't expecting that; mindset was to do a nice solid session but not push too hard. It pushed me into a really uncomfortable position.",
+        "power_intention": "Aim for approximately 200 W average as a repeatable standard for solid RPM sessions going forward; not a mandatory minimum or maximum-effort target",
+        "target_average_power_w": 200
       }
     }
   ],
