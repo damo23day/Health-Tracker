@@ -76,12 +76,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Weight not measured; estimated large banana, about 150 g edible portion."
+      },
+      {
+        "type": "drink",
+        "meal": "afternoon snack",
+        "name": "Protein coffee",
+        "quantity": "1 serving (brand and size unconfirmed)",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Interpreted voice transcription 'pruning protein coffee' as protein coffee. Using previously logged protein coffee estimate of 210 kcal and 29 g protein; confirm brand/serving if different."
       }
     ],
-    "total_calories_kcal": 1279,
-    "total_protein_g": 93.4,
-    "total_carbs_g": 137.5,
-    "total_fat_g": 41.5,
+    "total_calories_kcal": 1489,
+    "total_protein_g": 122.4,
+    "total_carbs_g": null,
+    "total_fat_g": null,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -92,7 +107,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 871,
-    "protein_variance_g": 56.6
+    "calorie_variance_kcal": 661,
+    "protein_variance_g": 27.6
   }
 }
