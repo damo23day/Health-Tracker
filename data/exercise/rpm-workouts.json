@@ -230,7 +230,11 @@
       "post_workout_feedback": {
         "effort": "Strong steady solid effort, not deliberately maximal",
         "resistance_strategy": "Increased resistance at both the high end of hard efforts and the low end of recovery; does not back off as much as previously",
-        "user_feedback": "I didn't try to push really hard this one, just tried to keep pretty steady solid, a really good solid effort. I did up the top end resistance and for recovery I don't back off as far as I used to; increased resistance at bottom and top end of efforts."
+        "user_feedback": "I didn't try to push really hard this one, just tried to keep pretty steady solid, a really good solid effort. I did up the top end resistance and for recovery I don't back off as far as I used to; increased resistance at bottom and top end of efforts.",
+        "session_intention": "Planned a solid, controlled workout rather than pushing extremely hard",
+        "notable_interval": "Track six included approximately three-minute sprint, unexpectedly very hard and substantially outside comfort zone",
+        "overall_perceived_effort": "Solid controlled effort for most of session, with one exceptionally hard sprint",
+        "user_follow_up": "It was really solid. Had a substantial effort in the sixth track, like a three-minute sprint, and that was really, really hard. I wasn't expecting that; mindset was to do a nice solid session but not push too hard. It pushed me into a really uncomfortable position."
       }
     }
   ]
