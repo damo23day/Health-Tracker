@@ -43,7 +43,34 @@
     "water_ml": 0,
     "hydration_entries": []
   },
-  "exercise": [],
+  "exercise": [
+    {
+      "date": "2026-10-27",
+      "workout_type": "Group Cycle / RPM",
+      "instructor": "Lolita",
+      "duration": "43:06",
+      "distance_km": 21,
+      "calories_reported": 607,
+      "moves": 1099,
+      "average_power_w": 210,
+      "max_power_w": 410,
+      "average_cadence_rpm": 77,
+      "source": "Group Cycle Connect and Samsung Health / Galaxy Watch3 screenshots",
+      "heart_rate": {
+        "source": "Samsung Health / Galaxy Watch3",
+        "duration": "43:11",
+        "calories_reported": 468,
+        "average_bpm": 151,
+        "max_bpm": 174
+      },
+      "notes": "Steady, solid RPM session. Bike 43:06, 21 km, 607 kcal, 1099 MOVEs, 210 W avg, 410 W max, 77 rpm cadence. Watch 43:11, 468 kcal, HR 151 avg/174 max; some missing HR data shown. Calorie estimates are alternative device readings, not additive.",
+      "post_workout_feedback": {
+        "effort": "Strong steady solid effort, not deliberately maximal",
+        "resistance_strategy": "Increased resistance at both the high end of hard efforts and the low end of recovery; does not back off as much as previously",
+        "user_feedback": "I didn't try to push really hard this one, just tried to keep pretty steady solid, a really good solid effort. I did up the top end resistance and for recovery I don't back off as far as I used to; increased resistance at bottom and top end of efforts."
+      }
+    }
+  ],
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
