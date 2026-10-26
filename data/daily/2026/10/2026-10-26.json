@@ -31,12 +31,42 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Large cappuccino; estimated with full-cream milk, no added sugar. Size and exact milk volume unknown."
+      },
+      {
+        "type": "drink",
+        "meal": "lunch",
+        "name": "The Man Shake",
+        "quantity": "1 serving, assumed mixed with water",
+        "calories_kcal": 205,
+        "protein_g": 30,
+        "carbs_g": 12,
+        "fat_g": 4,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Product flavour and serving size unconfirmed; assumed standard Man Shake prepared with water. Consumed approximately one hour before eggs on toast."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Eggs on toast with hummus and tomato",
+        "quantity": "Two pieces toast with hummus combined 105 g; eggs 95 g; tomato 75 g",
+        "calories_kcal": 414,
+        "protein_g": 21.7,
+        "carbs_g": 37,
+        "fat_g": 19,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Interpreted user's 105 g as toast plus hummus combined. Estimated 265 kcal/9g protein for toast with hummus, 135 kcal/12g for eggs, 14 kcal/0.7g for tomato. No butter or oil assumed; clarify weights if needed."
       }
     ],
-    "total_calories_kcal": 525,
-    "total_protein_g": 40,
-    "total_carbs_g": 54,
-    "total_fat_g": 18,
+    "total_calories_kcal": 1144,
+    "total_protein_g": 91.7,
+    "total_carbs_g": 103,
+    "total_fat_g": 41,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -47,7 +77,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1625,
-    "protein_variance_g": 110
+    "calorie_variance_kcal": 1006,
+    "protein_variance_g": 58.3
   }
 }
