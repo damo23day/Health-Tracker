@@ -61,12 +61,27 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Interpreted user's 105 g as toast plus hummus combined. Estimated 265 kcal/9g protein for toast with hummus, 135 kcal/12g for eggs, 14 kcal/0.7g for tomato. No butter or oil assumed; clarify weights if needed."
+      },
+      {
+        "type": "food",
+        "meal": "afternoon snack",
+        "name": "Large banana",
+        "quantity": "1 large banana (estimated 150 g edible portion)",
+        "calories_kcal": 135,
+        "protein_g": 1.7,
+        "carbs_g": 34.5,
+        "fat_g": 0.5,
+        "fiber_g": 3.9,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Weight not measured; estimated large banana, about 150 g edible portion."
       }
     ],
-    "total_calories_kcal": 1144,
-    "total_protein_g": 91.7,
-    "total_carbs_g": 103,
-    "total_fat_g": 41,
+    "total_calories_kcal": 1279,
+    "total_protein_g": 93.4,
+    "total_carbs_g": 137.5,
+    "total_fat_g": 41.5,
     "total_fiber_g": null,
     "total_sugar_g": null,
     "total_added_sugar_g": null,
@@ -77,7 +92,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1006,
-    "protein_variance_g": 58.3
+    "calorie_variance_kcal": 871,
+    "protein_variance_g": 56.6
   }
 }
