@@ -91,10 +91,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Interpreted voice transcription 'pruning protein coffee' as protein coffee. Using previously logged protein coffee estimate of 210 kcal and 29 g protein; confirm brand/serving if different."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Lamb koftas, chilli halloumi and salad",
+        "quantity": "204 g Woolworths honey & mint lamb koftas, 45 g Coles chilli halloumi, 190 g mixed salad",
+        "calories_kcal": 756,
+        "protein_g": 45.1,
+        "carbs_g": 25.8,
+        "fat_g": 53.2,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Koftas nutrition label per 100g 276 kcal, 16.3g protein, 6.1g carbs, 20.9g fat; 204g = 563 kcal, 33.3g protein. Halloumi label per 100g 306 kcal, 21.8g protein, 5.3g carbs, 22.1g fat; 45g = 138 kcal, 9.8g protein. Salad 190g estimated 55 kcal, 2g protein, 11g carbs, 1g fat, no substantial dressing/oil assumed. User said 'for two' meaning meal for two; quantities assumed individual portion, confirm if shared weights."
       }
     ],
-    "total_calories_kcal": 1489,
-    "total_protein_g": 122.4,
+    "total_calories_kcal": 2245,
+    "total_protein_g": 167.5,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -107,7 +122,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 661,
-    "protein_variance_g": 27.6
+    "calorie_variance_kcal": -95,
+    "protein_variance_g": -17.5
   }
 }
