@@ -3,3 +3,4 @@ date,steps,active_minutes,activity_calories_kcal,total_burned_kcal,distance_km,r
 2026-10-20,10979,137,1056,2823,8.25,,final,"Samsung Health screenshot",10000,true
 2026-10-21,11249,198,1298,2982,6.15,,final,"Samsung Health screenshot",10000,true
 2026-10-22,12464,111,805,1602,10.04,11:45,partial,"Walking treadmill; 42:46/4.27km and 30:02/3.41km auto-detected; verify distances",10000,true
+2026-10-28,4691,38,222,969,3.82,09:48,partial,"Samsung Health morning snapshot; treadmill session 30:32 at 2.0 km/h, 1.0 km, treadmill estimate 114 kcal; daily steps not session steps",10000,false
