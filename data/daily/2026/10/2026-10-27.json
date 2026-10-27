@@ -31,10 +31,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Usual protein coffee estimate from previous daily records."
+      },
+      {
+        "type": "meal",
+        "meal": "breakfast",
+        "name": "Post-RPM eggs on toast with hummus and tomato",
+        "quantity": "2 eggs 65 g each (130 g total, shell weight assumed), 71 g bread (2 slices), 27 g hummus (98 g bread+hummus minus 71 g bread), 72 g tomato",
+        "calories_kcal": 423,
+        "protein_g": 22.6,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Egg weights assumed shell-on; no butter or cooking oil assumed. RPM session mentioned but workout metrics not provided, so not logged as exercise."
       }
     ],
-    "total_calories_kcal": 275,
-    "total_protein_g": 32.5,
+    "total_calories_kcal": 698,
+    "total_protein_g": 55.1,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -80,7 +95,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1875,
-    "protein_variance_g": 117.5
+    "calorie_variance_kcal": 1452,
+    "protein_variance_g": 94.9
   }
 }
