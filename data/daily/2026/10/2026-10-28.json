@@ -31,10 +31,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "User clarified 124 g is cooked boiled egg weight without shells. No butter or cooking oil assumed. Estimated using 155 kcal and 12.6 g protein per 100 g boiled egg."
+      },
+      {
+        "type": "drink",
+        "meal": "snack",
+        "name": "Berry milk smoothie with vanilla protein",
+        "quantity": "369 g consumed (589 g jug + smoothie minus 220 g empty jug), including 1 scoop vanilla protein powder",
+        "calories_kcal": 270,
+        "protein_g": 32,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Leftover berry-and-milk smoothie prepared for Luca, with one scoop vanilla protein added. Berry/milk proportions and protein brand unknown; 30 g scoop assumed. Nutrition is approximate."
       }
     ],
-    "total_calories_kcal": 584,
-    "total_protein_g": 36.7,
+    "total_calories_kcal": 854,
+    "total_protein_g": 68.7,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -47,7 +62,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1566,
-    "protein_variance_g": 113.3
+    "calorie_variance_kcal": 1296,
+    "protein_variance_g": 81.3
   }
 }
