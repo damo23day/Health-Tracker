@@ -85,3 +85,6 @@ Each actual cook gets a numbered session in `logs/<recipe-id>.md`, recording ing
 
 ## Must try — Matt West F*CK or SUCK series
 - [Chickpea Chocolate Chip Cookies](dessert/matt-west-chickpea-chocolate-chip-cookies.md) — makes 8; ~195 kcal / ~5 g protein each (provisional). Screenshot recipe; **baking temperature and time still need checking from the original video**. Not yet cooked or rated.
+
+## Must try — Lunch
+- [Chicken Waffle Caesar Sandwich](lunch/chicken-waffle-caesar-sandwich.md) — **Healthylifestyle** Facebook recipe; makes 2 sandwiches, author claims ~340 kcal and 43 g protein each (unverified). Chicken, egg and cheese cooked as waffles, filled with cottage cheese, lettuce, tomato and Caesar dressing. **Not yet tested**.
