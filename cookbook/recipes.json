@@ -952,6 +952,62 @@
       "history_path": null,
       "last_cooked_at": null,
       "cook_count": 0
+    },
+    {
+      "id": "matt-west-chickpea-chocolate-chip-cookies",
+      "name": "Matt West Chickpea Chocolate Chip Cookies",
+      "category": [
+        "dessert",
+        "snack"
+      ],
+      "path": "dessert/matt-west-chickpea-chocolate-chip-cookies.md",
+      "servings": 8,
+      "total_minutes": null,
+      "active_minutes": 10,
+      "difficulty": 2,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "cooked chickpeas",
+        "peanut butter",
+        "honey",
+        "vanilla extract",
+        "baking powder",
+        "dark chocolate chips"
+      ],
+      "optional_ingredients": [],
+      "substitutions": [],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 195,
+        "protein_g": 5,
+        "estimated": true,
+        "note": "Provisional per cookie; baking time not available from screenshot."
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "must_try": true,
+      "source_creator": "Matt West",
+      "source_series": "F*CK or SUCK",
+      "requires_prep": [
+        "Baking temperature and duration must be confirmed from source video"
+      ],
+      "notes": "Screenshot-sourced ingredients and first three steps; bake temperature/time not visible. Makes 8 cookies. Must try.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     }
   ]
 }
