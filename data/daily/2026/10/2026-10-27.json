@@ -91,10 +91,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Lasagne estimated as typical beef and cheese lasagne (370 kcal, 20 g protein for 218 g). Salad estimated 20 kcal and 1 g protein, no dressing assumed. Recipe and preparation unspecified."
+      },
+      {
+        "type": "food",
+        "meal": "dinner",
+        "name": "Garlic bread",
+        "quantity": "40 g",
+        "calories_kcal": 140,
+        "protein_g": 3,
+        "carbs_g": 17,
+        "fat_g": 7,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Estimated typical buttered garlic bread; brand or recipe not provided."
       }
     ],
-    "total_calories_kcal": 1803,
-    "total_protein_g": 113.4,
+    "total_calories_kcal": 1943,
+    "total_protein_g": 116.4,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -140,7 +155,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 347,
-    "protein_variance_g": 36.6
+    "calorie_variance_kcal": 207,
+    "protein_variance_g": 33.6
   }
 }
