@@ -1008,6 +1008,71 @@
       "history_path": null,
       "last_cooked_at": null,
       "cook_count": 0
+    },
+    {
+      "id": "chicken-waffle-caesar-sandwich",
+      "name": "Chicken Waffle Caesar Sandwich",
+      "category": [
+        "lunch",
+        "dinner"
+      ],
+      "path": "lunch/chicken-waffle-caesar-sandwich.md",
+      "servings": 2,
+      "total_minutes": 30,
+      "active_minutes": 15,
+      "difficulty": 2,
+      "ingredient_hassle": 2,
+      "essential_ingredients": [
+        "cooked chicken",
+        "egg",
+        "shredded cheese",
+        "cottage cheese",
+        "lettuce",
+        "tomato",
+        "caesar dressing"
+      ],
+      "optional_ingredients": [
+        "salt",
+        "black pepper"
+      ],
+      "substitutions": [
+        {
+          "from": "cottage cheese",
+          "to": "spread of choice",
+          "note": "Nutrition and flavour change"
+        }
+      ],
+      "quick_version": null,
+      "nutrition": {
+        "calories_kcal": 340,
+        "protein_g": 43,
+        "estimated": true,
+        "note": "Unverified source claim per sandwich; dressing and chicken weights unspecified."
+      },
+      "taste_rating": null,
+      "status": "to_try",
+      "must_try": true,
+      "source_creator": "Healthylifestyle",
+      "requires_prep": [
+        "Cooked shredded chicken required; time estimate assumes chicken already cooked"
+      ],
+      "notes": "User-supplied Facebook screenshots. Makes 2 sandwiches; uses chicken-egg-cheese waffles as bread. Total 30 min is provisional.",
+      "review": {
+        "flavour_stars": null,
+        "ease_stars": null,
+        "fullness_stars": null,
+        "make_again_stars": null,
+        "actual_total_minutes": null,
+        "review_notes": null,
+        "reviewed_at": null,
+        "overall_stars": null,
+        "review_count": 0
+      },
+      "current_version": "v1",
+      "current_version_status": "proposed",
+      "history_path": null,
+      "last_cooked_at": null,
+      "cook_count": 0
     }
   ]
 }
