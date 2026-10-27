@@ -106,10 +106,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Estimated typical buttered garlic bread; brand or recipe not provided."
+      },
+      {
+        "type": "drink",
+        "meal": "afternoon snack",
+        "name": "Afternoon protein coffee",
+        "quantity": "1 usual protein coffee",
+        "calories_kcal": 210,
+        "protein_g": 29,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Usual protein coffee estimate; user confirmed an additional afternoon serving."
       }
     ],
-    "total_calories_kcal": 1943,
-    "total_protein_g": 116.4,
+    "total_calories_kcal": 2153,
+    "total_protein_g": 145.4,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -155,7 +170,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 207,
-    "protein_variance_g": 33.6
+    "calorie_variance_kcal": -3,
+    "protein_variance_g": 4.6
   }
 }
