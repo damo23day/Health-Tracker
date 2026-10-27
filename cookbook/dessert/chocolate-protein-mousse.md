@@ -1,6 +1,6 @@
 # Chocolate Protein Mousse
 
-**ID:** chocolate-protein-mousse | **Category:** Dessert / Snack | **Status:** To try | **Servings:** 1
+**ID:** chocolate-protein-mousse | **Category:** Dessert / Snack | **Status:** Tried (27 October 2026) | **Servings:** 1
 
 ## Convenience rating
 - **Total / active time:** 5 / 5 minutes
@@ -37,3 +37,10 @@ Concept suggested in chat; no separate original source recipe.
 
 ## Notes
 Whey can thicken yoghurt considerably. Add liquid gradually.
+
+## Cooking history — 27 October 2026 (Session 001)
+- **Actual ingredients:** Approximately 100 g Lyttos Greek Style Light Natural Yoghurt, 25 g chocolate protein powder, 10 ml unsweetened barista oat milk, and about 4 g honey; no cocoa powder. Final portion reported: 135 g.
+- **Nutrition logged:** Approximately 185 kcal and 25 g protein (estimated).
+- **Feedback:** Light Greek-style yoghurt tasted noticeably sour/tangy, even with chocolate protein. Honey improved the flavour.
+- **Important — next time:** **DO NOT use Lyttos Greek Style Light Natural Yoghurt or similarly sour light Greek yoghurt for this chocolate mousse.** Choose a milder, less tangy yoghurt instead (e.g. mild vanilla high-protein yoghurt, with label-adjusted nutrition). Keep approximately 4 g honey optional; taste before adding. Start with less yoghurt if necessary, and add oat milk only if too thick.
+- **Next version:** Proposed substitution only; a milder yoghurt has not yet been tested. Do not present the sour light Greek yoghurt as the recommended ingredient.
