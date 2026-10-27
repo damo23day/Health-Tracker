@@ -61,10 +61,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Confirmed by weighing: full glass container 911g, with koftas removed 731g, empty 622g. Koftas+sauce 180g; salad+halloumi 109g. Estimated 480 kcal/28g protein koftas+sauce and 130 kcal/8g salad+halloumi; exact sauce/halloumi quantities unknown. Leftovers from Oct 26 meal."
+      },
+      {
+        "type": "food",
+        "meal": "afternoon snack",
+        "name": "Banana",
+        "quantity": "1 medium banana (estimated 118 g edible portion)",
+        "calories_kcal": 105,
+        "protein_g": 1.3,
+        "carbs_g": 27,
+        "fat_g": 0.4,
+        "fiber_g": 3.1,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Banana size not specified; assumed medium. Adjust if large or weighed."
       }
     ],
-    "total_calories_kcal": 1308,
-    "total_protein_g": 91.1,
+    "total_calories_kcal": 1413,
+    "total_protein_g": 92.4,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -110,7 +125,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 842,
-    "protein_variance_g": 58.9
+    "calorie_variance_kcal": 737,
+    "protein_variance_g": 57.6
   }
 }
