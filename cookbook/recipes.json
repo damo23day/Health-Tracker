@@ -239,30 +239,31 @@
         "description": "Standard quick recipe; see Markdown for substitutions"
       },
       "nutrition": {
-        "calories_kcal": 240,
-        "protein_g": 35,
-        "estimated": true
+        "calories_kcal": 185,
+        "protein_g": 25,
+        "estimated": true,
+        "note": "Logged session 001 estimate for 135g portion; ingredients and brand may vary."
       },
       "taste_rating": null,
-      "status": "to_try",
+      "status": "tried",
       "requires_prep": [],
-      "notes": "Untested suggested dessert; estimates vary with ingredients.",
+      "notes": "Tested 27 Oct 2026: Lyttos Light Greek Style yoghurt was too sour/tangy for chocolate mousse. DO NOT use light Greek yoghurt next time. ~4g honey improved flavour. Use milder yoghurt; proposed change untested. See recipe cooking history.",
       "review": {
         "flavour_stars": null,
         "ease_stars": null,
         "fullness_stars": null,
         "make_again_stars": null,
         "actual_total_minutes": null,
-        "review_notes": null,
-        "reviewed_at": null,
+        "review_notes": "Session 001: 135g mousse made with ~100g Lyttos Light Greek Style yoghurt, 25g chocolate protein, ~10ml oat milk, ~4g honey; no cocoa. Sour yoghurt flavour noticeable, improved with honey. Avoid sour light Greek yoghurt in future.",
+        "reviewed_at": "2026-10-27",
         "overall_stars": null,
-        "review_count": 0
+        "review_count": 1
       },
       "current_version": "v1",
-      "current_version_status": "proposed",
+      "current_version_status": "tested",
       "history_path": null,
-      "last_cooked_at": null,
-      "cook_count": 0
+      "last_cooked_at": "2026-10-27",
+      "cook_count": 1
     },
     {
       "id": "warm-cinnamon-apple-yoghurt",
