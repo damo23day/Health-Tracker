@@ -82,3 +82,6 @@ Each actual cook gets a numbered session in `logs/<recipe-id>.md`, recording ing
 - [Sweet Potato Waffles — current v2 (proposed)](breakfast/sweet-potato-avocado-egg-waffles.md) · [Session 001 and feedback](logs/sweet-potato-avocado-egg-waffles.md)
 
 - [Homemade High-Protein Vanilla Bean Custard](dessert/high-protein-vanilla-bean-custard.md) — 2 servings; ~150 kcal and ~22 g protein each (provisional); 10–15 min hands-on plus chilling; **to try**.
+
+## Must try — Matt West F*CK or SUCK series
+- [Chickpea Chocolate Chip Cookies](dessert/matt-west-chickpea-chocolate-chip-cookies.md) — makes 8; ~195 kcal / ~5 g protein each (provisional). Screenshot recipe; **baking temperature and time still need checking from the original video**. Not yet cooked or rated.
