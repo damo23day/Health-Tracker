@@ -21,20 +21,20 @@
         "type": "meal",
         "meal": "breakfast",
         "name": "Eggs on toast with hummus and tomato",
-        "quantity": "2 slices toast 72 g, hummus 24 g, 2 eggs 124 g (assumed shell-on), tomato 63 g",
-        "calories_kcal": 412,
-        "protein_g": 22.1,
+        "quantity": "2 slices toast 72 g, hummus 24 g, 2 boiled eggs 124 g (cooked, without shells), tomato 63 g",
+        "calories_kcal": 449,
+        "protein_g": 24.7,
         "carbs_g": null,
         "fat_g": null,
         "fiber_g": null,
         "sugar_g": null,
         "added_sugar_g": null,
         "estimated": true,
-        "notes": "Hummer interpreted as hummus. Egg weight assumed shell-on; no butter or cooking oil assumed. Estimated from standard foods."
+        "notes": "User clarified 124 g is cooked boiled egg weight without shells. No butter or cooking oil assumed. Estimated using 155 kcal and 12.6 g protein per 100 g boiled egg."
       }
     ],
-    "total_calories_kcal": 547,
-    "total_protein_g": 34.1,
+    "total_calories_kcal": 584,
+    "total_protein_g": 36.7,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -47,7 +47,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1603,
-    "protein_variance_g": 115.9
+    "calorie_variance_kcal": 1566,
+    "protein_variance_g": 113.3
   }
 }
