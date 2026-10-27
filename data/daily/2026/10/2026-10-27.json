@@ -136,10 +136,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Second piece confirmed; estimated proportionally from first 40 g garlic bread entry (140 kcal, 3 g protein)."
+      },
+      {
+        "type": "food",
+        "meal": "dessert",
+        "name": "Chocolate protein mousse",
+        "quantity": "135 g finished portion; prepared with approximately 100 g Lyttos Greek Style Light yoghurt, 25 g chocolate protein powder, up to 10 ml unsweetened oat milk and 4 g honey; no cocoa powder",
+        "calories_kcal": 185,
+        "protein_g": 25,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Ingredient quantities based on discussed recipe, not independently weighed. User reported 135 g mousse. Greek-style yoghurt tasted sour; approximately half teaspoon honey improved flavour. Next time consider less yoghurt and a little honey; no cocoa powder used."
       }
     ],
-    "total_calories_kcal": 2265,
-    "total_protein_g": 147.8,
+    "total_calories_kcal": 2450,
+    "total_protein_g": 172.8,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -185,7 +200,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": -115,
-    "protein_variance_g": 2.2
+    "calorie_variance_kcal": -300,
+    "protein_variance_g": -22.8
   }
 }
