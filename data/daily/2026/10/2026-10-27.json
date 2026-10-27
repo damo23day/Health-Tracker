@@ -76,10 +76,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Banana size not specified; assumed medium. Adjust if large or weighed."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Beef lasagne and salad",
+        "quantity": "218 g lasagne, 64 g salad (282 g total)",
+        "calories_kcal": 390,
+        "protein_g": 21,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Lasagne estimated as typical beef and cheese lasagne (370 kcal, 20 g protein for 218 g). Salad estimated 20 kcal and 1 g protein, no dressing assumed. Recipe and preparation unspecified."
       }
     ],
-    "total_calories_kcal": 1413,
-    "total_protein_g": 92.4,
+    "total_calories_kcal": 1803,
+    "total_protein_g": 113.4,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -125,7 +140,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 737,
-    "protein_variance_g": 57.6
+    "calorie_variance_kcal": 347,
+    "protein_variance_g": 36.6
   }
 }
