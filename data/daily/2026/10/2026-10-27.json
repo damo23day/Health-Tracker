@@ -121,10 +121,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Usual protein coffee estimate; user confirmed an additional afternoon serving."
+      },
+      {
+        "type": "food",
+        "meal": "dinner",
+        "name": "Additional garlic bread",
+        "quantity": "32 g (second piece; 72 g garlic bread total with first 40 g piece)",
+        "calories_kcal": 112,
+        "protein_g": 2.4,
+        "carbs_g": 13.6,
+        "fat_g": 5.6,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Second piece confirmed; estimated proportionally from first 40 g garlic bread entry (140 kcal, 3 g protein)."
       }
     ],
-    "total_calories_kcal": 2153,
-    "total_protein_g": 145.4,
+    "total_calories_kcal": 2265,
+    "total_protein_g": 147.8,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -170,7 +185,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": -3,
-    "protein_variance_g": 4.6
+    "calorie_variance_kcal": -115,
+    "protein_variance_g": 2.2
   }
 }
