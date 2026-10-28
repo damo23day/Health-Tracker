@@ -76,10 +76,40 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Estimated medium kiwi fruit; no weight supplied."
+      },
+      {
+        "type": "meal",
+        "meal": "early dinner",
+        "name": "Chicken salad cheese avocado wrap with light mayo",
+        "quantity": "1 large tortilla (estimated), 73 g chicken, 27 g avocado, 78 g tomato, 40 g baby leaf salad, 30 g tasty shredded cheese, 15 g Praise Whole Egg Light Mayo",
+        "calories_kcal": 555,
+        "protein_g": 37,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Ingredients and weights specified by user. Wrap brand/weight and chicken preparation unspecified. Assumed whole assembled wrap consumed; confirm if not."
+      },
+      {
+        "type": "meal",
+        "meal": "dinner",
+        "name": "Sausages with potato and mixed vegetables",
+        "quantity": "126 g sausages, 36 g broccoli peas and carrots, 195 g potato",
+        "calories_kcal": 530,
+        "protein_g": 22,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Assumed cooked weights, standard beef sausages, plain cooked potato without added butter/oil. Sausage type and potato preparation unknown."
       }
     ],
-    "total_calories_kcal": 1287,
-    "total_protein_g": 103.7,
+    "total_calories_kcal": 2372,
+    "total_protein_g": 162.7,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -92,7 +122,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 863,
-    "protein_variance_g": 46.3
+    "calorie_variance_kcal": -222,
+    "protein_variance_g": -12.7
   }
 }
