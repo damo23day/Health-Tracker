@@ -46,10 +46,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "Leftover berry-and-milk smoothie prepared for Luca, with one scoop vanilla protein added. Berry/milk proportions and protein brand unknown; 30 g scoop assumed. Nutrition is approximate."
+      },
+      {
+        "type": "drink",
+        "meal": "lunch",
+        "name": "Banana oat yoghurt vanilla protein smoothie (third smoothie)",
+        "quantity": "100 g frozen banana, 60 g Lyttos Light Greek Style yoghurt, 70 ml full-cream milk, 25 g oats, 1 scoop vanilla protein (assumed 30 g), ice and water; full batch assumed consumed",
+        "calories_kcal": 388,
+        "protein_g": 34.2,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "User confirmed separate third smoothie today, distinct from 150 g banana smoothie and 369 g berry smoothie already logged. Full batch assumed consumed; protein scoop assumed 30 g. Ingredient macros approximate."
       }
     ],
-    "total_calories_kcal": 854,
-    "total_protein_g": 68.7,
+    "total_calories_kcal": 1242,
+    "total_protein_g": 102.9,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -62,7 +77,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1296,
-    "protein_variance_g": 81.3
+    "calorie_variance_kcal": 908,
+    "protein_variance_g": 47.1
   }
 }
