@@ -61,10 +61,25 @@
         "added_sugar_g": null,
         "estimated": true,
         "notes": "User confirmed separate third smoothie today, distinct from 150 g banana smoothie and 369 g berry smoothie already logged. Full batch assumed consumed; protein scoop assumed 30 g. Ingredient macros approximate."
+      },
+      {
+        "type": "food",
+        "meal": "snack",
+        "name": "Kiwi fruit (medium)",
+        "quantity": "1 medium fruit",
+        "calories_kcal": 45,
+        "protein_g": 0.8,
+        "carbs_g": null,
+        "fat_g": null,
+        "fiber_g": null,
+        "sugar_g": null,
+        "added_sugar_g": null,
+        "estimated": true,
+        "notes": "Estimated medium kiwi fruit; no weight supplied."
       }
     ],
-    "total_calories_kcal": 1242,
-    "total_protein_g": 102.9,
+    "total_calories_kcal": 1287,
+    "total_protein_g": 103.7,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -77,7 +92,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 908,
-    "protein_variance_g": 47.1
+    "calorie_variance_kcal": 863,
+    "protein_variance_g": 46.3
   }
 }
