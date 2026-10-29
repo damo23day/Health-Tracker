@@ -213,7 +213,7 @@
     },
     {
       "id": "chocolate-protein-mousse",
-      "name": "Chocolate Protein Mousse",
+      "name": "Chocolate Peanut Butter Protein Mousse",
       "category": [
         "dessert",
         "snack"
@@ -225,45 +225,45 @@
       "difficulty": 1,
       "ingredient_hassle": 1,
       "essential_ingredients": [
-        "plain greek yoghurt",
-        "chocolate whey protein"
-      ],
-      "optional_ingredients": [
+        "light greek yoghurt",
+        "chocolate whey protein",
+        "peanut butter",
         "cocoa powder",
-        "milk",
-        "berries"
+        "honey",
+        "milk"
       ],
+      "optional_ingredients": [],
       "substitutions": [],
       "quick_version": {
         "total_minutes": 5,
         "description": "Standard quick recipe; see Markdown for substitutions"
       },
       "nutrition": {
-        "calories_kcal": 185,
-        "protein_g": 25,
+        "calories_kcal": 225,
+        "protein_g": 19,
         "estimated": true,
-        "note": "Logged session 001 estimate for 135g portion; ingredients and brand may vary."
+        "note": "Session 002 estimated using 80g light Greek yoghurt, 10g chocolate whey, 17mL milk, 10g peanut butter, 10g cocoa, 5g honey."
       },
       "taste_rating": null,
-      "status": "tried",
+      "status": "favourite",
       "requires_prep": [],
-      "notes": "Tested 27 Oct 2026: Lyttos Light Greek Style yoghurt was too sour/tangy for chocolate mousse. DO NOT use light Greek yoghurt next time. ~4g honey improved flavour. Use milder yoghurt; proposed change untested. See recipe cooking history.",
+      "notes": "FAVOURITE: Session 002 (29 Oct) user said very good and wants to make again. Current preferred recipe uses 80g Lyttos light Greek yoghurt, 10g chocolate whey, 17mL milk, 10g peanut butter, 10g cocoa, 5g honey. Original sour/tangy Session 001 preserved in Markdown. No star rating given.",
       "review": {
         "flavour_stars": null,
         "ease_stars": null,
         "fullness_stars": null,
         "make_again_stars": null,
         "actual_total_minutes": null,
-        "review_notes": "Session 001: 135g mousse made with ~100g Lyttos Light Greek Style yoghurt, 25g chocolate protein, ~10ml oat milk, ~4g honey; no cocoa. Sour yoghurt flavour noticeable, improved with honey. Avoid sour light Greek yoghurt in future.",
-        "reviewed_at": "2026-10-27",
+        "review_notes": "Session 001 (27 Oct): yoghurt tang too strong in earlier recipe. Session 002 (29 Oct): revised peanut butter/cocoa/honey version very good; user requested favourite/make again. No numerical stars.",
+        "reviewed_at": "2026-10-29",
         "overall_stars": null,
-        "review_count": 1
+        "review_count": 2
       },
-      "current_version": "v1",
+      "current_version": "v2",
       "current_version_status": "tested",
       "history_path": null,
-      "last_cooked_at": "2026-10-27",
-      "cook_count": 1
+      "last_cooked_at": "2026-10-29",
+      "cook_count": 2
     },
     {
       "id": "warm-cinnamon-apple-yoghurt",
