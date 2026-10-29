@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-29",
+  "nutrition": {
+    "entries": [
+      {
+        "type": "drink",
+        "meal": "breakfast",
+        "name": "Standard home coffee",
+        "quantity": "1 cup",
+        "calories_kcal": 65,
+        "protein_g": 3,
+        "estimated": true,
+        "notes": "Standard home coffee estimate; exact milk volume not confirmed."
+      },
+      {
+        "type": "drink",
+        "meal": "breakfast",
+        "name": "Banana oat vanilla protein shake",
+        "quantity": "100 g banana, 15 g oats, 150 mL milk, 1 scoop vanilla protein, ice and water",
+        "calories_kcal": 340,
+        "protein_g": 34,
+        "estimated": true,
+        "notes": "Assumed full cream milk and 30 g vanilla protein scoop; exact product labels not verified."
+      },
+      {
+        "type": "food",
+        "meal": "breakfast",
+        "name": "Homemade chocolate protein mousse",
+        "quantity": "60 g",
+        "calories_kcal": 82,
+        "protein_g": 11,
+        "estimated": true,
+        "notes": "Proportioned from previously estimated 135 g mousse serving 185 kcal and 25 g protein. Made with chocolate whey, Lyttos Light Greek Style yoghurt, cocoa, unsweetened oat milk and ~4 g honey."
+      },
+      {
+        "type": "meal",
+        "meal": "lunch",
+        "name": "Cajun chicken cheese waffles with avocado and salad",
+        "quantity": "143 g raw chicken thigh, 50 g whole egg, 40 g tasty cheese, 17 g avocado, 41 g tomato, 22 g mixed lettuce, Cajun seasoning and Mexican seasoning, vegetable oil (unmeasured)",
+        "calories_kcal": 490,
+        "protein_g": 40,
+        "estimated": true,
+        "notes": "No Caesar dressing or cottage cheese. Assumes 5 mL vegetable oil; actual oil quantity not measured. First cooking test: delicious but waffles did not hold together; chicken slightly dry."
+      }
+    ],
+    "total_calories_kcal": 977,
+    "total_protein_g": 88,
+    "total_carbs_g": null,
+    "total_fat_g": null,
+    "total_fiber_g": null,
+    "total_sugar_g": null,
+    "total_added_sugar_g": null,
+    "water_ml": 0,
+    "hydration_entries": []
+  },
+  "exercise": [],
+  "daily_summary": {
+    "calorie_target_kcal": 2150,
+    "protein_target_g": 150,
+    "calorie_variance_kcal": 1173,
+    "protein_variance_g": 62
+  }
+}
