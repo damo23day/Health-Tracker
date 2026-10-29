@@ -41,10 +41,20 @@
         "protein_g": 40,
         "estimated": true,
         "notes": "No Caesar dressing or cottage cheese. Assumes 5 mL vegetable oil; actual oil quantity not measured. First cooking test: delicious but waffles did not hold together; chicken slightly dry."
+      },
+      {
+        "type": "drink",
+        "meal": "snack",
+        "name": "Banana peanut butter vanilla protein smoothie",
+        "quantity": "100 g banana, 17 g peanut butter, 1 scoop protein powder (assumed 30 g), 150 g milk, ice",
+        "calories_kcal": 400,
+        "protein_g": 35,
+        "estimated": true,
+        "notes": "Assumed full-cream milk and standard 30 g vanilla protein scoop; exact brand and serving size not confirmed."
       }
     ],
-    "total_calories_kcal": 977,
-    "total_protein_g": 88,
+    "total_calories_kcal": 1377,
+    "total_protein_g": 123,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -57,7 +67,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 1173,
-    "protein_variance_g": 62
+    "calorie_variance_kcal": 773,
+    "protein_variance_g": 27
   }
 }
