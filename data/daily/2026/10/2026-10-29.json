@@ -55,16 +55,16 @@
       {
         "type": "meal",
         "meal": "dinner",
-        "name": "Chicken with mixed salad",
+        "name": "Chicken with vermicelli noodle salad",
         "quantity": "160 g chicken, 223 g salad",
-        "calories_kcal": 320,
-        "protein_g": 53,
+        "calories_kcal": 445,
+        "protein_g": 54,
         "estimated": true,
-        "notes": "Provisional estimate assuming 160 g cooked skinless chicken breast and plain mixed salad without dressing or cooking oil. Need confirmation of chicken type, raw/cooked weight and salad dressing."
+        "notes": "Provisional: salad includes rice vermicelli noodles and vegetables; ~180 kcal for 223 g assumed, with no substantial dressing. Chicken assumed 160 g cooked skinless breast (~265 kcal, 50 g protein). Confirm noodle proportion, dressing, chicken cut and whether weighed cooked/raw."
       }
     ],
-    "total_calories_kcal": 1697,
-    "total_protein_g": 176,
+    "total_calories_kcal": 1822,
+    "total_protein_g": 177,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -77,7 +77,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 453,
-    "protein_variance_g": -26
+    "calorie_variance_kcal": 328,
+    "protein_variance_g": -27
   }
 }
