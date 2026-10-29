@@ -1,12 +1,36 @@
+# Chocolate Protein Mousse — Favourite Peanut Butter Version (v2)
+
+**Status:** FAVOURITE / MAKE AGAIN. Tested and enjoyed 29 October 2026. The original mousse and first cooking session are preserved below.
+
+## Current favourite recipe — 1 serving
+- 80 g Lyttos Light Greek-style yoghurt
+- 10 g chocolate protein powder
+- 17 mL full-cream milk (assumed milk type)
+- 10 g peanut butter
+- 10 g unsweetened cocoa powder
+- 5 g honey
+
+1. Mix yoghurt, peanut butter, milk and honey until smooth.
+2. Stir in chocolate protein powder and cocoa until evenly combined.
+3. Refrigerate briefly if desired for a thicker, colder mousse.
+
+**Estimated nutrition:** ~225 kcal, ~19 g protein. Brand labels and milk type can change this estimate.
+
+**Session 002 — 29 October 2026:** Actual quantities above. User said recipe was **very good**, liked it enough to add to favourites / make-again collection. The chocolate, peanut butter and honey combination worked despite the previously noted yoghurt tang. No numerical rating, chilling time or detailed texture feedback supplied. This is the **tested preferred version**; don't substitute a milder yoghurt without noting it as a new test.
+
+---
+
+## Archived original recipe and Session 001
+
 # Chocolate Protein Mousse
 
-**ID:** chocolate-protein-mousse | **Category:** Dessert / Snack | **Status:** Tried (27 October 2026) | **Servings:** 1
+**ID:** chocolate-protein-mousse | **Category:** Dessert / Snack | **Status:** Favourite (29 October 2026 version) | **Servings:** 1
 
 ## Convenience rating
 - **Total / active time:** 5 / 5 minutes
 - **Difficulty:** 1/5
 - **Ingredient hassle:** 1/5
-- **Taste:** Not rated (untested)
+- **Taste:** Very good — user wants to make again (no numerical star rating)
 
 ## Health Tracker version
 ### Ingredients
