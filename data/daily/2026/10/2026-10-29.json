@@ -71,10 +71,20 @@
         "protein_g": 0,
         "estimated": true,
         "notes": "5.4% alcohol by volume confirmed. Beer size and brand unconfirmed; assumes 375 mL."
+      },
+      {
+        "type": "food",
+        "meal": "dessert",
+        "name": "Chocolate peanut butter protein mousse",
+        "quantity": "80 g light Greek-style yoghurt, 10 g chocolate protein powder, 17 mL milk, 10 g peanut butter, 10 g cocoa powder, 5 g honey",
+        "calories_kcal": 225,
+        "protein_g": 19,
+        "estimated": true,
+        "notes": "Actual ingredient quantities confirmed; assumed full-cream milk. Logged provisionally as full serving eaten, pending confirmation."
       }
     ],
-    "total_calories_kcal": 1987,
-    "total_protein_g": 177,
+    "total_calories_kcal": 2212,
+    "total_protein_g": 196,
     "total_carbs_g": null,
     "total_fat_g": null,
     "total_fiber_g": null,
@@ -87,7 +97,7 @@
   "daily_summary": {
     "calorie_target_kcal": 2150,
     "protein_target_g": 150,
-    "calorie_variance_kcal": 163,
-    "protein_variance_g": -27
+    "calorie_variance_kcal": -62,
+    "protein_variance_g": -46
   }
 }
