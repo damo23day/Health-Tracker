@@ -1,6 +1,6 @@
 # Chicken Waffle Caesar Sandwich
 
-**Status:** MUST TRY — not yet cooked | **Categories:** Lunch, Dinner | **Yield:** 2 sandwiches
+**Status:** Tested once — delicious flavour; waffle structure needs improvement | **Categories:** Lunch, Dinner | **Yield:** 2 sandwiches
 **Source:** Facebook video by **Healthylifestyle**, supplied as screenshots by user (28 October 2026). Exact video URL not supplied.
 
 ## Original ingredients (2 sandwiches)
@@ -27,3 +27,11 @@
 - For a lower-calorie option, try a measured light Caesar dressing, but first test original.
 - **Estimated time:** Not verified; allow ~20–30 min with chicken already cooked, longer if cooking chicken from raw.
 - **Post-cook review:** flavour, ease, fullness, make-again stars, actual minutes and improvements. No ratings yet.
+
+## Cooking Session 001 — 29 October 2026
+- **Actual raw ingredients:** 143 g skinless chicken thigh; 50 g whole egg; 40 g tasty cheese; MasterFoods Hot Cajun spice blend (unmeasured). Chicken pan-cooked before mixing and waffle cooking.
+- **Fillings:** 17 g avocado, 41 g tomato, 22 g mixed lettuce. Cottage cheese omitted. Caesar dressing and oil amounts not confirmed; Mexican seasoning sprinkled over finished waffles (unmeasured).
+- **Equipment and yield:** Stovetop double-sided waffle iron. This batch quantity fit the iron perfectly; more chicken would likely be too much.
+- **Feedback:** Delicious flavour, but waffle did not hold together as a sandwich and required knife and fork. Chicken a little dry, possibly from low iron heat and extended cooking. No numeric rating supplied.
+- **Proposed v2 — UNTESTED:** Retain 143 g raw chicken and 40 g cheese; trial ~25 g egg rather than 50 g; fully preheat iron and cook waffles hotter/shorter while ensuring egg sets; cook chicken safely to 75°C without excessive browning before waffle stage. Keep Cajun seasoning and optional Mexican finishing seasoning. Do not assume the egg quantity alone caused the failure.
+- **Nutrition:** Not final; dressing and oil amounts unconfirmed.
