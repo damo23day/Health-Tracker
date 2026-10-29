@@ -30,8 +30,8 @@
 
 ## Cooking Session 001 — 29 October 2026
 - **Actual raw ingredients:** 143 g skinless chicken thigh; 50 g whole egg; 40 g tasty cheese; MasterFoods Hot Cajun spice blend (unmeasured). Chicken pan-cooked before mixing and waffle cooking.
-- **Fillings:** 17 g avocado, 41 g tomato, 22 g mixed lettuce. Cottage cheese omitted. Caesar dressing and oil amounts not confirmed; Mexican seasoning sprinkled over finished waffles (unmeasured).
+- **Fillings:** 17 g avocado, 41 g tomato, 22 g mixed lettuce. Cottage cheese omitted. No Caesar dressing or cottage cheese used. Vegetable oil used for cooking (quantity unmeasured); Mexican seasoning sprinkled over finished waffles (unmeasured).
 - **Equipment and yield:** Stovetop double-sided waffle iron. This batch quantity fit the iron perfectly; more chicken would likely be too much.
 - **Feedback:** Delicious flavour, but waffle did not hold together as a sandwich and required knife and fork. Chicken a little dry, possibly from low iron heat and extended cooking. No numeric rating supplied.
 - **Proposed v2 — UNTESTED:** Retain 143 g raw chicken and 40 g cheese; trial ~25 g egg rather than 50 g; fully preheat iron and cook waffles hotter/shorter while ensuring egg sets; cook chicken safely to 75°C without excessive browning before waffle stage. Keep Cajun seasoning and optional Mexican finishing seasoning. Do not assume the egg quantity alone caused the failure.
-- **Nutrition:** Not final; dressing and oil amounts unconfirmed.
+- **Nutrition:** Approx. 450 kcal before oil (rough estimate); if 5 mL vegetable oil used, approx. 490 kcal and ~40 g protein. Oil quantity unmeasured, so total remains provisional.
